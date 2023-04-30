@@ -1,0 +1,105 @@
+#! /usr/bin/env python3
+# -*- coding: utf-8 -*-
+# vim:fenc=utf-8
+# Copyright © 2023 lennon
+#
+"""
+rss for Project syndicate
+"""
+import arrow
+import requests
+from bs4 import BeautifulSoup
+from mako.template import Template
+
+headers = {
+    "user-agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0"
+}
+
+RSS = Template(
+    """<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Project syndicate</title>
+  <link rel="alternate" type="text/html" href="https://github.com/c4droid/" />
+  <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/C4droid/syndicate/main/atom.xml"/>
+  <updated>2021-08-28T16:25:56+08:00</updated>
+  <id>https://github.com/c4droid/syndicate</id>
+  <author>
+     <name>linkong</name>
+     <uri>http://github.com/c4droid</uri>
+  </author>
+
+%for e in entries:
+  <entry>
+    <title>${e.title}</title>
+    <link href="${e.link}" />
+    <id>${e.link}</id>
+    <published>${e.ctime}</published>
+    <updated>${e.ctime}</updated>
+    <content type="html"><![CDATA[${e.summary}]]></content>
+    <summary type="html"><![CDATA[${e.summary}]]></summary>
+  </entry>
+%endfor
+</feed>
+"""
+)
+
+
+class Entry(object):
+    def __init__(self):
+        self.title = None
+        self.ctime = None
+        self.image = None
+        self.summary = None
+
+    def __str__(self):
+        return str(
+            (
+                self.ctime,
+                self.title,
+            )
+        )
+
+
+def proxy_img(soup):
+    for img in soup.select("img"):
+        img.attrs["src"] = "https://pic1.xuehuaimg.com/proxy/" + img.attrs["src"]
+        img.attrs["srcset"] = "https://pic1.xuehuaimg.com/proxy/" + img.attrs["srcset"]
+
+
+def main():
+    page_size = 30
+    print("before")
+    response = requests.get(
+        "https://www.project-syndicate.org/archive/filter",
+        headers=headers,
+        params={"skip": 0, "take": page_size, "_": arrow.now().int_timestamp * 1000},
+    )
+    print("after")
+    body = BeautifulSoup(response.text, "lxml")
+    proxy_img(body)
+    posts = body.select("li")
+    fake_second = page_size
+    entries = []
+    for post in posts:
+        date = post.select(".bl-pubdate")
+        if len(date) < 1:
+            continue
+        entry = Entry()
+        entry.ctime = str(
+            arrow.get(date[0].string, "MMM D, YYYY").shift(seconds=fake_second)
+        )
+        fake_second = fake_second - 1
+        entry.title = post.select("a span")[0].string
+        entry.link = (
+            "https://www.project-syndicate.org"
+            + post.select("a.track-event")[0]["href"]
+        )
+        entry.image = post.select("img")[0]["src"]
+        entry.summary = str(post)
+        entries.append(entry)
+    with open("atom.xml", "w", encoding="utf8") as f:
+        f.write(RSS.render(entries=entries))
+
+
+if __name__ == "__main__":
+    main()
