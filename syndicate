@@ -10,6 +10,7 @@ import arrow
 import requests
 from bs4 import BeautifulSoup
 from mako.template import Template
+import time
 
 headers = {
     "user-agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0"
@@ -35,7 +36,8 @@ RSS = Template(
     <id>${e.link}</id>
     <published>${e.ctime}</published>
     <updated>${e.ctime}</updated>
-    <summary type="html"><![CDATA[${e.content}]]></summary>
+    <summary type="html"><![CDATA[${e.summary}]]></summary>
+    <content type="html"><![CDATA[${e.summary} <br/> ${e.content}]]></content>
   </entry>
 %endfor
 </feed>
@@ -73,10 +75,26 @@ def get_content(entry):
     )
     body = BeautifulSoup(response.text, "lxml")
     proxy_img(body)
-    entry.summary = body.select("div.article__abs")[0]
-    entry.content = body.select("div.article__body")[0]
-    if len(body.select("div.paywall--base")) > 0:
+    article = body.select("div.article__body")[0]
+    # paywall
+    paywall = body.select("div.paywall--base")
+    if len(paywall) > 0:
         entry.paywall = True
+        for e in paywall:
+            e.decompose()
+
+    # useless element
+    aside_tags = article.select("aside")
+    if len(aside_tags) > 0:
+        for aside in aside_tags:
+            aside.decompose()
+
+    subscribe_blocks = article.select("div.special--generic")
+    if len(subscribe_blocks) > 0:
+        for block in subscribe_blocks:
+            block.decompose()
+
+    entry.content = str(article)
 
 
 def main():
@@ -106,8 +124,10 @@ def main():
             + post.select("a.track-event")[0]["href"]
         )
         entry.image = post.select("img")[0]["src"]
+        entry.summary = str(post)
         get_content(entry)
         entries.append(entry)
+        time.sleep(1)
     with open("atom.xml", "w", encoding="utf8") as f:
         f.write(RSS.render(entries=entries))
 
