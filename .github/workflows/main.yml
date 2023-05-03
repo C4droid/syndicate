@@ -2,7 +2,7 @@ name: update atom
 
 on:
   schedule:
-    - cron: '0 22 * * *'
+    - cron: '0 10,22 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest

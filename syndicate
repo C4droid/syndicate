@@ -35,7 +35,7 @@ RSS = Template(
     <id>${e.link}</id>
     <published>${e.ctime}</published>
     <updated>${e.ctime}</updated>
-    <content type="html"><![CDATA[${e.summary}]]></content>
+    <content type="html"><![CDATA[${e.content}]]></content>
     <summary type="html"><![CDATA[${e.summary}]]></summary>
   </entry>
 %endfor
@@ -50,6 +50,8 @@ class Entry(object):
         self.ctime = None
         self.image = None
         self.summary = None
+        self.content = None
+        self.paywall = False
 
     def __str__(self):
         return str(
@@ -63,18 +65,28 @@ class Entry(object):
 def proxy_img(soup):
     for img in soup.select("img"):
         img.attrs["src"] = "https://pic1.xuehuaimg.com/proxy/" + img.attrs["src"]
-        img.attrs["srcset"] = "https://pic1.xuehuaimg.com/proxy/" + img.attrs["srcset"]
+
+
+def get_content(entry):
+    response = requests.get(
+        entry.link,
+        headers=headers,
+    )
+    body = BeautifulSoup(response.text, "lxml")
+    proxy_img(body)
+    entry.summary = body.select("div.article__abs")[0]
+    entry.content = body.select("div.article__body")[0]
+    if len(body.select("div.paywall--base")) > 0:
+        entry.paywall = True
 
 
 def main():
     page_size = 30
-    print("before")
     response = requests.get(
         "https://www.project-syndicate.org/archive/filter",
         headers=headers,
         params={"skip": 0, "take": page_size, "_": arrow.now().int_timestamp * 1000},
     )
-    print("after")
     body = BeautifulSoup(response.text, "lxml")
     proxy_img(body)
     posts = body.select("li")
@@ -95,7 +107,7 @@ def main():
             + post.select("a.track-event")[0]["href"]
         )
         entry.image = post.select("img")[0]["src"]
-        entry.summary = str(post)
+        get_content(entry)
         entries.append(entry)
     with open("atom.xml", "w", encoding="utf8") as f:
         f.write(RSS.render(entries=entries))
