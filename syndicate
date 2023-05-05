@@ -37,7 +37,12 @@ RSS = Template(
     <published>${e.ctime}</published>
     <updated>${e.ctime}</updated>
     <summary type="html"><![CDATA[${e.summary}]]></summary>
-    <content type="html"><![CDATA[${e.summary} <br/> ${e.content}]]></content>
+    <content type="html"><![CDATA[${e.summary}
+% if e.paywall:
+<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
+ | <a href="https://archive.is?run=1&amp;url=${e.link}" target="_blank">archive.is</a></div>
+% endif
+    <br/> ${e.content}]]></content>
   </entry>
 %endfor
 </feed>
@@ -75,7 +80,11 @@ def get_content(entry):
     )
     body = BeautifulSoup(response.text, "lxml")
     proxy_img(body)
-    article = body.select("div.article__body")[0]
+    div_article = body.select("div.article__body")
+    if len(div_article) > 0:
+        article = div_article[0]
+    else:
+        article = body.select('span[itemprop="abstract"]')[0]
     # paywall
     paywall = body.select("div.paywall--base")
     if len(paywall) > 0:
