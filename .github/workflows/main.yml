@@ -27,8 +27,9 @@ jobs:
       - name: run script
         run: |
           git pull -f
-          rm -f atom.xml
+          rm -f syndicate.xml voa.xml
           python syndicate
+          python voa
 
       - name: git push
         run: |

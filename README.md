@@ -13,6 +13,6 @@
 
 ## 如何订阅
 
-直接使用 github raw 格式订阅 `atom.xml` , 会提示 "error mime type text/plain", 无法解析文件内容
+直接使用 github raw 格式订阅 `syndicate.xml` , 会提示 "error mime type text/plain", 无法解析文件内容
 
-推荐使用第三方服务来引用 `atom.xml`, 例如 `https://cdn.jsdelivr.net/gh/C4droid/syndicate/atom.xml`
+推荐使用第三方服务来引用 `syndicate.xml`, 例如 `https://cdn.jsdelivr.net/gh/C4droid/syndicate/syndicate.xml`
