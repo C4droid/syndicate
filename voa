@@ -6,6 +6,7 @@
 """
 rss for 51voa
 """
+import arrow
 import requests
 from bs4 import BeautifulSoup
 from mako.template import Template
@@ -85,8 +86,9 @@ American Stories（美国故事） 这一专题材节目安排在每星期六晚
         %for e in entries:
           <item>
             <title>${e.title}</title>
+            <pubDate>${e.ctime}</pubDate>
             <enclosure type="audio/mpeg" url="${e.audio}"/>
-            <description>${e.content}</description>
+            <content:encoded><![CDATA[${e.content}]]</content:encoded>
             <itunes:explicit>no</itunes:explicit>
           </item>
         %endfor
@@ -133,7 +135,11 @@ def get_translate(entry):
 def get_content(entry):
     body = get(entry.link)
     entry.author = body.find("span", class_="byline").get_text().replace("By ", "")
-    entry.ctime = body.find("span", class_="datetime").get_text()
+    # 29 July 2023
+    # Tue, 01 Aug 2023 03:08:26 +0000
+    entry.ctime = arrow.get(
+        body.find("span", class_="datetime").get_text(), "DD MMMM YYYY"
+    ).format("ddd, DD MMM YYYY HH:mm:ss Z")
     entry.audio = body.find(id="mp3")["href"]
     entry.content = str(body.find("div", class_="content"))
     if entry.tran:
