@@ -88,7 +88,7 @@ American Stories（美国故事） 这一专题材节目安排在每星期六晚
             <title>${e.title}</title>
             <pubDate>${e.ctime}</pubDate>
             <enclosure type="audio/mpeg" url="${e.audio}"/>
-            <content:encoded><![CDATA[${e.content}]]</content:encoded>
+            <content:encoded><![CDATA[${e.content}]]></content:encoded>
             <itunes:explicit>no</itunes:explicit>
           </item>
         %endfor
