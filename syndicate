@@ -106,6 +106,10 @@ def get_content(entry):
     entry.content = str(article)
 
 
+def is_topic_link(link):
+    return link.startswith("https://www.project-syndicate.org/topic/")
+
+
 def main():
     page_size = 30
     response = requests.get(
@@ -132,6 +136,8 @@ def main():
             "https://www.project-syndicate.org"
             + post.select("a.track-event")[0]["href"]
         )
+        if is_topic_link(entry.link):
+            continue
         entry.image = post.select("img")[0]["src"]
         entry.summary = str(post)
         get_content(entry)
