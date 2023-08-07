@@ -65,6 +65,158 @@ American Mosaic（美国万花筒） American Mosaic是一个radio magazine（�
 American Stories（美国故事） 这一专题材节目安排在每星期六晚上播出。这样能使听众在学习和工作之余，得以轻松一下头脑。我们可以通过这一美国文学的“窗口”，接触各种流派、各类名家的文学作品。了解美国英语的时代特色，欣赏、学习美国人民运用语方的技巧，并从那些佳作名篇中获得艺术享受。该节目对短篇故事采取一次播一篇的方式，对中、长篇小说则先进行简写加工，再分几次播出全文。在播出故事正文之前，播音员常常先介绍故事的主要情节。对需要分几次节目时间播出的中长篇，在播第二或以后各部分之前，主持人还先重述已播部分的故事梗概，以唤起听众的回忆，使故事听起来更加连贯。</description>
         <itunes:explicit>no</itunes:explicit>
           <item>
+            <title>AI System Finds First Possibly Dangerous Asteroid  (2023/8/7)</title>
+            <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202308/ai-system-finds-first-possibly-dangerous-asteroid.mp3"/>
+            <content:encoded><![CDATA[<div class="content">
+<span class="byline">By Bryan Lynn</span><br/>
+<span class="datetime">06 August 2023</span><br/>
+<p>A new artificial intelligence (AI) method has been used to identify an <strong>asteroid</strong> that could one day present a threat to Earth.</p>
+<p>Scientists made the discovery using a computer processing method called an algorithm. The algorithm searches through data collected by four different Earth-based telescopes. The goal is to identify asteroids that might present a risk of crashing into Earth.</p><div class="contentImage"><img alt="This image shows the orbit of 2022 SF289 (green) at its closest approach to Earth (orbit in blue). Orbits of Venus and Mars are shown in orange and red, respectively. (Image Credit: Joachim Moeyens/University of Washington/OpenSpace)" src="https://img.51voa.cn/1/01000000-0aff-0242-2200-08db9503fb2f_cx4_cy2_cw95_w268_r1.png"/><br/><span class="imagecaption">This image shows the orbit of 2022 SF289 (green) at its closest approach to Earth (orbit in blue). Orbits of Venus and Mars are shown in orange and red, respectively. (Image Credit: Joachim Moeyens/University of Washington/OpenSpace)</span></div>
+<p>The asteroid search effort is financed by the American space agency NASA. It is operated by a team at the University of Hawaii's <a class="wsw__a" href="https://www.ifa.hawaii.edu/">Institute for Astronomy</a>.</p>
+<p>The system is called ATLAS. It involves four different telescopes. Two of the telescopes are based in Hawaii. Another operates in Chile and the other sits in South Africa. ATLAS is designed to search the whole sky several times each night looking for moving objects, NASA <a class="wsw__a" href="https://atlas.fallingstar.com/">explains</a>.</p>
+<p>NASA and its international partners continuously search the skies for what scientists call <a class="wsw__a" href="https://www.nasa.gov/planetarydefense/did-you-know">near-Earth objects</a> (NEOs). Such objects include asteroids and <strong>comets</strong> that come within 50 million kilometers of Earth's orbit. The effort aims to identify and follow NEOs that could one day strike Earth.</p>
+<p>NASA <a class="wsw__a" href="https://www.nasa.gov/planetarydefense/did-you-know">says</a> a large majority of the NEOs that enter Earth's atmosphere burn up before reaching the planet's surface. But the space agency is concerned about larger NEOs up to 50 meters in size. NASA says such objects could cause widespread damage to areas they hit.</p>
+<p>The space agency considers NEOs that come within 7.5 million kilometers of Earth's orbit and that are bigger than 140 meters "potentially <strong>hazardous</strong> objects."</p>
+<p>Researchers from the University of Washington created the algorithm and led the latest discovery operation. The team <a class="wsw__a" href="https://www.washington.edu/news/2023/07/31/heliolinc3d/">announced</a> in a statement it had identified a 182-meter-long asteroid named 2022 SF289. The find came during testing of the new algorithm, which the researchers called HelioLinc3D.</p>
+<p>The researchers said the newly discovered asteroid met the description of a <strong>potentially</strong> hazardous asteroid (PHA). However, the scientists said asteroid 2022 SF289 will likely present no threat to Earth in the foreseeable future.</p>
+<p>The newly discovered asteroid was the first PHA to be identified with the HelioLinc3D algorithm. Scientists plan to use the new algorithm together with the Vera C. Rubin Observatory, which is still being developed on top of a mountain in Chile.</p>
+<p>Rubin is expected to start operating in early 2025. University of Washington researchers have said the observatory should greatly improve the discovery rate of PHAs. This is because the telescope was built with a very powerful new camera and a huge mirror.</p>
+<p>Some NEOs are difficult to identify with existing telescopes because they can be blocked by bright areas of space. For example, other equipment missed asteroid 2022 SF289 because of rich star fields that exist in our Milky Way galaxy. Rubin's instruments are expected to provide more detailed images and data to improve the identification process for NEOs.</p>
+<p>Ari Heinze is a researcher at the University of Washington and a main developer of the HelioLinc3D algorithm. He said in a statement, "By demonstrating the real-world effectiveness of the software that Rubin will use to look for thousands of yet-unknown potentially hazardous asteroids, the discovery of 2022 SF289 makes us all safer."</p>
+<p>The University of Washington researchers say more than 2,350 have so far been discovered. They say with the new algorithm, scientists hope to identify thousands more. Astronomers using ATLAS say discoveries of PHAs are made when they identify "a point of light moving <strong>unambiguously</strong> in a straight line over the image series."</p>
+<p>The HelioLinc3D algorithm was developed specifically to be used by the Vera C. Rubin Observatory. But Heinze and other researchers said they wanted to see if it could discover a new asteroid using existing telescope data.</p>
+<p>After Rubin's team set HelioLinc3D to search through Rubin data, it identified its first PHA on July 18. The asteroid was 20 million kilometers from Earth.</p>
+<p>ATLAS astronomer Larry Denneau was a leader of the discovery team. He <a class="wsw__a" href="https://www.washington.edu/news/2023/07/31/heliolinc3d/">said</a> the algorithm shows "it is possible to recover these <strong>faint</strong> objects as long as they are visible over several nights." Denneau added, "This in effect gives us a bigger, better telescope."</p>
+<p>I'm Bryan Lynn.</p>
+<p><em>Bryan Lynn wrote this story for VOA Learning English, based on the University of Washington, the University of Hawaii and NASA. </em></p>
+<p><strong>__________________________________________________</strong></p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>asteroid </strong><em>– n. </em>a rocky object that goes around the sun like a planet</p>
+<p><strong>comet </strong><em>– n. </em>an object in space that leaves a bright line behind it in the sky</p>
+<p><strong>hazardous </strong><em>– adj. </em>dangerous</p>
+<p><strong>unambiguous </strong><em>– adj. </em>expressed in a way that makes it completely what is meant</p>
+<p><strong>faint </strong><em>– adj. </em>not clear or strong</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>Japanese Railway Tests a System to Help Visitors  (2023/8/7) | 日本铁路测试游客求助系统</title>
+            <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202308/japanese-railway-tests-a-system-to-help-visitors.mp3"/>
+            <content:encoded><![CDATA[<div class="content"><p>Japanese railway operator, Seibu, is testing a special help desk for foreigners at one of the company's busiest train stations.<br/>
+日本铁路运营商西武正在该公司其中一个最繁忙的火车站测试一种面向外国人的特殊服务台。</p>
+<p>Visitors who need help at the Seibu-Shinjuku station in Tokyo can go to an information window and ask questions. About 135,000 people per day pass through the Seibu-Shinjuku station.<br/>
+在东京西武新宿站需要帮助的游客可以到一个信息窗口提问。每天约有13.5万人通过西武新宿站。</p>
+<p>To get help, a person just speaks into a microphone. A system called VoiceBiz listens to their words and displays them on the window in Japanese. The railway worker can see the question and reply in Japanese. Then VoiceBiz translates the answer into a language the person who needs help can understand. The system works with Japanese and 11 other languages.<br/>
+有人要寻求帮助，只用对着麦克风说话。VoiceBiz系统会听他们说话，并用日语显示在窗口上。铁路员工可以看到问题，并用日文回答。然后VoiceBiz将答复翻译成需要帮助的人士所能理解的语言。该系统可适用于日语和其他11种语言。</p>
+<p>Rail stations throughout Japan are very busy this summer. More than 2 million people visited Japan in June, the most since before 2020. COVID-19 restrictions barred most foreign travelers for a long time.<br/>
+日本各地的火车站今年夏天都很繁忙。6月份访问日本的人数超过200万，为2020年前以来最多。新冠肺炎限制措施长期禁止大多数外国游客入境。</p>
+<p>Kevin Khani was visiting Japan from Germany. He tried out the VoiceBiz system recently after getting confused in Seibu's Shinjuku station.<br/>
+凯文·卡尼从德国到访日本。最近，他在西武新宿车站搞晕头后，试用了VoiceBiz系统。</p>
+<p>He said the translations were "spot on," which means they were exactly right. He also said it is nice to see that there is a human working at the window.<br/>
+他说这些翻译“准确无误”，这意味着它们完全正确。他还说，很高兴看到有人在窗口工作。</p>
+<p>"So, you take your time to explain what you need, and you will know that they will understand what you need," he said.<br/>
+他说：“所以，你慢慢来说出你需要什么，你就会知道，他们会搞懂你需要什么。”</p>
+<p>The Seibu railway has been testing the VoiceBiz system for three months. After that time, the company will consider using it in additional stations.<br/>
+西武铁路已经测试VoiceBiz系统三个月了。之后，该公司将考虑在其他车站使用该系统。</p>
+<p>Ayano Yajima is a sales and marketing official for Seibu. Yajima said looking at each other adds to the "smoothness of communication."<br/>
+八州绫野是西武的销售和营销官员。八州绫野说，看着彼此会增加“沟通的顺畅性”。</p>
+<p>Toppan is the company that makes VoiceBiz. It tested the window at Kansai International Airport near Osaka earlier this year. It hopes to sell the windows to businesses and government offices in Japan so they can communicate with travelers and immigrants.<br/>
+凸版公司制造了VoiceBiz系统。今年早些时候，该公司在大阪附近的关西国际机场测试了这个窗口。它希望将这些窗口出售给日本的企业和政府办公室，以便他们能够与游客和移民交流。</p>
+<p>The company believes the Shinjuku area is a good testing place. The busiest railway station in the world is nearby – 3.6 million people use the Japan Railway station in Shinjuku. Many people use the Seibu train to get to other trains and subways and go to other places in Tokyo or the rest of Japan. As a result, there is a high chance that someone gets lost or needs help.<br/>
+该公司认为新宿地区是一个很好的测试场所。世界上最繁忙的火车站就在附近——360万人使用新宿的日本火车站。许多人乘坐西武列车，搭乘其他火车和地铁，前往东京或日本其他地方。因此，很有可能有人会迷路或需要帮助。</p>
+<p>French visitors Isabelle and Marc Rigaud used the help window to find their way from the Seibu station to the Japan Railway station. They had just gotten off an airplane at 1 in the morning, local time.<br/>
+法国游客伊莎贝尔和马克·里戈使用该求助窗口找到了从西武站到日本火车站的路线。他们于当地时间凌晨1点刚下飞机。</p>
+<p>"It's very Japan," Isabelle said of the technology.<br/>
+伊莎贝尔在谈到这项技术时说：“这很日本。”</p>
+<p>I'm Dan Friedell.<br/>
+我是丹·费利德尔。(51VOA.COM原创翻译，请勿转载，违者必究！)</p></div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>More Companies Seek to Recycle Solar Panels  (2023/8/7)</title>
+            <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202308/more-companies-seek-to-recycle-solar-panels.mp3"/>
+            <content:encoded><![CDATA[<div class="content">
+<span class="byline">By John Russell</span><br/>
+<span class="datetime">06 August 2023</span><br/>
+<p>Many plans designed to deal with climate change depend on the use of clean energy from the sun, or solar power. But the equipment necessary for solar power sometimes gets damaged or wears out. These solar <strong>panels</strong> often end up as waste in <strong>landfills</strong>.</p>
+<p>A business based in Yuma, Arizona, is trying to deal with what its founders call a tsunami of solar waste. The company is called We <strong>Recycle</strong> Solar.</p><div class="contentImage"><img alt="FILE - Dwight Clark inspects a used solar panel at We Recycle Solar on Tuesday, June 6, 2023, in Yuma, Ariz. (AP Photo/Gregory Bull)" src="https://img.51voa.cn/1/c30b2cc8-d090-47e6-a863-be9e1f4174ef_cx0_cy5_cw0_w268_r1.jpg"/><br/><span class="imagecaption">FILE - Dwight Clark inspects a used solar panel at We Recycle Solar on Tuesday, June 6, 2023, in Yuma, Ariz. (AP Photo/Gregory Bull)</span></div>
+<p><strong>Large amounts of waste </strong></p>
+<p>Workers move large numbers of solar panels with special machines, then lift each out by hand to begin separating by maker and model. Some panels only have a few cracks in their glass.</p>
+<p>These panels can be reused, said company chief Adam Saghei.</p>
+<p>The panels that do not go to testing and resale instead go to a special area where glass, metals, and other materials with value are separated.</p>
+<p>Solar panels are built to survive many years of bad weather, so it is difficult to take them apart.</p>
+<p>Separating the glass without it breaking, for example, is difficult. But We Recycle Solar uses special robotic devices that can do the work successfully.</p>
+<p>Some of the highest value materials in solar panels are copper, silver, aluminum, glass, and crystalline silicon.</p>
+<p>For Saghei, the idea for the company came in 2017. He was working in the computer electronic waste sector. He saw solar panels spread across roofs and wondered where the panels would go in the future. He said he realized that green technology does not stay green once it is no longer being used.</p>
+<p>Copper is one metal the recycling process produces, said Dwight Clark, director of recycling technology at We Recycle Solar. Clark said there is not a lot of copper in each solar panel. But when the company recycles around 4500 kilograms of solar panels in an hour, the company can get over a hundred kilograms of copper.</p>
+<p><strong>The future </strong></p>
+<p>By 2050, solar panel waste will total some 78 million tons worldwide, said Mool Gupta of the University of Virginia. The reason recycling and recovery is not very strong yet, Gupta said, is that companies do not want to pay the $30 per panel cost when it costs only $1 to send it to a landfill.</p>
+<p>Garvin Heath is a renewable energy expert at the U.S. Department of Energy. He said the cost to recycle should not be more than the cost to put solar panels in landfills. He said consumers should not have to pay anything and recycling businesses should not suffer financial losses.</p>
+<p>Other companies are starting to get into the business.</p>
+<p>Solarcycle, a new company based in Odessa, Texas, raised $30 million earlier this year. And Solarpanelrecycling.com is connected to electronics recycler PowerHouse Recycling.</p>
+<p>The European Union has rules that require recycling of electronic waste under its Waste Electrical and Electronic Waste Directive (WEEE).</p>
+<p>Market researcher Visiongain estimates the global market for solar panel recycling at $138 million for last year and growing fast.</p>
+<p>Jack Groppo of the University of Kentucky says people have to stop sending solar panels to the landfill as soon as possible. "Once the solar panels go into the landfill, they're gone unless we go back and mine the landfill," he said.</p>
+<p>Groppo estimates that in 20 years people will mine landfills to get valuable materials in the solar panels. But he said it makes more sense to separate the panels at their retirement instead.</p>
+<p>The Yuma facility can process 7,500 panels in a single day. As of early June, it estimates more than 650,000 tons of carbon dioxide waste production have been avoided. It is reusing about 60 percent of the panels that come in.</p>
+<p>The company plans to open another recycling center next to a large solar manufacturer in the southeastern part of the country.</p>
+<p>For now, solar recycling companies are still looking for a way to make money. But Gupta said these profitability issues are temporary. Researchers are hard at work on solving them, he said.</p>
+<p>He added, "Too many lives are lost to pollution and solar is one of the top solutions."</p>
+<p>I'm John Russell.</p>
+<p>
+<em>Isabella O'Malley reported on this story for the Associated Press. John Russell adapted it for VOA Learning English. </em></p>
+<p><em>______________________________________________________</em></p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>panel </strong><em>– n.</em> a flat piece of equipment that uses the sun's light or heat to create electricity</p>
+<p><strong>recycle</strong> <em>– v.</em> to make something new from (something that has been used before)</p>
+<p><strong>landfill</strong> <em>– n.</em> a system in which waste materials are buried under the ground</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>To Cut Food Waste, Switzerland Tries Public Refrigerators  (2023/8/7)</title>
+            <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202308/in-effort-to-cut-food-waste-switzerland-tries-public-refrigerators.mp3"/>
+            <content:encoded><![CDATA[<div class="content">
+<span class="byline">By Gregory Stachel</span><br/>
+<span class="datetime">06 August 2023</span><br/>
+<p>A nonprofit group in Geneva, Switzerland is making <strong>refrigerators</strong> available so restaurant owners and cooks can make food available to the public before it goes bad.</p>
+<p>The refrigerators are being placed along streets for anyone to use. The project is part of a continuing effort by people in Switzerland and other European countries to cut down on food waste.</p><div class="contentImage"><img alt="FILE - A Free Food Fridge Albany sidewalk refrigerator is stocked with produce and other food, June 25, 2021, in Albany, N.Y. The nonprofit Free-Go has put refrigerators and food storage centers in Geneva, Switzerland so people can get food. (AP Photo/Hans Pennink)" src="https://img.51voa.cn/1/01000000-0aff-0242-a643-08db941f2950_w268_r1.jpg"/><br/><span class="imagecaption">FILE - A Free Food Fridge Albany sidewalk refrigerator is stocked with produce and other food, June 25, 2021, in Albany, N.Y. The nonprofit Free-Go has put refrigerators and food storage centers in Geneva, Switzerland so people can get food. (AP Photo/Hans Pennink)</span></div>
+<p>The nonprofit Free-Go has put refrigerators and food storage centers in Geneva so people can get fruit, vegetables, breads and other foods at no cost. Free-Go is a smart play on the word "frigo," which is an informal French word for refrigerator.</p>
+<p>The program costs about $40,000 to run each year. It receives support from private groups and the city government. Free-Go launched a year ago with a single refrigerator outside a community center in western Geneva. There are now four refrigerators around the city. The group plans a fifth before the end of the year.</p>
+<p>Marine Delevaux is the project's director. She said the food left in its refrigerators is usually taken within an hour of being left. For health and legal reasons, no frozen foods, open food containers, prepared meals, or alcohol are permitted in the refrigerators.</p>
+<p>Free-Go also lets people who use the service plan when they will get their food. The idea is to make it easier for people who live in <strong>apartment buildings</strong> to join the program. There is also a telephone line, or "hotline," that restaurants can use to call for someone to <strong>pick up</strong> unused food.</p>
+<p>"Generally, when the food collected from <strong>shops</strong> and restaurants arrives in the morning, people are already waiting to help themselves," Delevaux said.</p>
+<p>She added that the first Geneva refrigerator helped save 3.2 tons of food from going to waste last year. Of the food donated, only about three percent had to be thrown away because nobody wanted it.</p>
+<p>Free-Go said those who give food from private businesses, like restaurants or food sellers, must promise to make sure the donated food is safe to eat. Swiss law says food past the "recommended use-by" date can be eaten for up to a year afterwards, Delevaux said.</p>
+<p>The Swiss government estimates that nearly one-third of all food products are wasted or thrown away. That amounts to about 330 kilograms of food waste per person each year. Of that, about 100 kilograms are waste from households.</p>
+<p>Free-Go says about 1 billion tons of food go to waste every year around the world. The group says the waste uses up energy and other resources in the farming and transportation process.</p>
+<p>"Wasting food is not only an ethical and economic issue but it also <strong>depletes</strong> the environment of limited natural resources," the European Union's Commission said.</p>
+<p>Similar food-sharing campaigns are in place in the Swiss capital, Bern, and in the town of Neuchatel. The idea was first imported from Germany.</p>
+<p>Foodsharing.de is a community group in Germany that started more than 10 years ago. It said that more than half a million people in Germany, Switzerland and Austria have made "the food-sharing <strong>initiative</strong> an international movement." The group said it has helped save 83 million tons of food from going to waste.</p>
+<p>Because the food is free, and the donations can change, it is not always clear what will appear in the refrigerators. Some people receiving food might not get what they want or need.</p>
+<p>Outside a community center in Geneva recently, Shala Moradi said she was looking for some bread and there was none. She is 65 years old and came from Iran. She has lived in Geneva for 10 years. She said she <strong>appreciates</strong> the initiative.</p>
+<p>"It's very good. I can take strawberries, cherries, things like that," she said, talking about the different food that is available. Of the no cost food, she said, "I like that too."</p>
+<p>Severine Cuendet is a 54-year-old teacher. Just after leaving some vegetables that she grew, she said, "We have too much" and praised the initiative "because this neighborhood has a lot of need."</p>
+<p>She added, "And it happens to all of us to buy too much."</p>
+<p>I'm Gregory Stachel. And I'm Faith Pirlo.</p>
+<p><em>Jamey Keaten reported this story for The Associated Press. Gregory Stachel adapted it for VOA Learning English. </em></p>
+<p>________________________________________________</p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>refrigerator </strong>– <em>n.</em> a device or room that is used to keep food cold</p>
+<p><strong>apartment building </strong><em>–n.</em> a building that holds many places to live which could have one or several rooms</p>
+<p><strong>pick up </strong><em>–v.</em> to go to get something and take it back to where it is needed</p>
+<p><strong>shop </strong>– <em>n.</em> a building or room where goods and services are sold</p>
+<p><strong>deplete </strong>– <em>v.</em> to use most or all of (something important): to greatly reduce the amount of (something)</p>
+<p><strong>initiative </strong>– <em>n.</em> a plan or program that is intended to solve a problem</p>
+<p><strong>appreciate </strong>– <em>v.</em> to understand the worth or importance of (something or someone): to admire and value (something or someone)</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
             <title>New Rules Aim to Protect Valuable Horseshoe Crabs  (2023/8/6)</title>
             <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
             <enclosure type="audio/mpeg" url="https://files.51voa.cn/202308/new-rules-aim-to-protect-valuable-horseshoe-crabs.mp3"/>
@@ -1894,206 +2046,6 @@ Actors in the labor discussions are represented by the Screen Actors Guild–Ame
 <p><strong>lag</strong><em>– v.</em> to be in a position that is behind others</p>
 <p><strong>verify</strong> <em>– v. </em>to prove, show, find out, or state that (something) is true or correct</p>
 </div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>Early Literacy: Print Awareness  (2023/7/26)</title>
-            <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202307/early-literacy-print-awareness.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By Anna Matteo</span><br/>
-<span class="datetime">25 July 2023</span><br/>
-<p>Words are all around us and not just in books. Students need to know that words have meaning. Educators call this print awareness. At this early stage,<strong> </strong>surround learners with English words and sounds.</p>
-<p>Experts say that students who cannot read in their own language may not understand some literacy ideas. They need to be taught about the <strong>functions</strong> of print.</p>
-<div class="contentImage"><img alt="Early Literacy: Print Awareness" src="https://img.51voa.cn/1/01000000-0aff-0242-3d91-08db40586daf_w268_r1.png"/><br/><span class="imagecaption">Early Literacy: Print Awareness</span></div>
-<p><strong>Teaching tips for print awareness</strong></p>
-<p><u>Bring in common items with written language – both the home language and English.</u></p>
-<ul>
-<li>Bring in calendars, food packages, magazines, mail, maps, and newspapers. Talk about these items. Compare English words with words from the home language.</li>
-<li>Create fun activities with the items. For example, as an art project students can make a birthday card for a friend or family member. They could also make their own food product and make packaging for it.</li>
-</ul>
-<p><u>Post words in your classroom.</u></p>
-<ul>
-<li><strong>Label</strong> common objects in the classroom.</li>
-<li>Post words to songs and poems.</li>
-</ul>
-<ul>
-<li>Post the names and birthdays of students in the classroom.</li>
-<li>Hang colorful <strong>posters</strong> with English words on the walls.</li>
-</ul>
-<p><a class="wsw__a" name="_Int_KFE8OaWU"><u>Read</u></a><u> often to your class. </u></p>
-<p>Read books that:</p>
-<ul>
-<li>fit the age and English level of your students.</li>
-<li>repeat simple and useful sentences and words.</li>
-<li>have limited text on a page with pictures explaining the text.</li>
-<li>have active stories.</li>
-</ul>
-<p><u>Make reading aloud fun and active!</u></p>
-<ul>
-<li>Ask questions about the story. Talk about important words or ideas. But do not stop too often. Students may lose interest in the story.</li>
-</ul>
-<ul>
-<li>Use fun voices, facial expressions, music, objects, and pictures to make the story come to life.</li>
-<li>Make connections to real life. Ask them, "Has this happened to you?"</li>
-<li>Have students retell the story or change the story somehow.</li>
-</ul>
-<p><u>Teach the parts of a book and different types of books.</u></p>
-<p>As you read to your students, teach the parts of a book. Talk about different types of books.</p>
-<ul>
-<li>Explain the purpose of a book's title and where it is found.</li>
-<li>Point out the names of the author and illustrator. Explain their jobs.</li>
-<li>Show students the page numbers. Explain why pages are numbered.</li>
-<li>Use many different books such as comics and picture books.</li>
-</ul>
-<p><u>Talk about different part of the story.</u></p>
-<ul>
-<li>Who is the story about (who are the <strong>characters</strong>)?</li>
-<li>Where does the story take place (the <strong>setting</strong>)?</li>
-<li>Talk about the problem and the solution. How do characters fix the problem?</li>
-</ul>
-<p><u>Teach <strong>punctuation</strong> when you read with your students.</u></p>
-<ul>
-<li>Point out periods, exclamation points, and question marks. Explain what they do.</li>
-<li>Show how punctuation changes the meaning of a sentence.</li>
-<li>Read a sentence with a period and then with an exclamation point with excitement!</li>
-</ul>
-<p><strong>Assessment for print awareness</strong></p>
-<p>Early learners may not have print awareness. To assess or test for print awareness, give a student a book and ask questions. Here are some examples:</p>
-<ul>
-<li>Where is the title of the book?</li>
-<li>Can you show me the author's name?</li>
-<li>Where does the story begin?</li>
-<li>Can you show me <a class="wsw__a" name="_Int_tDoBBxJ4">a letter</a>? A word? A sentence?</li>
-<li>Can you find the first and last words of a sentence?</li>
-<li>Can you show me a punctuation mark? What does a question mark do?</li>
-<li>Can you show me a capital letter? Can you show me a lowercase letter?</li>
-</ul>
-<p>Use the tips, strategies, and assessment methods that best serve you and your learners. Change methods to fit your students' abilities and the teaching situation.</p>
-<p>I'm Caty Weaver.</p>
-<p>And I'm Anna Matteo.</p>
-<p><em>Anna Matteo wrote this article for VOA Learning English. It is part of a larger collection of Early Literacy Materials.</em></p>
-<p><strong>___________________________________________________________</strong></p>
-<h2 class="wsw__h2"><strong>Words in This Story</strong></h2>
-<p><strong>function </strong><em>–n.</em> the special purpose that something has or work that it does</p>
-<p><strong>label</strong> <em>–v.</em> to put an object's name and information on it to show what it is</p>
-<p><strong>poster </strong><em>–n.</em> a large sign or picture meant to gain attention</p>
-<p><strong>character </strong><em>–n.</em> a person who appears in a story, play or movie</p>
-<p><a class="wsw__a" name="_Int_UZWMVh1t"><strong>setting </strong></a><em>–n.</em> where a story takes place</p>
-<p><strong>punctuation </strong><em>–n.</em> markings that make it clear how to separate sentences and parts of sentences, so reading is easier</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>Twitter Introduces New ‘X’ Logo to Replace Blue Bird  (2023/7/25)</title>
-            <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202307/twitter-introduces-new-x-logo-to-replace-blue-bird.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By Bryan Lynn</span><br/>
-<span class="datetime">24 July 2023</span><br/>
-<p>Twitter owner Elon Musk has launched a new <strong>logo </strong>– the single letter "X" – to replace the social media service's famous blue bird.</p>
-<p>The X design started appearing at the top of Twitter's computer version on Monday. But the old bird logo could still be seen across areas of the service.</p>
-<p>Musk announced in a Twitter message Sunday that he had decided to change the company's logo. He said he had asked his millions of followers to provide logo ideas and if they would favor a change in the service's colors from blue to black.</p><div class="contentImage"><img alt="A view of a lap top and monitors showing the Twitter signing in page displaying the new logo, in Belgrade, Serbia, Monday, July 24, 2023. (AP Photo/Darko Vojinovic)" src="https://img.51voa.cn/1/01000000-0a00-0242-2b0e-08db8c85b51b_cx2_cy0_cw89_w268_r1.jpg"/><br/><span class="imagecaption">A view of a lap top and monitors showing the Twitter signing in page displaying the new logo, in Belgrade, Serbia, Monday, July 24, 2023. (AP Photo/Darko Vojinovic)</span></div>
-<p>When asked what tweets would be called without the blue bird logo, Musk said they would now be known as "Xs."</p>
-<p>The latest change is one in a series Musk has carried out since buying Twitter for $44 billion last year.</p>
-<p>The billionaire businessman dismissed about 75 percent of the company's workforce soon after the deal closed. Musk said the move was necessary to make Twitter more effective and increase profits. He also announced plans to start charging Twitter users eight dollars a month to keep a <strong>verified</strong> account.</p>
-<p>As Twitter chief, Musk also lifted some existing restrictions on user <strong>content</strong>. He said those changes were part of a larger effort to protect the free speech of Twitter users. Critics said his plans were likely to increase the amount of harmful content and hate speech appearing on the service.</p>
-<p>Musk's changes led to drops in the number of Twitter users. Some advertisers stopped doing business with the company, as well.</p>
-<p><a class="wsw__a" href="https://twitter.com/lindayacc/status/1683353772917940225">In a message</a> on Twitter Monday, chief executive Linda Yaccarino wrote, "X is here! Let's do this." Along with her message, she published a picture of the logo projected onto the building's headquarters in San Francisco</p>
-<p>Musk also commented on the logo change, <a class="wsw__a" href="https://twitter.com/elonmusk/status/1682964919325724673">writing</a>, "And soon we shall <strong>bid adieu</strong> to the twitter <strong>brand</strong> and, <strong>gradually</strong>, all the birds." Musk said the X.com web domain was already redirecting users to Twitter.com.</p>
-<p>A three-member team designed the first Twitter logo in 2012. One of those designers, Martin Grasser, described the blue bird logo as "simple, balanced" and easy to read at very small sizes.</p>
-<p>Matt Rhodes is with the British creative agency House 337. He told news agency <em>Reuters</em> that making changes to such an established brand presents big business risks. "Anything that makes it harder for people to find, or want to open the <strong>app</strong> on their <strong>cluttered</strong> phone screens risks harming usage," Rhodes said.</p>
-<p>However, Paolo Pescatore, a technology and media specialist who founded advisory company PP Foresight, said the change could be good. He spoke to the<em> Associated Press</em>.</p>
-<p>Pescatore said social media users currently can get <strong>confused</strong> by too many apps and messaging services to choose from. Driving users to one central place will "<strong>engage</strong>" more users and could make Twitter easier to use, he said.</p>
-<p>Musk has long been interested in the letter X. He had already changed Twitter's official name to X Corp after buying the company.</p>
-<p>The billionaire is also CEO of rocket company Space Exploration Technologies Corporation, commonly known as SpaceX. He started an artificial intelligence company this month called xAI to compete with OpenAI. And in 1999, he founded a startup called X.com, an online financial services company now known as PayPal.</p>
-<p>Musk's Twitter purchase and rebranding effort are seen as steps toward his stated plans to create what he has called an "everything app." Such an app would be similar to China's WeChat, which combines video, messaging, <strong>streaming</strong> and payments.</p>
-<p>Yaccarino wrote on Twitter that she sees X becoming "the future state of unlimited interactivity – centered in audio, video, messaging, payments/banking – creating a global marketplace for ideas, goods, services, and opportunities."</p>
-<p>I'm Bryan Lynn.</p>
-<p><em>Reuters and The Associated Press reported this story. Bryan Lynn adapted the reports for VOA Learning English. </em></p>
-<p><strong>_____________________________________________</strong></p>
-<h2 class="wsw__h2"><strong>Words in This Story</strong></h2>
-<p><strong>logo </strong><em>– n. </em>to interest someone in something and keep them thinking about it</p>
-<p><strong>verify </strong><em>– v.</em> to prove something is true</p>
-<p><strong>content </strong><em>– n. </em>information or ideas that appear in books, movies or on the internet</p>
-<p><strong>bid adieu </strong><em>– v. </em>say goodbye</p>
-<p><strong>brand </strong><em>– n. </em>a kind of product made by a particular company under a particular name</p>
-<p><strong>clutter </strong><em>– n. </em>a state of being messy</p>
-<p><strong>confuse </strong><em>– v.</em> to mix up someone's mind or ideas</p>
-<p><strong>engage </strong><em>– v. </em>to interest someone in something and keep them thinking about it</p>
-<p><strong>gradually</strong> <em>– adv. </em>moving forward in steps or degrees</p>
-<p><strong>app </strong><em>– n. </em>a computer program that performs a special function, usually found on mobile phones</p>
-<p><strong>streaming </strong><em>– n. </em>the continuous transmission of video files from a server to a viewer</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>Grow Cutting Garden for Flowers Indoors All Season Long  (2023/7/25)</title>
-            <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202307/grow-cutting-garden-for-flowers-indoors-all-season-long.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By Gregory Stachel</span><br/>
-<span class="datetime">24 July 2023</span><br/>
-<p>Almost every flower can be cut and enjoyed indoors. But growing a cutting <strong>garden</strong> of flowers takes some planning.</p>
-<p>Jessica Damiano writes about gardening for The Associated Press. Damiano says that she cuts lilacs to bring indoors for their <strong>scent</strong> in the spring. And hydrangeas and roses make it indoors on her dining room table for the summer.</p>
-<p>The first step, Damiano says, is to think about flowers as a crop to be harvested. Just as some tomatoes are better for use in sauces, some flowers are better for cutting and showing than others.</p><div class="contentImage"><img alt="FILE - This 2022 image provided by SOW Local shows freshly cut ranunculus flowers in Oakdale, N.Y. (Chris Demchak via AP)" src="https://img.51voa.cn/1/37f3531a-24ea-42fc-9417-05673b3cb3a3_cx0_cy13_cw0_w268_r1.jpg"/><br/><span class="imagecaption">FILE - This 2022 image provided by SOW Local shows freshly cut ranunculus flowers in Oakdale, N.Y. (Chris Demchak via AP)</span></div>
-<p>Flowers that do not grow tall nor <strong>bloom</strong> are not the best to show indoors. Damiano says to look for this information in seed <strong>catalogs. </strong>The descriptions often include whether specific kinds of flowers, from perennials, annuals or tender perennials, work well for cutting and showing.</p>
-<p>Perennials are plants that flower for more than one year. Some flower for just two or three weeks, while others flower repeatedly. And they usually flower in their second year, but sometimes third.</p>
-<p>Annuals are plants that live for just one year. But they usually produce more flowers during the growing season.</p>
-<p>Tender perennials are perennials in the sense that they live for more than one year. But, they are usually grown as annuals because some do not dependably return and some cannot survive winters.</p>
-<p>To ensure a continual supply of flowers for cutting, Damiano says to plant seeds or young plants every two weeks.</p>
-<p>Annuals that are good for cutting include cosmos, globe amaranth, larkspur, and Queen Anne's lace. Perennials to grow and cut include bee balm, coneflower, fox glove, lily, and rose. Tender perennials that work well for cutting include California poppy, snapdragon, and strawflower.</p>
-<p>Both annuals and perennials can be grown in the ground, in raised beds, or even in containers. If you have enough room, growing them in separate beds will simplify yearly planting. But it is not necessary. If you are short on space, plant where you can.</p>
-<p>Most flowers need fertile, well-<strong>draining</strong> soil, repeated watering, and at least six to eight hours of direct sunlight each day. You can use plants bought from a garden center, start your own from seed indoors, or plant seeds directly into the garden.</p>
-<p>Add a large amount of <strong>compost </strong>into planting holes to provide nutrients to the plants. If you're planning ahead, top the soil with five to eight centimeters of compost in the fall, and the bed will be highly fertile by spring.</p>
-<p>Beds should not be much wider than a meter. This will help to keep your harvests within easy reach from all sides. When planting, place the tallest flowers at the backside of the bed, middle-sized plants in the center, and smaller plants in the front so that all are easy to get to.</p>
-<p>Be sure to follow directions for plants on how much space they need to understand their full-grown size. Plants that do not have enough space often become diseased plants.</p>
-<p>After planting, add a balanced, slow-release fertilizer and five to eight centimeters of <strong>mulch</strong>, then water well. If you are planting seeds directly into the garden, fertilize and mulch when the growing plants are 10 centimeters tall.</p>
-<p>Beginning three weeks after planting, add a liquid flower fertilizer that is low in nitrogen and high in phosphorus. And repeat every two weeks.</p>
-<p>I'm Gregory Stachel.</p>
-<p><em>Jessica Damiano reported this story for The Associated Press. Gregory Stachel adapted it for VOA Learning English. </em></p>
-<p>__________________________________________________</p>
-<h2 class="wsw__h2"><strong>Words in This Story</strong></h2>
-<p><strong>garden </strong>– <em>n.</em> an area of ground where plants (such as flowers or vegetables) are grown</p>
-<p><strong>scent </strong>– <em>n.</em> a pleasant smell that is produced by something</p>
-<p><strong>bloom </strong>– <em>v.</em> to produce flowers</p>
-<p><strong>catalog </strong>– <em>n.</em> a book containing a list of things that you can buy or use, and often pictures</p>
-<p><strong>drain </strong>– <em>v.</em> to remove (liquid) from something by letting it flow away or out</p>
-<p><strong>compost</strong><strong> </strong>– <em>n</em>. a decayed mixture of plants (such as leaves and grass) that is used to improve the soil in a garden</p>
-<p><strong>mulch </strong>–<em> n</em>. a material (such as straw, leaves, or small pieces of wood) that is spread over the ground in a garden to protect the plants or help them grow and to stop weeds from growing</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>Jill Biden Visits Paris to Announce America’s Return to UNESCO  (2023/7/25) | 美第一夫人出访巴黎宣布重返联合国教科文组织</title>
-            <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202307/jill-biden-visits-paris-to-announce-america-s-return-to-unesco.mp3"/>
-            <content:encoded><![CDATA[<div class="content"><p>Jill Biden, the first lady of the United States, is in Paris this week to announce her country's return to UNESCO.<br/>
-美国第一夫人吉尔·拜登本周在巴黎宣布美国重返联合国教科文组织。</p>
-<p>UNESCO is the educational, cultural and scientific organization of the United Nations.<br/>
-教科文组织全称为联合国的教育、文化和科学组织。</p>
-<p>Biden flew overnight and arrived with her daughter, Ashley, early on Monday to be there for Tuesday's ceremony. They will see the American flag raised to mark the U.S. return to UNESCO after five years.<br/>
-拜登连夜飞行，于周一早些时候带着女儿阿什利抵达巴黎，准备参加周二的仪式。他们将看到美国国旗升起，这标志着美国在五年后重返联合国教科文组织。</p>
-<p>UNESCO is the organization that designates World Heritage sites – noting they should be marked for eternal preservation. Eternal means something that lasts forever. The organization also works to create collaboration among nations in education, science and culture.<br/>
-联合国教科文组织负责选定世界遗产，指明这些遗址应被标记为永久保护地。Eternal意思是永久的。该组织还致力于促进各国在教育、科学和文化方面的合作。</p>
-<p>UNESCO recently denounced attacks by Russia on Ukraine that have damaged historical places, such as a church in Odesa. The organization noted Russia had earlier agreed to limit attacks to prevent damage on such places.<br/>
-联合国教科文组织最近谴责了俄罗斯对乌克兰的袭击，这些袭击破坏了历史遗迹，例如敖德萨的一座教堂。该组织指出，俄罗斯早些时候同意限制袭击，以防止对这些地方造成破坏。</p>
-<p>The Bidens will return to the U.S. on Wednesday, but they plan to visit the famous Mont-Saint-Michel before they leave. The place is a world heritage site in Normandy, in northern France.<br/>
-拜登夫妇将于周三返回美国，但他们计划在离开前参观著名的圣米歇尔山。这个地方是法国北部诺曼底的世界遗产。</p>
-<p>Jill Biden will also meet with Brigitte Macron, the wife of French President Emmanuel Macron.<br/>
-吉尔·拜登还将会见法国总统埃马纽埃尔·马克龙的妻子布丽吉特·马克龙。</p>
-<p>Spokespeople from the administration of President Joe Biden said rejoining UNESCO was part of the president's goal to strengthen partnerships around the world. The administration also said it shows America's interest in being a U.N. leader.<br/>
-乔·拜登总统政府的发言人表示，重新加入联合国教科文组织是拜登总统加强世界各地伙伴关系目标的一部分。拜登政府还表示，这表明美国有兴趣成为联合国领导者。</p>
-<p>Others said Jill Biden was the right person to take part in Tuesday's event because of her experience as a teacher and college professor. Elizabeth Alexander is a spokesperson for Biden. She said the first lady is "honored to help celebrate this important milestone."<br/>
-另一些人则表示，吉尔·拜登是参加周二活动的合适人选，因为她作为一名教师和大学教授的经验。伊丽莎白·亚历山大是拜登的发言人。她说，第一夫人“很荣幸能共同庆祝这一重要里程碑。”</p>
-<p>The U.S. left UNESCO in 2018 during President Donald Trump's time in office. Trump's administration was protesting what it called unfair treatment of Israel by UNESCO.<br/>
-美国于2018年唐纳德·特朗普总统任期内退出了联合国教科文组织。特朗普政府是为了抗议联合国教科文组织对以色列的不公平待遇。</p>
-<p>UNESCO voted earlier in July to approve the United States' readmission to the group. As part of rejoining UNESCO, the U.S. will pay more than $600 million over a number of coming years. That amount includes what the U.S. would have paid had it been a member since 2018. Clubs, labor groups and other organizations call these amounts dues.<br/>
-联合国教科文组织7月早些时候投票批准美国重新加入该组织。作为重新加入联合国教科文组织的一部分，美国将在未来几年支付超过6亿美元。这一数额包括如果美国自2018年以来一直是会员国，它将支付的费用。俱乐部、劳工组织和其他组织称这些款项为会费。</p>
-<p>The U.S. also withdrew from UNESCO in the 1980s during Ronald Reagan's presidency. It rejoined the group in 2003 under President George W. Bush. Bush's wife, Laura, announced the move at a UNESCO meeting that year.<br/>
-美国也在20世纪80年代罗纳德·里根担任总统期间退出了联合国教科文组织。它于2003年在乔治·W·布什总统的领导下重新加入该组织。布什的夫人劳拉在当年的联合国教科文组织会议上宣布了这一举措。</p>
-<p>I'm Dan Friedell.<br/>
-我是丹·弗里德尔。(51VOA.COM原创翻译，请勿转载，违者必究！)</p></div>]]></content:encoded>
             <itunes:explicit>no</itunes:explicit>
           </item>
     </channel>
