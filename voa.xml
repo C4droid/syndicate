@@ -65,6 +65,169 @@ American Mosaic（美国万花筒） American Mosaic是一个radio magazine（�
 American Stories（美国故事） 这一专题材节目安排在每星期六晚上播出。这样能使听众在学习和工作之余，得以轻松一下头脑。我们可以通过这一美国文学的“窗口”，接触各种流派、各类名家的文学作品。了解美国英语的时代特色，欣赏、学习美国人民运用语方的技巧，并从那些佳作名篇中获得艺术享受。该节目对短篇故事采取一次播一篇的方式，对中、长篇小说则先进行简写加工，再分几次播出全文。在播出故事正文之前，播音员常常先介绍故事的主要情节。对需要分几次节目时间播出的中长篇，在播第二或以后各部分之前，主持人还先重述已播部分的故事梗概，以唤起听众的回忆，使故事听起来更加连贯。</description>
         <itunes:explicit>no</itunes:explicit>
           <item>
+            <title>Google Launches Watermark Tool to Identify AI-created Images  (2023/8/31) | 谷歌发布数字水印工具识别人工智能生成图像</title>
+            <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202308/google-launches-watermark-tool-to-identify-ai-created-images.mp3"/>
+            <content:encoded><![CDATA[<div class="content"><p>Google has launched a tool designed to mark identity on images created by artificial intelligence (AI) technology.<br/>
+谷歌推出了一款工具，旨在给人工智能生成的图像标记身份。</p>
+<p>The American-based search engine and online advertising company announced the new tool in a statement Tuesday. Google has already made the system available to a limited number of beta testers. Google plans to expand its use in the future.<br/>
+这家总部位于美国的搜索引擎和网络广告公司周二在一份声明中宣布了这一新工具。谷歌已经向数量有限的测试人员提供了该系统。谷歌计划在未来扩大其使用范围。</p>
+<p>A team at Google Deep Mind developed the tool, called SynthID, in partnership with Google Research. SynthID is designed to work with Google's AI image creator Imagen. That system creates full film-quality images from simple text commands. For now, only Imagen users will be able to use the AI identifying tool.<br/>
+谷歌Deep Mind的一个团队与谷歌研究院合作开发了这款名为SynthID的工具。SynthID旨在与谷歌旗下的人工智能图像生成器Imagen搭配使用。该系统可以通过简单的文本命令生成全胶片质量的图像。目前，只有Imagen用户才能使用这款人工智能识别工具。</p>
+<p>SynthID works by creating a hidden, digital "watermark" on images. Watermarks have long been used with paper documents and money as a way to mark them as being real, or authentic. With this method, paper can be held up to a light to see if a watermark exists and the document is authentic.<br/>
+SynthID的工作原理是在图像上创建一个隐藏的数字水印。水印长期以来一直被用于纸质文件和货币，作为将其标记为真实的一种方式。使用这种方法，可以将纸张举到灯光下，查看水印是否存在以及文档是否真实。</p>
+<p>A digital watermark serves the same purpose. But it uses technology to digitally embed hidden markers in images. These watermarks are hard to see by just looking at an image. Instead, special tools are needed to identify the watermark.<br/>
+数字水印也有同样的作用。但它是使用技术在图像中数字化嵌入隐藏的标记。肉眼很难看到这些水印。相反，识别这种水印需要特殊的工具。</p>
+<p>Google says the digital watermark is designed to help individuals and companies identify whether an image has been created by AI tools or not. This could help people recognize inauthentic pictures published online and also protect copyright-protected images.<br/>
+谷歌表示，数字水印旨在帮助个人和公司识别图像是否由人工智能工具生成。这可以帮助人们识别网上发布的不真实图片，也可以保护受版权保护的图片。</p>
+<p>Technology experts have identified these issues as two of the biggest problems with AI creation tools – they can increase the amount of misinformation online and they can violate copyrights.<br/>
+技术专家认为这是人工智能创作工具的两个最大问题——它们可能会增加网上错误信息的数量，也可能侵犯版权。</p>
+<p>Last month, Google's parent Alphabet joined other major technology companies in agreeing to establish watermark tools to help make AI technology safer.<br/>
+上个月，谷歌母公司Alphabet与其他大型科技公司一道，同意创建水印工具，以帮助提高人工智能技术的安全性。</p>
+<p>The companies – including Facebook parent Meta, Microsoft-backed AI developer OpenAI and online seller Amazon – made the agreement during a meeting with U.S. President Joe Biden at the White House. They promised to fully develop and test watermarking tools for content including text, audio and video.<br/>
+包括脸书母公司Meta、微软支持的人工智能开发商OpenAI以及网上卖家亚马逊在内的这些公司在白宫与美国总统乔·拜登会面时达成了协议。他们承诺将全面开发和测试文本、音频和视频等内容的水印工具。</p>
+<p>Google said its system embeds a digital watermark directly into the details of an image. The tool can be used for "connecting people with high-quality information and upholding trust between creators and users across society."<br/>
+谷歌表示，其系统将数字水印直接嵌入图像的细节中。该工具可用于“将人们与高质量的信息联系起来，维护全社会创作者和用户之间的信任”。</p>
+<p>Developers of the SynthID system said it is built to keep the watermark in place even if the image itself is changed by creative tools designed to resize pictures or add additional light or color.<br/>
+SynthID系统的开发人员表示，即使图像本身被设计用于调整图片大小或添加额外光线或颜色的创造性工具更改，它也能保持水印不消失。</p>
+<p>The tool can add a hidden watermark to AI-produced images created by Imagen. SynthID can also examine an image to find a digital watermark that was embedded with the Imagen system.<br/>
+该工具可以为Imagen生成的人工智能图像添加隐藏水印。SynthID还可以检查图像，找出Imagen系统所嵌入的数字水印。</p>
+<p>Google says it will continue to test the watermarking tool and hopes to collect many user experiences from the current beta testers. And the company looks forward to adding the system to other Google products and making it available to more individuals and organizations.<br/>
+谷歌表示，它将继续测试这款水印工具，并希望从目前的测试人员那里收集到许多用户体验。该公司期待着将该系统添加到谷歌的其他产品中，并将其提供给更多的个人和组织。</p>
+<p>In addition to SynthID, Google also announced Tuesday the launch of additional AI tools designed for businesses and structural improvements to its computing systems. Those systems are used to produce AI tools, also known as large language models.<br/>
+除了SynthID，谷歌周二还宣布推出更多为企业设计的人工智能工具，并对其计算系统进行结构改进。这些系统用于生成也称为大型语言模型的人工智能工具。</p>
+<p>Google made public a new version of its self-designed AI computing chips. The company says the new chip, called TPU v5e, was built to train large computer models, but also more effectively serve those models. Google also released new versions of software and security tools designed to work with AI systems.<br/>
+谷歌公开了其自行设计的新版人工智能计算芯片。该公司表示，这款名为TPU v5e的新芯片旨在训练大型计算机模型，但也能更有效地为这些模型服务。谷歌还发布了新版本的软件和安全工具，旨在与人工智能系统配合使用。</p>
+<p>I'm Bryan Lynn.<br/>
+我是布莱恩·林恩。(51VOA.COM原创翻译，请勿转载，违者必究！)</p></div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>Climate Change Has Sweden Growing its Wine Industry  (2023/8/31)</title>
+            <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202308/climate-change-has-sweden-growing-its-wine-industry.mp3"/>
+            <content:encoded><![CDATA[<div class="content">
+<span class="byline">By Dan Friedell</span><br/>
+<span class="datetime">30 August 2023</span><br/>
+<p>Most people would not connect the country of Sweden with the tradition of fine <strong>wine</strong> making. It is far north of the famous wine-growing areas in France, Italy or Spain, where the tradition is ancient.</p>
+<p>However, climate change is making for warmer and longer growing seasons in Sweden. There are also new kinds of <strong>grapes</strong> created especially for the country's environment.</p>
+<p>As a result, winemaking is a growing industry.</p><div class="contentImage"><img alt="A tractor works at Kullabergs Ving&lt;I&gt;&amp;#&lt;/I&gt;229;rd, in Nyhamnsl&lt;I&gt;&amp;#&lt;/I&gt;228;ge, Sweden, Tuesday, July 25, 2023.
+(AP Photo/Pavel Golovkin)" src="https://img.51voa.cn/1/b06ed163-14a3-4d18-a875-832a0cdc2d3d_w268_r1.jpg"/><br/><span class="imagecaption">A tractor works at Kullabergs Ving<i>&amp;#</i>229;rd, in Nyhamnsl<i>&amp;#</i>228;ge, Sweden, Tuesday, July 25, 2023.
+(AP Photo/Pavel Golovkin)</span></div>
+<p>Its growth comes as drought, rising heat and other extreme weather are forcing traditional winemaking areas to re-think their growing methods.</p>
+<p>The Swedish Meteorological and Hydrological Institute reports temperatures in the country's south have increased by about 2 degrees Celsius over the past 30 years compared to the 30 years earlier. The experts also say Sweden's growing season has lengthened by about 20 days.</p>
+<p>Felix <i></i>197;hrberg is the chief oenologist, or expert winemaker, at the 14-hectare Kullabergs Vingard, near the North Sea.</p>
+<p>He noted that the rising temperatures are hurting vineyards in traditional winemaking countries. At the same time, "we are gaining <strong>momentum</strong>," he said.</p>
+<p>Kullabergs produces about 30,000 bottles of wine yearly. Some of their wines have won prizes in different competitions. Costly restaurants from Hong Kong to Europe sell the wine.</p>
+<p>Even some oenologists from France are settling in Sweden to grow grapes and careers.</p>
+<p>"It is the new <strong>frontier</strong> of wine making and grapes grow best on their coolest frontier," <i></i>197;hrberg said.</p>
+<p>Emma Berto is one such winemaker from France who now works at Thora Vingard, about 20 kilometers from <i></i>197;hrberg's land.</p>
+<p>She and her partner, Romain Chichery, moved to Sweden for the chance to lead a vineyard just after completing their education. They say Sweden's climate is more predictable than France's. There, the early spring weather can be too warm and the grapes begin to develop before they should.</p>
+<p>In addition, Berto and Chichery said they want to use more <strong>sustainable</strong> grape-growing methods, including limits on insect poisoning.</p>
+<p>Chichery said France has been making wine for so long, there are many rules winemakers must follow. In Sweden, it is a newer business so there is more freedom.</p>
+<p>However, there is still a lot to learn about growing grapes in Sweden. The main grape grown in the country is Solaris, which began in Germany, and grows well in Northern Europe.</p>
+<p>The winemakers treat the vines differently, too. In Sweden, the leaves are removed from the vines so the grapes can receive more sunlight. In France and Spain, sometimes winemakers are worried the grapes will get too much.</p>
+<p>The Thora owners who hired the French winemakers are Johan and Heather Oberg. They depend on wine experts from the traditional winemaking countries because Swedish universities do not have study programs in the science and <strong>practice</strong> of winemaking.</p>
+<p>Maarten van Aalst is a climate professor at the University of Twente in the Netherlands. He said businesses are often first to identify and react<strong> </strong>to climate change. He said it is good that "climate change is partly something we can <strong>adapt</strong> to."</p>
+<p>But, he warned, it is not all good weather in Sweden. He pointed to recent heavy rains that caused flooding, resulting in $150 million in damage. He said bad weather is becoming more common because of human-caused climate change.</p>
+<p>In Sweden, vineyards account for about 150 hectares of land. The number is one million in Spain and about 800,000 in France.</p>
+<p>Swedish winemakers hope that as the industry grows, the government will make rules that help them expand their businesses. For example, right now in Sweden, wine makers cannot sell their own wine. People who want a bottle must purchase from a government-run store.</p>
+<p>Mikael Molstad writes about wine. He said the Swedish government is not in favor of making it easier to buy alcohol.</p>
+<p>"Politicians," he said, "still see alcohol as a social problem."</p>
+<p>Goran Amneg<i></i>229;rd is a prize-winning winemaker who started 20 years ago. He is pleased to see more wineries opening in Sweden.</p>
+<p>He thinks more people will come to take advantage of the warmer temperatures and longer growing time.</p>
+<p>"I can see things growing here that were unthinkable 30 or 40 years ago," Amneg<i></i>229;rd said as he looked out over his small vineyard.</p>
+<p>"We're seeing fruit trees like peaches and apricots. I'm getting beautiful peaches in August."</p>
+<p>I'm Dan Friedell. And I'm Faith Pirlo.</p>
+<p><em>Dan Friedell adapted this story for Learning English based on a report by the Associated Press.</em></p>
+<p>__________________________________________________</p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>wine</strong> <em>–n. </em>an alcoholic beverage made from fermented grapes<em> </em></p>
+<p><strong>grape</strong> <em>–n. </em>a fruit that grows on a vine that is used to make wine or juice<em> </em></p>
+<p><strong>momentum</strong> <em>–n. </em>forward movement or progress toward a goal<em> </em></p>
+<p><strong>frontier</strong> <em>–n. </em>an unexplored area, or a place far away from a developed part of the world<em> </em></p>
+<p><strong>sustainable</strong> <em>–n. </em>something that can be done often and in a repeatable way<em> </em></p>
+<p><strong>practice</strong> <em>–n. </em>the way of doing something</p>
+<p><strong>adapt</strong> <em>–v. </em>to change and adjust to outside forces or pressure<em> </em></p>
+<p><em>We want to hear from you. Are you interested in trying wine from Sweden?</em></p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>Gabon Military Seizes Power In Oil-rich Country  (2023/8/31)</title>
+            <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202308/gabon-military-seizes-power-in-oil-rich-country.mp3"/>
+            <content:encoded><![CDATA[<div class="content">
+<span class="byline">By Dan Novak</span><br/>
+<span class="datetime">30 August 2023</span><br/>
+<p>Military officers in oil-producing Gabon said they had seized power on Wednesday and had put President Ali Bongo under house arrest. The military seized control minutes after the Central African state's election body announced he had won a third term.</p>
+<p>The officers said they represented the armed forces. They said on television that the election results were canceled. They also said the borders were closed and state <strong>institutions</strong> had broken up. The military takeover took place after a vote that was set to extend the Bongo family's 50-plus years in power.</p>
+<p>The Gabon officers call themselves The Committee of Transition and the Restoration of Institutions. They said the country faced "a severe institutional, political, economic, and social crisis." They said the August 26 vote was not <strong>credible</strong>.</p><div class="contentImage"><img alt="This video grab shows soldiers speaking on state television as they announce that they had seized power in Libreville, Wednesday Aug. 30, 2023. (GABON 24 via AP)
+" src="https://img.51voa.cn/1/01000000-0aff-0242-8123-08dba968095b_w268_r1.jpg"/><br/><span class="imagecaption">This video grab shows soldiers speaking on state television as they announce that they had seized power in Libreville, Wednesday Aug. 30, 2023. (GABON 24 via AP)
+</span></div>
+<p>One of the officers is Brice Oligui Nguema. In a video he appeared to be the military's leader. He told French newspaper <em>Le Monde</em> that he and other generals would meet on Wednesday to select someone to head the <strong>transitional</strong> government.</p>
+<p>Hundreds of people celebrated the military's intervention on the streets of Libreville, the Gabonese capital.</p>
+<p>The officers said they had detained Bongo, who took over in 2009. Before that, his father Omar, had ruled Gabon since 1967. The officer also said they had arrested the president's son and others for corruption and treason.</p>
+<p>Opponents say the family has done little to share the state's oil and mining wealth with its 2.3 million people. Violent unrest broke out after Bongo's disputed 2016 election win. There was a failed <strong>coup</strong> attempt in 2019.</p>
+<p>The 64-year-old Bongo was last seen in public voting on Saturday.</p>
+<p><strong>French Condemnation</strong></p>
+<p>France, Gabon's former colonial ruler, condemned the takeover. France has troops in the country.</p>
+<p>"We condemn the military coup and recall our commitment to free and <strong>transparent</strong> elections," French government spokesman Olivier Veran said.</p>
+<p>The coup creates more uncertainty for France's presence in the area. France has about 350 troops in Gabon. Its forces have been kicked out of Mali and Burkina Faso after coups there in the last two years.</p>
+<p>The African Union's Peace and Security Council chair called for a meeting on the situation with Burundi, Senegal and Cameroon. China called for a peaceful resolution and Russia said it hoped for a quick return to <strong>stability</strong>.</p>
+<p>Rukmini Sanya is an expert at the Economist Intelligence Unit. He said, "Mr. Bongo is not expected to be able to suppress the uprising." He said there was "widespread public discontent" against Bongo, his family and his ruling party.</p>
+<p>Gabon produces about 200,000 barrels of oil a day. International companies include France's TotalEnergies and Anglo-French producer Perenco. French miner Eramet said it had halted operations in Gabon.</p>
+<p>There were concerns about <strong>transparency</strong> regarding Saturday's vote. During the election, there was a lack of international observers and some foreign broadcasts were suspended. The government also cut internet service and put in place a nighttime curfew. On Wednesday, internet access appeared to be in place for the first time since the election.</p>
+<p>Shortly before the coup, the election body had declared Bongo the election winner with 64.3 percent of the vote. His main opponent, Albert Ondo Ossa, received 30.8 percent of the vote.</p>
+<p>I'm Dan Novak.</p>
+<p><em>Dan Novak adapted this story for VOA Learning English based on reporting by Reuters.</em></p>
+<p><em>_________________________________________________</em></p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p class="CxSpMiddle"><strong>institution </strong><em>— n. </em> an established organization</p>
+<p class="CxSpMiddle"><strong>transition </strong><em>— n. </em>a change from one state or condition to another</p>
+<p class="CxSpMiddle"><strong>credible </strong><em>— adj. </em>able to be believed</p>
+<p class="CxSpMiddle"><strong>coup </strong><em>— adj. </em> a sudden attempt by a small group of people to take over the government usually through violence</p>
+<p class="CxSpMiddle"><strong>transparent </strong><em>— adj. </em>honest and open</p>
+<p class="CxSpMiddle"><strong>stability </strong><em>— n. </em>the quality or state of something that is not easily changed or likely to change</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>Hurricane Idalia Hits Florida with High Winds, Flooding  (2023/8/31)</title>
+            <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202308/hurricane-idalia-hits-florida-with-high-winds-flooding.mp3"/>
+            <content:encoded><![CDATA[<div class="content">
+<span class="byline">By Hai Do</span><br/>
+<span class="datetime">30 August 2023</span><br/>
+<p>Hurricane Idalia made <strong>landfall</strong> on the west coast of the American state of Florida on Wednesday. Officials said the dangerous storm brought life-threatening <strong>storm surges</strong> and flooding to the area.</p>
+<p>By early Wednesday morning, more than 200,000 people reportedly were without electricity as strong winds brought down trees and power lines. Along the coast, some homes were underwater, and structures were crushed in the storm surge.</p>
+<p>"We have multiple trees down, <strong>debris</strong> in the roads, do not come," emergency officials in Cedar Key said. They said most of the streets around the downtown area were underwater.</p><div class="contentImage"><img alt="Members of the Tampa Fire Rescue Dept., remove a street pole brought down during Hurricane Idalia Wednesday, Aug. 30, 2023, in Tampa, Florida. (AP Photo/Chris O'Meara)" src="https://img.51voa.cn/1/01000000-0aff-0242-b673-08dba97f9a2f_w268_r1.jpg"/><br/><span class="imagecaption">Members of the Tampa Fire Rescue Dept., remove a street pole brought down during Hurricane Idalia Wednesday, Aug. 30, 2023, in Tampa, Florida. (AP Photo/Chris O'Meara)</span></div>
+<p>Idalia landed in a lightly populated area near Keaton Beach at 11:45 UTC. The Category 3 hurricane came with <strong>sustained</strong> wind speeds as high as 205 kilometers per hour. The National Weather Service places hurricanes into five groups depending on wind speed. The strongest level, a Category 5 hurricane, can reach sustained wind speeds of 252 kilometers an hour or higher.</p>
+<p>People who live along Florida's northwest coast had been ordered to leave the area before Idalia's arrival. On Wednesday morning, Governor Ron DeSantis told those who have not left to stay inside until the storm passes. He said, "Don't put your life at risk."</p>
+<p><strong>A full moon could raise tides higher</strong></p>
+<p>As the hurricane continues, a rare full moon, called a supermoon, could cause <strong>tides</strong> to rise higher than normal along Florida's coast.</p>
+<p>When the moon is full, the sun and the moon are pulling in the same direction. This has the effect of increasing tides above normal, said Kerry Emanuel. He is an atmospheric scientist at the Massachusetts Institute of Technology.</p>
+<p>The moon's gravitational pull is stronger when it is closer to the Earth, so the tides could be higher. Wednesday's supermoon is the closest to the Earth this year.</p>
+<p>Brian Haines is head of the National Weather Service office in Charleston, South Carolina. He said, "I would say the timing is pretty bad for this one."</p>
+<p>The storm surge is often the most dangerous event when a hurricane strikes. The National Hurricane Center estimated on Tuesday that ocean water levels could increase by 4.6 meters along parts of Florida's west coast. Farther south, a storm surge of up to 2.1 meters is expected in the Tampa Bay area.</p>
+<p>Hurricanes get their energy from warm water. Idalia is feeding from warm water around Florida.</p>
+<p>Colorado State University hurricane researcher Phil Klotzbach called the water temperature of 31-32 degrees "rocket fuel for the storm." He added, "It's basically all systems go for the storm to intensify."</p>
+<p>The National Weather Service in Tallahassee called Idalia "an <strong>unprecedented</strong> event" since no major hurricanes on record have ever passed through the area around Big Bend. The state of Florida, however, is still dealing with damage from Ian, a Category 5 hurricane, last year. Ian was responsible for almost 150 deaths and damaged 52,000 structures.</p>
+<p>The National Oceanic and Atmospheric Administration recently said the 2023 hurricane season would be far more active because of extremely warm ocean temperatures. The season runs through November, with most storms taking place in August and September.</p>
+<p>I'm Mario Ritter Jr.</p>
+<p><em>Hai Do adapted this report for VOA Learning English from Associated Press sources. </em></p>
+<p>____________________________________________________</p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>landfall</strong><strong> </strong><em>–n. </em>the act of reaching land after a long trip at sea</p>
+<p><strong>storm surge</strong> <em>–n.</em> an event in which high winds force water from the sea onto the land</p>
+<p><strong>debris </strong><em>–n.</em> wreckage and broken pieces of things</p>
+<p><strong>sustained </strong><em>–adj.</em> continuing for a period of time</p>
+<p><strong>tide </strong><em>–n.</em> the regular upward and downward movement of sea levels in places caused by the moon and other influences</p>
+<p><strong>unprecedented </strong><em>–adj.</em> describing something that has never happened before</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
             <title>Air Pollution Now Considered Major Risk to Life Expectancy in South Asia  (2023/8/30) | 南亚空气污染被视为预期寿命的重大风险</title>
             <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
             <enclosure type="audio/mpeg" url="https://files.51voa.cn/202308/air-pollution-now-considered-major-risk-to-life-expectancy-in-south-asia.mp3"/>
@@ -1870,161 +2033,6 @@ Chandrayaan这个名字在梵语中的意思是“月球飞船”。</p>
 <p><strong>resident</strong> <em>–n. </em>a person who lives full-time in a place</p>
 <p><strong>sustainable</strong> <em>–adj. </em>able to continue for many years without causing damage</p>
 <p><em>We want to hear from you. Would you want to visit Alaska even if you knew some of the famous glaciers would be hard to see?</em></p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>Descent vs. Ancestry  (2023/8/19)</title>
-            <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202308/descent-vs-ancestry.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By Faith Pirlo</span><br/>
-<span class="datetime">18 August 2023</span><br/>
-<p>Hi there! This week on <em>Ask a Teacher</em>, we will answer a question about the difference between "descent" and "ancestry."</p>
-<p><strong>Question:</strong></p>
-<p>Dear friends,</p><div class="contentImage"><img alt="Ask a Teacher: Descent vs. Ancestry " src="https://img.51voa.cn/1/01000000-0aff-0242-c736-08db9fe78185_w268_r1.png"/><br/><span class="imagecaption">Ask a Teacher: Descent vs. Ancestry </span></div>
-<p>My name is Karim. I am 53 years old, and I am from Uzbekistan. I have been learning English on my own for 3 years. Although I cannot speak yet, I like learning English, reading books and listening to your <strong>podcasts</strong>.</p>
-<p>I would like to ask about the difference between "descent" and "ancestry".</p>
-<p>Thanks a lot for your help and support!</p>
-<p>Karim</p>
-<p><strong>Answer: </strong></p>
-<p>Thank you for writing to us, Karim! Keep up the good work learning English with us.</p>
-<p>This is a great question!</p>
-<p>A few months ago, I wrote about "<a class="wsw__a" href="https://www.51voa.com/a/heritage-v-inheritance-/6676326.html">heritage" and "inheritance</a>."</p>
-<p>These words are related to Karim's question.</p>
-<p>Let's start with "descent."</p>
-<p><strong>Descent</strong></p>
-<p>"Descent" is a noun that means a person's family, social status, ethnicity or <strong>origin</strong>. We usually use it with an adjective that describes a person's background.</p>
-<p><em>She is of Irish descent.</em></p>
-<p><em>Beau's family, of Cajun descent, is from the state of Louisiana.</em></p>
-<p>Another noun, "descendant" is connected to "descent." It means a person in a family line that stretches from earlier generations to the present one.</p>
-<p><em>The United States' fourth president, James Madison, had no direct descendants.</em></p>
-<p>Both words come from the verb "descend." To "descend" means to come from a family line or group.</p>
-<p><em>There is a theory that birds descended from dinosaurs.</em></p>
-<p>"Descend" also means to go or come down from a higher place.</p>
-<p>Let's move onto "ancestry."</p>
-<p><strong>Ancestry</strong></p>
-<p>"Ancestry" is a noun that also means a person's ethnic origin or their family members from past to present.</p>
-<p>For example, I am American because I was born in the United States, but my great-grandfather was from Italy.</p>
-<p><em>I have Italian ancestry.</em></p>
-<p>We can use the word "ancestry" as a synonym, or a word that has the same meaning, for "descent."</p>
-<p><em>A recent study has shown that many people of Puerto Rico still have Taíno ancestry.</em></p>
-<p>Another noun we use is "ancestor." Your "ancestors" are the people from whom you descended.</p>
-<p><em>In many religions and cultures, ancestors hold a special place and are honored in ceremonies.</em></p>
-<p>Please let us know if these explanations and examples have helped you, Karim.</p>
-<p>Do you have a question about American English? Send us an email at <a class="wsw__a" href="mailto:learningenglish@voanews.com">learningenglish@voanews.com</a>.</p>
-<p>And that's <em>Ask a Teacher</em>.</p>
-<p>I'm Faith Pirlo.</p>
-<p><em>Faith Pirlo wrote this lesson for VOA Learning English.</em></p>
-<p><em>___________________________________________________</em></p>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p><strong>podcast</strong> – <em>n</em>. digital audio programs</p>
-<p><strong>origin</strong> – <em>n</em>. the place where a person comes from; the beginning or starting point</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>Why Are Major Powers Interested in the Moon?  (2023/8/18)</title>
-            <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202308/why-are-major-powers-interested-in-the-moon.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By John Russell</span><br/>
-<span class="datetime">17 August 2023</span><br/>
-<p>Russia recently launched its first moon-landing spacecraft in 47 years. The launch comes during a time of competition by major powers including the United States, China and India to discover more about the resources held on the moon.</p>
-<p>Russia said that it would launch further moon missions and then explore the possibility of a joint Russian-China crewed mission and even a moon base. NASA has spoken about the possibility of moon mining and a "gold rush" - a situation in which many people go quickly to a place where something valuable has been discovered.</p>
-<p>Why are major powers so interested in what is up there?</p><div class="contentImage"><img alt="FILE - In this handout from the Russian Space Agency Roscosmos on August 11, 2023, a Soyuz 2.1b rocket with the Luna-25 lander blasts off at the Vostochny cosmodrome in the Amur region. (Russian Space Agency Roscosmos/AFP) " src="https://img.51voa.cn/1/5854769c-13ba-4f8a-adbf-41fc21a95e56_w268_r1.jpg"/><br/><span class="imagecaption">FILE - In this handout from the Russian Space Agency Roscosmos on August 11, 2023, a Soyuz 2.1b rocket with the Luna-25 lander blasts off at the Vostochny cosmodrome in the Amur region. (Russian Space Agency Roscosmos/AFP) </span></div>
-<p><strong>The moon </strong></p>
-<p>The moon is about 384,400 kilometers from our planet.</p>
-<p>The current thinking is that the moon was formed when a large object crashed into earth about 4.5 billion years ago. Some of the remains from the crash came together to form the moon.</p>
-<p>Temperatures are <strong>diverse</strong> on the moon. In full Sun, they rise to 127 degrees Celsius, while in darkness they drop to about minus 173 degrees Celsius. The moon's <strong>exosphere</strong> does not give protection against radiation from the Sun.</p>
-<p>The first discovery of water on the moon was made in 2008 by the Indian mission Chandrayaan-1, which detected hydroxyl molecules spread across the moon's surface. The molecules were most commonly found at the poles, NASA says.</p>
-<p>Water is necessary for human life and also can be a source of hydrogen and oxygen. These elements can be used for rocket fuel.</p>
-<p>The moon also likely has Helium-3.</p>
-<p>Helium-3 is a kind of helium that is rare on earth, but NASA reports estimates of a million tons of it on the moon.</p>
-<p>Helium-3 could provide nuclear energy in a fusion reactor. But since Helium-3 is not radioactive it would not produce dangerous waste, the European Space Agency says.</p>
-<p>Also present on the moon are rare earth metals. Rare earth metals are used in smartphones, computers and other special technologies. Boeing, a very large American aerospace business, says the moon may have rare earth metals including candium, yttrium and the 15 lanthanides.</p>
-<p><strong>Moon mining </strong></p>
-<p>But it is not entirely clear how mining on the moon would work.</p>
-<p>Some sort of <strong>infrastructure</strong> would have to be established on the moon. The conditions of the moon mean robots would have to do most of the hard work, though water on the moon would allow for a long-term human presence.</p>
-<p>The laws governing moon mining are unclear and full of holes.</p>
-<p>The United Nations 1966 Outer Space Treaty says that no nation can claim rule over the moon. In addition, the treaty says the exploration of space should be done for the good of all countries.</p>
-<p>But lawyers say it is unclear whether or not a private business could claim rule over a part of the moon.</p>
-<p>"Space mining is subject to relatively little existing policy or governance," The RAND Corporation, a research group, said on its website last year.</p>
-<p>The UN's 1979 Moon Agreement says that no part of the moon "shall become property of any State, international intergovernmental or non-governmental organization, national organization or non-governmental <strong>entity</strong> or of any natural person."</p>
-<p>But, no major space power has approved the measure.</p>
-<p>The United States in 2020 announced the Artemis Accords, named after NASA's Artemis moon program. The agreement aims to build on existing international space law by establishing "safety<strong> zones</strong>" on the moon. Russia and China have not joined in the agreement, however.</p>
-<p>I'm John Russell.</p>
-<p><em>Guy Faulconbridge reported on this story for Reuters. John Russell adapted it for VOA Learning English. </em></p>
-<p>__________________________________________________</p>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p><strong>diverse </strong><em>-- adj. </em>different from each other</p>
-<p><strong>exosphere</strong> <em>– n.</em> the outer area of the atmosphere</p>
-<p><strong>infrastructure </strong><em>– n.</em> the basic equipment and structures that are needed for a country or organization to function properly</p>
-<p><strong>entity </strong><em>-- n. </em>something that exists by itself : something that is separate from other things</p>
-<p><strong>zone </strong><em>-- n. </em>an area that is different from other areas in a particular way</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>African Leadership Groups Concerned about Military Takeover in Niger  (2023/8/18)</title>
-            <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202308/african-leadership-groups-concerned-about-military-takeover-in-niger.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By Dan Friedell</span><br/>
-<span class="datetime">17 August 2023</span><br/>
-<p>Defense leaders from the West African group of nations known as ECOWAS are meeting to discuss the political crisis in Niger.</p>
-<p>The leaders are concerned. The military group that ousted Niger's President Mohamed Bazoum in July did not answer an ECOWAS request to stand down or face an invasion.</p>
-<p>ECOWAS has 15 member countries and is based in Abuja, Nigeria.</p><div class="contentImage"><img alt="Military personnel gesture as the ECOWAS anthem is played during a meeting of the Committee of Chiefs of Defense staff on the deployment of the ECOWAS standby force in the Republic of Niger, in Accra, Ghana. August 17, 2023. (REUTERS/Francis Kokoroko)" src="https://img.51voa.cn/1/a21b376f-3cd6-41ea-bca8-43b5e43faa83_w268_r1.jpg"/><br/><span class="imagecaption">Military personnel gesture as the ECOWAS anthem is played during a meeting of the Committee of Chiefs of Defense staff on the deployment of the ECOWAS standby force in the Republic of Niger, in Accra, Ghana. August 17, 2023. (REUTERS/Francis Kokoroko)</span></div>
-<p>Outside security experts said ECOWAS has not been able to prevent leadership takeovers in other West African nations. That includes the recent government overthrows in Burkina Faso and Mali.</p>
-<p>This time, however, the group organized a "<strong>standby</strong> force" that is ready to move on the Nigerien capital of Niamey if Bazoum is not put back in place. In addition, the group put financial and travel restrictions on Niger.</p>
-<p>So far, nothing has changed. Defense experts say ECOWAS is running out of ways to put pressure on the group that took power in Niger.</p>
-<p>Andrew Lebovich studies northern Africa for the Clingendael Institute, a research group based in the Netherlands.</p>
-<p>He said: "An intervention could <strong>backfire</strong> and damage (ECOWAS) in numerous ways. While a failure to <strong>extract</strong> major <strong>concessions</strong> from (the soldiers in control) could weaken the organization..."</p>
-<p>Another group of African states, the African Union, met earlier this week to discuss whether it would support a military move by ECOWAS. The African Union includes 55 nations in Africa. The union could prevent a military action by ECOWAS if it felt that the move would <strong>destabilize </strong>Niger and nearby countries.</p>
-<p>The status of who leads Niger is important to western nations, including France and the United States. Both countries have soldiers in Niger. They have been working to train and support local soldiers in their fights against Islamic militant groups. Niger had been one of the last countries in the area with a democratic government.</p>
-<p>Since the military group pushed out Bazoum and took control in Niger, the U.S. and France are no longer supporting the Nigerien soldiers.</p>
-<p>This makes Niger open to outside attacks. The Associated Press reports that 17 Nigerien soldiers were killed and over 20 were injured in an attack Tuesday in the Tillaberi area in the country's northwest.</p>
-<p>In Niamey, locals are concerned both about a military move by ECOWAS and the effects of financial and travel restrictions. Some of the electric power – most of which comes from Nigeria – has been cut off. Restaurant owners say they cannot keep food cold. The ECOWAS restrictions include limits on who can enter and leave Niger. They are also preventing aid workers from coming in with food and supplies.</p>
-<p>Louise Aubin is the coordinator in Niger for the United Nations. She is concerned that food and medical supplies inside Niger could <strong>run out</strong> because of the border restrictions. The U.N. and other aid groups said 4 million of the 25 million people in Niger needed assistance before the military takeover. They expect that number to increase.</p>
-<p>I'm Dan Friedell.</p>
-<p><em>Dan Friedell adapted this story for Learning English based on a report by the Associated Press.</em></p>
-<p>____________________________________________________</p>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p><strong>standby </strong><em>–adj.</em> ready or available in emergencies or on short notice</p>
-<p><strong>backfire </strong><em>–v. </em>to have the opposite result of what was desired or expected</p>
-<p><strong>extract </strong><em>–v. </em>to get</p>
-<p><strong>concessions </strong><em>–n.</em> (usually pl.) things that are given up in an effort to gain something else</p>
-<p><strong>destabilize </strong><em>–v.</em> to make something less secure, steady or predictable</p>
-<p><strong>run out </strong><em>–v. (phrasal</em>) to become used up with nothing left</p>
-<p><em>We want to hear from you. Are you worried about Niger now that the military group in control has not stepped down?</em></p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>Present Tense in 'We Didn’t Start the Fire'  (2023/8/18)</title>
-            <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202308/present-tense-in-we-didn-t-start-the-fire.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By Faith Pirlo</span><br/>
-<span class="datetime">17 August 2023</span><br/>
-<p>The band Fallout Boy recently released a version of the song, <em>We Didn't Start the Fire. </em>The song was first released in 1989 by the singer/songwriter Billy Joel.</p>
-<p>Joel's song was about notable events and people in the United States and throughout the world from the years 1948, when Joel was born, to 1989.</p>
-<p>More than 30 years have passed since then. Now, Fallout Boy remade the song to include events from 1989 to 2023. Joel's song was in chronological order, meaning the events are presented in the order in which they took place. Fallout Boy's version is not chronological.</p><div class="contentImage"><img alt="Everyday Grammar: Present Tense in " didn="" fire="" src="https://img.51voa.cn/1/01000000-0aff-0242-4e6e-08db9e6ff67c_w268_r1.png" start="" the="" we=""/><br/><span class="imagecaption">Everyday Grammar: Present Tense in "We Didn't Start the Fire" </span></div>
-<p>Another difference between the two is Fallout Boy's remake uses more full sentences. Both songs are mainly lists of people, places and events that many Americans are likely to remember.</p>
-<p>In today's <em>Everyday Grammar</em>, we will explore some of the different ways that the present tense is used in the song and some additional grammar points.</p>
-<p><em>Faith Pirlo wrote this lesson for VOA Learning English.</em></p>
-<p><strong>______________________________________________</strong></p>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p><strong>habit </strong><em>– n. </em>something a person does regularly in a repeated way</p>
-<p><strong>consonant</strong><strong> </strong><em>– n.</em> a speech sound (such as /p/, /d/, or /s/) that is made by partly or completely stopping the flow of air breathed out from the mouth</p>
-<p><strong>extinct </strong><em>– adj. </em>describing a species that no longer exists</p>
-<p><strong>informal</strong> <em>– adj. </em>suited for ordinary or everyday use</p>
-<p><strong>contraction </strong><em>–n.</em> a shortened form of a word</p>
-<p><strong>passive voice</strong> <em>–</em> <em>n</em>. a way of writing or speaking that uses passive verbs where the subject receives the action of a verb</p>
-<p><strong>impeach </strong><em>– v.</em> to charge (a public official) with a crime done while in office</p>
-<p><strong>transitive verb </strong><em>– n.</em> a verb that takes a direct object</p>
-<p><strong>refer to </strong><em>–v. (phrasal) </em>to talk about or mention something</p>
-<p><strong>dramatic </strong><em>– adj. </em>striking in appearance or effect</p>
 </div>]]></content:encoded>
             <itunes:explicit>no</itunes:explicit>
           </item>
