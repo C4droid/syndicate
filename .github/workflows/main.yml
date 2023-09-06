@@ -1,6 +1,9 @@
 name: update atom
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '0 10,22 * * *'
 jobs:

@@ -10,6 +10,7 @@ import arrow
 import requests
 from bs4 import BeautifulSoup
 from mako.template import Template
+from requests.adapters import HTTPAdapter, Retry
 import time
 
 headers = {
@@ -117,10 +118,16 @@ class Entry(object):
         )
 
 
+session = requests.Session()
+session.headers.update(headers)
+retries = Retry(total=3, backoff_factor=1)
+session.mount("http://", HTTPAdapter(max_retries=retries))
+session.mount("https://", HTTPAdapter(max_retries=retries))
+
+
 def get(link):
-    response = requests.get(
+    response = session.get(
         link,
-        headers=headers,
     )
     response.encoding = "UTF-8"
     return BeautifulSoup(response.text, "lxml")
