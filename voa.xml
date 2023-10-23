@@ -65,6 +65,130 @@ American Mosaic（美国万花筒） American Mosaic是一个radio magazine（�
 American Stories（美国故事） 这一专题材节目安排在每星期六晚上播出。这样能使听众在学习和工作之余，得以轻松一下头脑。我们可以通过这一美国文学的“窗口”，接触各种流派、各类名家的文学作品。了解美国英语的时代特色，欣赏、学习美国人民运用语方的技巧，并从那些佳作名篇中获得艺术享受。该节目对短篇故事采取一次播一篇的方式，对中、长篇小说则先进行简写加工，再分几次播出全文。在播出故事正文之前，播音员常常先介绍故事的主要情节。对需要分几次节目时间播出的中长篇，在播第二或以后各部分之前，主持人还先重述已播部分的故事梗概，以唤起听众的回忆，使故事听起来更加连贯。</description>
         <itunes:explicit>no</itunes:explicit>
           <item>
+            <title>Researchers Build First AI Tool to Discover Supernovas  (2023/10/23)</title>
+            <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202310/researchers-build-first-tool-to-discover-supernovas.mp3"/>
+            <content:encoded><![CDATA[<div class="content">
+<span class="byline">By Bryan Lynn</span><br/>
+<span class="datetime">22 October 2023</span><br/>
+<p>Scientists say they have built an artificial intelligence (AI) tool that can successfully identify and confirm supernovas.</p>
+<p>A supernova is an "extremely bright, super-powerful explosion of a star," the American space agency NASA <a class="wsw__a" href="https://spaceplace.nasa.gov/supernova/en/">reports</a>. The explosion takes place at the end of a star's life.</p>
+<p>The current process for discovering supernovas usually involves both machines and people. Telescopes repeatedly collect images of the night sky and compare these images to identify differences in observed objects. These differences can suggest the presence of supernovas.</p><div class="contentImage"><img alt="A deep-space image shows the galaxy where the supernova happened. (Image Credit: Legacy Surveys/D. Lang (Perimeter Institute/NASA/JPL-Caltech) " src="https://img.51voa.cn/1/01000000-c0a8-0242-31f9-08dbd0f759df_cx0_cy9_cw0_w268_r1.jpg"/><br/><span class="imagecaption">A deep-space image shows the galaxy where the supernova happened. (Image Credit: Legacy Surveys/D. Lang (Perimeter Institute/NASA/JPL-Caltech) </span></div>
+<p>Robotic telescopes can present a list of possible supernovas to human scientists. This data is then examined by human scientists whose job it is to identify and confirm supernova candidates. Now, for the first time, researchers say they have successfully used an AI tool to complete all steps in this process.</p>
+<p>An international team of scientists developed the AI-based system. Researchers from Northwestern University in Chicago, Illinois led the team. The team's chief was Adam Miller, an assistant professor of Physics and Astronomy at Northwestern.</p>
+<p>Miller <a class="wsw__a" href="https://news.northwestern.edu/stories/2023/10/first-supernova-detected-confirmed-classified-and-shared-by-ai/">said</a> his team recently informed the international astronomical community of its success with the new AI system. The tool is called the Bright Transient Survey Bot, or BTSbot.</p>
+<p>The robot was used to find, identify and <strong>classify</strong> a supernova for the first time, Miller said. He noted that researchers had spent more than 2,000 hours over the past six years looking at telescope data in order to find and classify supernova candidates.</p>
+<p>"For the first time ever, a series of robots and AI algorithms has observed, then identified, then communicated with another telescope to finally confirm the discovery of a supernova," Miller said.</p>
+<p>The researchers say the new system can take over much of the work humans now do looking for and classifying supernovas. This can free up scientists to do more in-depth examinations of the supernovas themselves and the reasons they were created.</p>
+<p>In order to confirm a supernova, scientists have to examine its spectrum. The spectrum represents the object's <strong>dispersed</strong> light, which shows elements that were present during the explosion of a supernova.</p>
+<p>The study of supernovas has high scientific value because it can help astronomers learn more about the universe and how it began. For example, NASA <a class="wsw__a" href="https://spaceplace.nasa.gov/supernova/en/">says</a> scientists have learned a lot about the behaviors and chemical processes of stars from supernovas.</p>
+<p>Miller said the new tool can help researchers "<strong>analyze</strong> their observations and develop new <strong>hypotheses</strong>" to explain why the supernova explosions happened.</p>
+<p>Nabeel Rehemtulla co-led the research and development of the BTSbot. He said the tool greatly "streamlines large studies of supernovas." This helps scientists better understand the life cycles of stars and helps to identify elements supernovas create, such as carbon, iron and gold, Rehemtulla noted.</p>
+<p>The research team said testing of the BTSbot involved looking at a newly discovered supernova candidate called SN2023tyk. The AI tool identified the supernova on October 5.</p>
+<p>After the identification, the BTSbot requested additional data on its own from the California-based Palomar Observatory. Then, another telescope, known as the SED Machine, performed its own "in-depth observations" to get information on the object's spectrum.</p>
+<p>The SED Machine then sent the spectrum data to the California Institute of Technology (Caltech). Caltech uses an AI <strong>algorithm</strong> to classify the kind of supernova. This can either be a thermonuclear explosion of a white dwarf or the collapse of a star's center, or core.</p>
+<p>The algorithm classified the supernova a Type 1a, a kind of star explosion in which a white dwarf in a star system fully explodes.</p>
+<p>Rehemtulla said the success of the BTSbot will ease supernova identifications, while freeing up human scientists to do more detailed study of the newly discovered objects.</p>
+<p>"The beauty of it is that, once everything is turned on and working properly, we don't actually do anything," Rehemtulla noted. "We go to sleep at night, and, in the morning, we see that BTSbot, and these other AIs, <strong>unwaveringly</strong> do their jobs."</p>
+<p>I'm Bryan Lynn.</p>
+<p><em>Bryan Lynn wrote this story for VOA Learning English, based on reports from Northwestern University and NASA. </em></p>
+<p><strong>____________________________________________</strong></p>
+<h2 class="wsw__h2"> </h2>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>classify </strong><em>– v. </em>to put people or things together in groups based on their kind, size, etc.</p>
+<p><strong>disperse </strong><em>– v. </em>to separate and go into different directions</p>
+<p><strong>analyze </strong><em>– v. </em>examine the details of something</p>
+<p><strong>hypothesis </strong><em>– n. </em>a theory for something that has not yet been proven</p>
+<p><strong>algorithm </strong><em>– n. </em>a set of steps that are followed in order to solve a mathematical problem or to complete a computer process</p>
+<p><strong>unwavering </strong><em>– adj. </em>not moving of changing</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>Tiny Antarctic Ocean Animal Raises Big Questions  (2023/10/23)</title>
+            <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202310/tiny-antarctic-ocean-animal-raises-big-questions.mp3"/>
+            <content:encoded><![CDATA[<div class="content">
+<span class="byline">By Mario Ritter, Jr</span><br/>
+<span class="datetime">22 October 2023</span><br/>
+<p>Antarctic krill, a relative of shrimp and crabs, are only a few centimeters in size. But scientists say they are important to the area's <strong>food web</strong>, including food for some of the Earth's largest animals, whales.</p>
+<p>Fishing ships in the Antarctic gather krill for use as food in an increasing number of products. That has activists concerned.</p>
+<p>Alistair Allan is an activist with the Bob Brown Foundation, an Australian environmental group with ties to the country's Green Party. Allan said he was worried the ship activity could harm the whales: "You have the ships almost running into whales feeding on the same things they're fishing."</p><div class="contentImage"><img alt="This photo provided by the British Antarctic Survey shows an Antarctic krill (Euphausia suberba). (Chris Gilbert/British Antarctic Survey)" src="https://img.51voa.cn/1/01000000-0aff-0242-9a99-08dbcf5f10d0_cx0_cy1_cw0_w268_r1.jpg"/><br/><span class="imagecaption">This photo provided by the British Antarctic Survey shows an Antarctic krill (Euphausia suberba). (Chris Gilbert/British Antarctic Survey)</span></div>
+<p>Krill fishing is banned in U.S. waters because of concerns it could affect whales, seals and other sea animals. But krill fishing has gone on for about 60 years. It is believed to have started when the former Soviet Union sent an industrial fleet to the Antarctic in search of a supply of high-protein food.</p>
+<p>Demand has increased over the years. Krill is used a lot in the fish farming industry. They are also used in nutritional supplements, pet food and other high-protein foods.</p>
+<p>The Associated Press reports that 10 to 12 ships, mainly from Norway and China, head to the South Orkney Islands, to fish for krill each December. Fishing countries agreed to a catch limit under a <strong>conservation</strong> agreement. In 2022, that level was about 416,000 metric tons.</p>
+<p>A coalition of countries led by the U.S. has called for additional restrictions. The coalition says krill is important to other animals. It also says that krill removes greenhouse gases from the atmosphere. However, China and Russia have opposed efforts to put in place new restrictions.</p>
+<p>There are reports that the krill boats are a danger to whales. In addition to that, a study from the University of California, Santa Cruz found that pregnancy rates among humpback whales in Antarctica have fallen sharply. The reason, it said, might be a lack of krill.</p>
+<p>Also, research published by the World Wildlife Fund, a Swiss conservation group, says that krill remove 23 million tons of carbon dioxide from the atmosphere. The research suggests that krill do this by eating phytoplankton, microscopic forms of life that make food from sunlight and carbon dioxide.</p>
+<p>Emma Cavan is a biologist at Imperial College London. She helped write the report. She said: "Antarctic krill are worth more to nature and people left in the ocean..."</p>
+<p><strong>More rules for krill harvesting</strong></p>
+<p>The Commission for the Conservation of Antarctic Marine Living Resources, or CCAMLR, is an international body with 27 member states established in 1982. The group, based in Tasmania, Australia, makes rules for conservation issues like krill fishing.</p>
+<p>But some supporters of the group say it has to consider climate change in its rules.</p>
+<p>Clair Christian is head of the Antarctic and South Ocean Coalition, a nonprofit group based in Washington, D.C. Her group represents environmental groups at CCAMLR meetings. Christian told the AP that CCAMLR is supposed to support conservation, "It's not to enable fishing," she said.</p>
+<p>The Australia-based Association of Responsible Krill harvesting companies (ARK) represents members who harvest 90 percent of the Antarctic krill. Members accepted <strong>self-imposed</strong> restrictions in 2018.</p>
+<p>The group has agreed to place stronger rules on moving krill between ships and to study the effects of climate change on krill.</p>
+<p>But the group says its catch limits should be higher. It noted that its members catch less than one percent of the estimated 60 million metric tons of krill found in the main Antarctic fishing grounds. That leaves 99 percent for whales and other animals.</p>
+<p>Activists, however, are calling for reform. Helena Herr studies whales at the University of Hamburg, in Germany. Herr briefly served in an advisory position with the ARK group. She believes krill fishing should be banned. She said she did not trust the estimates of the amount of krill in the Antarctic.</p>
+<p>"The data is based on such <strong>vague assumptions</strong> that we don't really know what we're doing," she said.</p>
+<p>I'm Mario Ritter. And I'm Gena Bennett.</p>
+<p><em>Joshua Goodman and David Keyton reported this story for the Associated Press. Mario Ritter, Jr. adapted it for VOA Learning English. </em></p>
+<p>________________________________________________</p>
+<h2 class="wsw__h2"> </h2>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>food web</strong><strong> </strong><em>–n. </em>the interconnected system of animals and plants that provide food and nutrients</p>
+<p><strong>conservation</strong> <em>–v.</em> the preservation and management of animals, plants, and natural resources for the present and the future</p>
+<p><strong>self-imposed </strong><em>–adj.</em> a requirement placed on yourself; a requirement that a group places on itself instead of having an outside group place requirements on it</p>
+<p><strong>vague </strong><em>–adj.</em> lacking details or clarity; something that could mean anything</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>EU to Investigate Chinese EV Makers over Competition Concerns  (2023/10/23) | 欧洲调查中国电动汽车制造商</title>
+            <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202310/eu-to-investigate-chinese-ev-makers-over-competition-concerns.mp3"/>
+            <content:encoded><![CDATA[<div class="content"><p>Chinese automakers are making gains in Europe's electric vehicle (EV) market.<br/>
+中国汽车制造商在欧洲电动汽车市场上取得一些进展。</p>
+<p>The competitive threat has led the European Union to launch an investigation into China's government support for its EV industry.<br/>
+这种竞争威胁导致欧盟对中国政府支持其电动汽车行业展开调查。</p>
+<p>The investigation adds to technology-related tensions between the West and China. At the same time, China is one of Europe's biggest trading partners and the world's biggest auto market.<br/>
+这项调查加剧了西方和中国之间与技术相关的紧张关系。与此同时，中国是欧洲最大的贸易伙伴之一，也是世界上最大的汽车市场。</p>
+<p><span style="font-weight: bold;">Chinese EV makers and Europe<br/>
+中国电动汽车制造商与欧洲</span></p>
+<p>Chinese EV makers like Europe because auto import taxes are just 10 percent compared to 27.5 percent in the United States, automotive expert Matthias Schmidt said. Europe also has the world's second-biggest EV battery market after China.<br/>
+汽车专家马蒂亚斯·施密特表示，中国电动汽车制造商喜欢欧洲，因为其汽车进口税仅为10%，而美国为27.5%。欧洲也是仅次于中国的全球第二大电动汽车电池市场。</p>
+<p>Car buyers in Europe like how Chinese EVs are not costly yet filled with features and stylish designs. Concerns about the threat to local carmakers and jobs are just not as important for some European buyers who face increased living costs.<br/>
+欧洲的购车者喜欢中国电动汽车价格不高，但充满了各种功能和时尚设计。对于一些面临生活成本增加的欧洲买家来说，对当地汽车制造商和就业威胁的担忧没那么重要。</p>
+<p>British retiree John Kirkwood replaced his Volkswagen Passat three years ago with an MG5 station wagon. The MG5's price was much lower than the price of the nearest competitor — a Kia that cost thousands more.<br/>
+英国退休人员约翰·柯克伍德三年前用一辆名爵5旅行车取代了他的大众帕萨特。名爵5的价格远低于最接近的竞争对手起亚的价格，后者的价格高出数千美元。</p>
+<p>"It's nice. It's quiet, it's refined" and very quick, Kirkwood said, adding that he had few concerns about the Chinese ownership of the British brand.<br/>
+柯克伍德说：“它很好。它很安静，很精致”，而且提速很快。他补充说，他对中国拥有这家英国品牌的所有权并不担心。</p>
+<p>MG is owned by SAIC Motor, China's biggest automaker. SAIC is the largest Chinese EV company in Europe too. Another Chinese automaker, BYD, is growing fast. Other companies with complete or partial Chinese ownership include Geely, which owns Sweden's Volvo and a number of EV brands including Polestar, Lynk &amp; Co. and British sports car maker Lotus.<br/>
+名爵隶属于中国最大的汽车制造商上汽集团。上汽集团也是欧洲最大的中国电动汽车公司。另一家中国汽车制造商比亚迪正在快速发展。其他完全或部分拥有中国所有权的公司包括吉利，吉利拥有瑞典沃尔沃，以及包括极星、领克和英国跑车制造商莲花在内的多个电动汽车品牌。</p>
+<p>Chinese EV makers combined sales are a small part of the 9.2 million vehicles sold in Europe every year. But Chinese EV builders have been taking up a piece of the smaller EV market at a fast rate.<br/>
+中国电动汽车制造商的总销量只占欧洲每年920万辆汽车销量中的一小部分。但中国电动汽车制造商一直在快速占领小型电动汽车市场。</p>
+<p>Schmidt's information suggests that Chinese automakers make up only about three percent of Western Europe's total car market, but Chinese manufacturers have 8.4 percent of the EV market. That number is up from 6.2 percent last year. In 2019, it was almost zero.<br/>
+施密特的信息表明，中国汽车制造商仅占西欧汽车总市场的3%左右，但中国制造商占电动汽车市场的8.4%。这个数字比去年的6.2%有所上升。2019年，这一数字几乎为零。</p>
+<p>The sales increase is leading some to worry about Europe's automotive industry. That powerful industry is mainly centered in France and Germany and employs many workers.<br/>
+销量的增长导致一些人对欧洲汽车业感到担忧。这个强大的产业主要集中在法国和德国，雇佣了许多工人。</p>
+<p>Last month, European Commission President Ursula von der Leyen said, "Global markets are now flooded with cheaper Chinese electric cars," with prices "kept artificially low by huge state subsidies."<br/>
+上个月，欧盟委员会主席乌尔苏拉·冯德莱恩表示，“全球市场现在充斥着更便宜的中国电动汽车”，价格“被巨额国家补贴人为压低”。</p>
+<p>A subsidy is government support that permits a company to sell products at unfairly low prices.<br/>
+补贴是指政府支持使得公司可以以不公平的低价销售产品。</p>
+<p>The commission, the EU's executive arm, officially opened its investigation this month, saying it would take up to 13 months and could result in import duties, another word for taxes.<br/>
+欧盟执行机构欧盟委员会本月正式开始调查，称这将需要长达13个月的时间，并可能导致进口税。</p>
+<p>China voiced "strong dissatisfaction" and promised to "firmly safeguard" Chinese companies' rights. The Chinese Commerce Ministry said the EU investigation is based on "subjective assumptions," lacks enough evidence and goes against World Trade Organization rules.<br/>
+中国表示“强烈不满”，并承诺“坚决维护”中国公司的权利。中国商务部表示，欧盟的调查是基于“主观假设”，缺乏足够的证据，违反了世界贸易组织的规定。</p>
+<p>Executives at Shanghai-based Aiways, a company headed by Volvo's former China sales chief, rejected accusations that the Chinese government unfairly supports its businesses.<br/>
+沃尔沃前中国销售总监领导的总部位于上海的爱威汽车公司的高管驳斥了有关中国政府不公平地支持其业务的指控。</p>
+<p>"We're not selling inside China, we're not being subsidized in China," said Alexander Klose, vice president of overseas operations. Klose said his company does get "some subsidies for putting a plant somewhere," but added that he believes that is "what everybody has in Europe."<br/>
+负责海外业务的副总裁亚历山大·克洛泽说：“我们不在中国境内销售，也不在中国获得补贴。”克洛泽说，他的公司确实“因为在某个地方建厂获得了一些补贴”，但他补充说，他相信这是“欧洲每家都有的”。</p>
+<p>The EU should be working on getting to a "green future "rather than keeping competition out," he said.<br/>
+他说，欧盟应该致力于实现“绿色未来”，而不是阻止竞争。</p>
+<p>I'm John Russell.<br/>
+我是约翰·拉塞尔。(51VOA.COM原创翻译，请勿转载，违者必究！)</p></div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
             <title>American Scores on College Admissions Test Drop to 30-year Low  (2023/10/22)</title>
             <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
             <enclosure type="audio/mpeg" url="https://files.51voa.cn/202310/american-scores-on-college-admissions-test-drop-to-30-year-low.mp3"/>
@@ -1830,112 +1954,6 @@ California Governor Gavin Newsom signed a law last week permitting low-income Me
 <p><strong>couple </strong>–n. two people who live together and have a romantic or sexual relationship</p>
 <p><strong>detective </strong>–n. a person who solves a mystery or finds an answer to something unknown</p>
 <p><strong>preceding </strong>–adj. existing or happening before</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>China Aims to Grow Influence in Space with ‘Tiangong’ Station  (2023/10/9) | 中国计划利用“天宫”空间站扩大太空影响力</title>
-            <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202310/china-aims-to-grow-influence-in-space-with-tiangong-station.mp3"/>
-            <content:encoded><![CDATA[<div class="content"><p>China plans to increase the size of its space station in the coming years.<br/>
-中国计划在未来几年扩大其空间站的规模。</p>
-<p>The station will offer astronauts from other countries a different choice for near-Earth missions. The International Space Station (ISS), led by NASA, is nearing the end of its service life.<br/>
-该空间站将为其他国家的宇航员提供近地任务的不同选择。由美国宇航局主导的国际空间站的使用寿命即将结束。</p>
-<p>The China Academy of Space Technology (CAST) said the operational lifetime of the Chinese space station will be more than 15 years. The organization is China's main space contractor. Chinese officials made the estimate recently at the 74th International Astronautical Congress in Baku, Azerbaijan.<br/>
-中国空间技术研究院表示，中国空间站的使用寿命将超过15年。该研究院是中国的主要太空承包商。中国官员最近在阿塞拜疆巴库举行的第74届国际宇航大会上做出了这一估计。</p>
-<p>That new operational lifetime would be more than the 10 years announced earlier.<br/>
-这一新的运营寿命将比之前宣布的10年更长。</p>
-<p>China's space station, known as Tiangong, or the Celestial Palace in Chinese, has been operational since late 2022. It holds up to three astronauts and orbits 450 kilometers above Earth.<br/>
-中国天宫空间站自2022年底开始运行。它最多可容纳三名宇航员，在地球上空450公里的轨道上运行。</p>
-<p>After an increase from three to six modules, Tiangong will be about 180 metric tons.<br/>
-在从三个模块增加到六个模块后，天宫号将达到约180公吨。</p>
-<p>Tiangong is 40 percent of the mass of the ISS, which can hold a crew of seven astronauts. But the ISS, in orbit for more than 20 years, is expected to stop service after 2030.<br/>
-天宫的质量相当于国际空间站的40%，国际空间站可容纳7名宇航员。但国际空间站在轨道上运行了20多年，预计将在2030年后停止服务。</p>
-<p>China has said it expects to become "a major space power". Chinese state media said last year as Tiangong became fully operational that China would be no "slouch" as the ISS headed toward retirement. State media added that "several countries" had asked to send their astronauts to the Chinese station.<br/>
-中国表示，它希望成为“一个重要的太空大国”。中国官方媒体在去年天宫全面投入使用时表示，随着国际空间站即将退役，中国将会毫不逊色。官方媒体补充说，已经有“数个国家”要求将宇航员送往中国空间站。</p>
-<p>But, the European Space Agency (ESA) said this year it did not have the financial or "political" approval to take part in Tiangong.<br/>
-但是，欧洲航天局今年表示，它没有获得参加天宫的财政或“政治”批准。</p>
-<p>The announcement suspended a plan that had been developed over years for a visit by European astronauts.<br/>
-该公告暂停了一项多年来为欧洲宇航员访问制定的计划。</p>
-<p>The Global Times wrote at the time: "Giving up cooperation with China in the manned space domain is clearly short-sighted, which reveals that the U.S.-led camp confrontation has led to a new space race."<br/>
-中国《环球时报》当时写道：“放弃与中国在载人航天领域的合作显然是短视的，这表明美国领导的阵营对抗导致了一场新的太空竞赛。”</p>
-<p>Tiangong has become a symbol of China's growing influence and belief in its space missions. U.S. law bans China from any work, direct or indirect, with NASA.<br/>
-天宫已经成为中国在太空任务日益增长的影响力和信心的象征。美国法律禁止中国与美国宇航局进行任何直接或间接的合作。</p>
-<p>Russia is highly involved in the ISS and has similar space diplomacy plans. Russia suggested that its partners in the BRICS group - Brazil, India, China and South Africa - could build a module for its new space station.<br/>
-俄罗斯高度参与了国际空间站，并有类似的太空外交计划。俄罗斯建议其在金砖国家集团的合作伙伴——巴西、印度、中国和南非——可以为其新的空间站建造一个模块。</p>
-<p>Roscosmos, the Russian space agency, said last year that it was planning to build a space station. The goal is for the station to have six modules that could hold up to four astronauts.<br/>
-俄罗斯航天局去年表示，它正计划建造一个空间站。空间站的目标是拥有六个模块，最多可容纳四名宇航员。</p>
-<p>I'm Mario Ritter Jr.<br/>
-我是小马里奥·里特。(51VOA.COM原创翻译，请勿转载，违者必究！)</p></div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>NASA to Launch Spacecraft to Observe Metal-rich Asteroid  (2023/10/9)</title>
-            <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202310/nasa-to-launch-spacecraft-to-observe-metal-rich-asteroid.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By Bryan Lynn</span><br/>
-<span class="datetime">08 October 2023</span><br/>
-<p>The American space agency NASA is preparing to launch a spacecraft designed to observe an <strong>asteroid</strong> made mostly of metal.</p>
-<p>The launch of the vehicle, called Psyche, is set for October 12 from Kennedy Space Center in Florida.</p>
-<p>The spacecraft will fly to an asteroid also called Psyche. It orbits the sun between Mars and Jupiter. NASA <a class="wsw__a" href="https://science.nasa.gov/solar-system/asteroids/16-psyche/">says</a> the asteroid was discovered by an Italian astronomer in 1852. Since it was the 16th asteroid discovered, it is sometimes also called 16 Psyche.</p><div class="contentImage"><img alt="This artist illustration depicts NASA's Psyche spacecraft, which will conduct a direct exploration of an asteroid thought to be a stripped planetary core. (NASA/JPL-Caltech)" src="https://img.51voa.cn/1/EDAA46D5-5DD0-4769-8218-15C4E58F711D_cx0_cy14_cw0_w268_r1.jpg"/><br/><span class="imagecaption">This artist illustration depicts NASA's Psyche spacecraft, which will conduct a direct exploration of an asteroid thought to be a stripped planetary core. (NASA/JPL-Caltech)</span></div>
-<p>Psyche will be NASA's first trip, or mission, to an asteroid that contains a large amount of metal. Past missions explored asteroids made mostly of rock or ice.</p>
-<p>Astronomers say the asteroid Psyche is about 280 kilometers at its widest point. They believe it may be part of a center, or core, of a planetesimal. This is an object thought to be the metallic remains of an early rocky planet. Scientists think Psyche is made up mostly of iron and nickel, similar to Earth's center.</p>
-<p>NASA believes the asteroid could have separated during violent crashes that happened during our solar system's early creation. Scientists think data collected on the asteroid could provide new details about how rocky planets, including Earth, formed.</p>
-<p>But NASA says the object could also turn out to be something else, such as "a different kind of iron-rich body that formed from metal-rich material somewhere in the solar system."</p>
-<p>The space agency <a class="wsw__a" href="https://www.jpl.nasa.gov/press-kits/psyche/mission">expects</a> Psyche to travel about 3.6 billion kilometers over six years to reach the asteroid. If the spacecraft reaches its target as planned in August 2029, it will then start orbiting the object for at least two years.</p>
-<p>Once in orbit, the mission team will examine data gathered by several science instruments aboard the spacecraft. Psyche will take pictures, map the asteroid's surface and collect data on what materials are contained in the object.</p>
-<p>NASA says once Psyche separates from its launch vehicle, it will use a different kind of <strong>propulsion</strong> system never tried in missions beyond the moon.</p>
-<p>The system to be used is called solar electric propulsion. Large solar <strong>panels</strong> will be extended outward from the main part of the spacecraft to collect light from the sun. The panels then change, or convert, this sunlight into electricity that powers the spacecraft's <strong>thrusters</strong>.</p>
-<p>Psyche will depend on solar electric propulsion to reach its target. NASA describes the thrust as "gentle," but strong enough to push the spacecraft through its long trip. The spacecraft is also set to get a gravitational push when it passes by Mars in May 2026.</p>
-<p>NASA said experiments have shown that solar electric propulsion can be highly effective. Scientists estimate Psyche's thrusters "could operate nearly nonstop for years without running out of fuel."</p>
-<p>In addition, NASA <a class="wsw__a" href="https://www.jpl.nasa.gov/news/solar-electric-propulsion-makes-nasas-psyche-spacecraft-go">says</a> Psyche will be carrying nearly 1,000 kilograms of propellant, xenon gas, in its tanks. Xenon is also used in automobile headlights and some televisions. Agency engineers have estimated the mission would need to burn through about 15 times that amount of propellant if the Psyche spacecraft used traditional chemical thrusters.</p>
-<p>Lindy Elkins-Tanton, with Arizona State University, is the lead investigator for the mission. She said NASA had always planned on having Psyche use an electric propulsion system. "Without it, we wouldn't have the Psyche mission," Elkins-Tanton said.</p>
-<p>NASA says the Psyche mission also includes a technology demonstration involving a laser-based data communications system. This experiment is designed to "test the ability of lasers to <strong>transmit</strong> data at increased rates beyond the moon."</p>
-<p>The technology to be tested in the demonstration is known as "<a class="wsw__a" href="https://www.nasa.gov/solar-system/deep-space-optical-communications-dsoc/">optical communications</a>." It is meant to one day replace the radio communication systems long used by NASA to transmit data between Earth and space. NASA says a laser-based communication method will permit the agency to send and receive data faster and more effectively.</p>
-<p>I'm Bryan Lynn.</p>
-<p><em>Bryan Lynn wrote this story for VOA Learning English, based on reports from NASA and Reuters.</em></p>
-<p><strong>______________________________________________</strong></p>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p><strong>asteroid </strong><em>– n. </em>an object made of rock and metal that orbits the sun, but is smaller than planets</p>
-<p><strong>propulsion </strong><em>– n.</em> a force that pushes something forward</p>
-<p><strong>panel </strong><em>– n.</em> a flat piece of equipment that uses the sun's light or heat to create electricity</p>
-<p><strong>thruster </strong>– <em>n. </em>an engine that produces propulsion by releasing a jet of fluid or a stream of particles</p>
-<p><strong>transmit </strong>– <em>v. </em> to send</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>Columbus or Indigenous Peoples’ Day?  (2023/10/9)</title>
-            <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202310/columbus-or-indigenous-peoples-day.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By Hai Do</span><br/>
-<span class="datetime">08 October 2023</span><br/>
-<p>This Monday is Columbus Day in the United States.</p>
-<p>The U.S. government established Columbus Day as a national holiday in 1934 to honor the explorer Christopher Columbus. The day recognizes Columbus's arrival in the Americas in October 1492.</p>
-<p>Recently, critics have said that Columbus did not "discover" America since native people already lived there. His explorations helped open the way for a huge migration of Europeans to what they called The New World. This brought war, disease and death to many native peoples.</p><div class="contentImage"><img alt="In this photo provided by Johnston, R.I., Mayor Joseph Polisena, Jr., a statue of Christopher Columbus stands in a park Tuesday, Sept. 26, 2023, in Johnston, Rhode Island. (Johnston Mayor Joseph Polisena, Jr. via AP)" src="https://img.51voa.cn/1/01000000-0aff-0242-bf0a-08dbc5cc1ffd_cx0_cy3_cw0_w268_r1.jpg"/><br/><span class="imagecaption">In this photo provided by Johnston, R.I., Mayor Joseph Polisena, Jr., a statue of Christopher Columbus stands in a park Tuesday, Sept. 26, 2023, in Johnston, Rhode Island. (Johnston Mayor Joseph Polisena, Jr. via AP)</span></div>
-<p>Some American states have since moved away from honoring Columbus and instead observe a day for Native American people.</p>
-<p>In 2021, President Joe Biden issued the first-ever presidential proclamation of Indigenous Peoples' Day. The day is to be celebrated along with Columbus Day.</p>
-<p>The May 2020 death of George Floyd, an unarmed Black man in the state of Minnesota, led to nationwide protests against police use of force and racial injustice. Protestors directed some of their anger at statues and monuments honoring Confederate officials from the American Civil War. Many cities then removed the statues and monuments said to be connected to racial injustice, racism and slavery.</p>
-<p>The anger led to protest attacks on memorials to Columbus around the country. Statues of the explorer were taken down in Boston, Chicago and many other cities.</p>
-<p><strong>A statue was removed, then returned</strong></p>
-<p>In the Rhode Island capital of Providence, a statue of Christopher Columbus was also removed in June 2020. The removal came after protestors covered it with red paint and a sign, reading "Stop celebrating genocide." The statue was placed in storage and then purchased for about $50,000 by former Providence Mayor Joseph Paolino.</p>
-<p>After three years out of the public eye, the statue will return to a park in the city of Johnston, about 14 kilometers west of the capital. The statue will be officially uncovered on Monday.</p>
-<p>Johnston Mayor Joseph Polisena Jr. said people of his heavily Italian-American town are pleased to give the statue a new home.</p>
-<p>"It's important and not just for Italian Americans. It's American history. It's world history, if you look at it from a historical <strong>perspective</strong>," he said. "People should learn about him, the good and the bad."</p>
-<p>Not everyone is happy with the return of the explorer's statue.</p>
-<p>Harrison Tuttle is president of Black Lives Matter Rhode Island PAC. Tuttle said he understands the connection that many of Italian ancestry feel for Columbus. But he wished the mayor had spoken with members of the community who were offended by the decision to return the statue.</p>
-<p>"My grandmother who helped raise me was Italian and I grew up in a majority Italian neighborhood," he said. "At the same time, there are better ways to celebrate your <strong>heritage</strong> and culture without celebrating someone who in my opinion is the exact opposite of what Italian culture is."</p>
-<p>Darrell Waldron, director of the Rhode Island Indian Council, is the son of a Narragansett father and a Wampanoag mother. He said he and others hoped that the statue would have been sold off and kept out of public view, with money going toward a new statue.</p>
-<p>"I would love to see a statue of Native women," he said. "It doesn't always have to be a man."</p>
-<p>The debate over the statue in Rhode Island is part of a larger debate in America about what to call the federal holiday that falls on Monday, October 9, this year.</p>
-<p>I'm Caty Weaver.</p>
-<p><em>Hai Do adapted this story for VOA Learning English based on reporting from Mario Ritter, Jr. of VOA and The Associated Press.</em></p>
-<p>________________________________________________</p>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p><strong>perspective</strong> - n. a way of thinking about or understanding something</p>
-<p><strong>heritage</strong> - n. traditions, achievements, beliefs, etc... that are part of the history of a group ore nation</p>
 </div>]]></content:encoded>
             <itunes:explicit>no</itunes:explicit>
           </item>
