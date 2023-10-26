@@ -65,20 +65,156 @@ American Mosaic（美国万花筒） American Mosaic是一个radio magazine（�
 American Stories（美国故事） 这一专题材节目安排在每星期六晚上播出。这样能使听众在学习和工作之余，得以轻松一下头脑。我们可以通过这一美国文学的“窗口”，接触各种流派、各类名家的文学作品。了解美国英语的时代特色，欣赏、学习美国人民运用语方的技巧，并从那些佳作名篇中获得艺术享受。该节目对短篇故事采取一次播一篇的方式，对中、长篇小说则先进行简写加工，再分几次播出全文。在播出故事正文之前，播音员常常先介绍故事的主要情节。对需要分几次节目时间播出的中长篇，在播第二或以后各部分之前，主持人还先重述已播部分的故事梗概，以唤起听众的回忆，使故事听起来更加连贯。</description>
         <itunes:explicit>no</itunes:explicit>
           <item>
+            <title>AI Tool Aims to Predict Virus Variants before They Appear  (2023/10/26)</title>
+            <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202310/ai-tool-aims-to-predict-virus-variants-before-they-appear.mp3"/>
+            <content:encoded><![CDATA[<div class="content"><span class="byline">By Bryan Lynn</span><br/>
+<span class="datetime">25 October 2023</span><br/>
+<p>Scientists have created an artificial intelligence (AI) tool that aims to predict different virus versions, called variants, before they appear.</p>
+<p>Creators of the tool say it works by estimating the likelihood that a variant will permit it to escape the body's own <strong>immunity</strong> defenses.</p>
+<p>The tool is called EVEscape. It works by processing collected data on the development, or evolution, of a virus over time. The system also considers detailed biological and structural information related to the virus.</p>
+<div class="contentImage"><img alt="This image provided by The National Institute of Allergy and Infectious Diseases shows the SARS-CoV-2 virus. (NIAID-RML via AP)" src="https://img.51voa.cn/1/01000000-0aff-0242-3874-08dbd580cc27_cx0_cy7_cw0_w268_r1.jpg"/><br/>
+<span class="imagecaption">
+This image provided by The National Institute of Allergy and Infectious Diseases shows the SARS-CoV-2 virus. (NIAID-RML via AP)</span></div>
+<p>The method is a form of "generative AI," a term describing technology tools designed to operate at human levels. EVEscape was developed by researchers from Britain's University of Oxford and Harvard Medical School in Boston, Massachusetts. The team's findings recently appeared <a class="wsw__a" href="https://www.nature.com/articles/s41586-023-06617-0">in a study</a> in the publication <em>Nature</em>.</p>
+<p>Many viruses repeatedly <strong>mutate</strong> in an effort to stay alive and strong. This requires viruses to infect living organisms. Once inside the body, viruses continue to reproduce and spread.</p>
+<p>The U.S. Centers for Disease Control and Prevention (CDC) <a class="wsw__a" href="https://www.cdc.gov/coronavirus/2019-ncov/variants/index.html">explains</a> that repeated mutating creates new variants. Some of these mutations permit the virus "to spread more easily or make it resistant to treatments or vaccines," the CDC said.</p>
+<p>The researchers built on previous work involving a tool they created called EVE. This tool was designed to study gene mutations that can cause human disease. In a past study, the team said it successfully used EVE to identify mutations linked to conditions like cancer and heart disease.</p>
+<p>During the COVID-19 pandemic, the scientists said they recognized a good chance to "rebuild" EVE into a new tool "for the purpose of predicting viral variants."</p>
+<p>To do this, the team <a class="wsw__a" href="https://hms.harvard.edu/news/ai-tool-can-help-forecast-viral-outbreaks">explained</a> it "turned the clock back to January 2020, just before the COVID-19 pandemic started." The researchers asked the EVEscape tool to predict what mutations would develop from the SARS-CoV-2 virus that causes COVID-19.</p>
+<p>The researchers reported the tool correctly predicted which SARS-CoV-2 mutations would appear and which would become most common, or dominant.</p>
+<p>The team also <a class="wsw__a" href="https://hms.harvard.edu/news/ai-tool-can-help-forecast-viral-outbreaks">said</a> the tool predicted which antibody-based treatments "would lose their efficacy as the pandemic progressed and the virus developed mutations to escape these treatments."</p>
+<p>The study noted EVEscape can make predictions more quickly and effectively than lab-based methods. This is because the tool does not need "to wait for <strong>relevant</strong> antibodies to arise in the population and become available for testing."</p>
+<p>The team said the system was able to examine tens of thousands of new virus variants appearing each week and identified the ones most likely to become problematic.</p>
+<p>Sarah Gurev is a student in the Electrical Engineering and Computer Science program at the Massachusetts Institute of Technoology (MIT). She was a leader of the research. Gurev said that by quickly identifying the threat level of new variants, "we can help inform earlier public health decisions."</p>
+<p>The team said it continuously uses the system to examine real-time data about the development of new variants of SARS-CoV-2. It then shares this information with the public and international agencies such as the World Health Organization (WHO).</p>
+<p>The researchers said their experiments also showed the EVEscape tool could successfully predict mutating behaviors for other common viruses, including HIV and the flu.</p>
+<p>Debora Marks is a professor of systems biology at Harvard Medical School's Blavatnik Institute. She was a lead writer of the study. She said the researchers would continue to improve the tool's ability to predict new variants for a number of viruses. "Because if we can, that's going to be extremely important for designing vaccines and <strong>therapies</strong>."</p>
+<p>I'm Bryan Lynn.</p>
+<p><em>Bryan Lynn wrote this story for VOA Learning English, based on reports from Oxford University, Harvard Medical School and Nature. </em></p>
+<p><strong>____________________________________________</strong></p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>immunity </strong><em>– n. </em>bodily power to resist an infectious disease</p>
+<p><strong>mutate </strong><em>– v. </em>to cause a gene to change and create an unusual characteristic in a plant or animal</p>
+<p><strong>efficacy</strong> <em>– n. </em> the ability to produce a desired result</p>
+<p><strong>relevant </strong><em>– adj. </em>related or useful to what is happening or being talked about</p>
+<p><strong>therapy </strong><em>– n. </em>a treatment method for disease</p></div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>Study: Part of Antarctica to Experience ‘Unavoidable’ Melt  (2023/10/26)</title>
+            <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202310/study-part-of-antarctica-to-experience-unavoidable-melt.mp3"/>
+            <content:encoded><![CDATA[<div class="content"><span class="byline">By Gregory Stachel</span><br/>
+<span class="datetime">25 October 2023</span><br/>
+<p>A new study says that no matter how much the world cuts back on carbon <strong>emissions</strong>, a large and important part of Antarctica is expected to disappear.</p>
+<p>Researchers used computer models to predict the future melting of protective ice around Antarctica's Amundsen Sea in western Antarctica. They said the "unavoidable" melting will take hundreds of years. It will slowly add nearly 1.8 meters to sea levels. And it will be enough to reshape where and how people live in the future.</p>
+<p>The study was published recently in <a class="wsw__a" href="https://www.nature.com/nclimate/"><em>Nature Climate Change</em></a>. It found that even if future warming was limited to just a few tenths of a degree more, it would have "limited power to prevent ocean warming that could lead to the collapse of the West Antarctic Ice Sheet."</p>
+<div class="contentImage"><img alt="This undated image provided by British Antarctic Survey, shows the North Cove, in Antarctic. (Michael Shortt/British Antarctic Survey via AP)" src="https://img.51voa.cn/1/b89651bb-aab0-4e18-8706-f5c8bfa0a0ce_cx0_cy10_cw0_w268_r1.jpg"/>
+<br/>
+<span class="imagecaption">
+This undated image provided by British Antarctic Survey, shows the North Cove, in Antarctic. (Michael Shortt/British Antarctic Survey via AP)</span></div>
+<p>Many scientists say the goal of just a few tenths of a degree of warming is unlikely to be met.</p>
+<p>"Our main question here was: How much control do we still have over ice <strong>shelf</strong> melting? How much melting can still be prevented by reducing emissions?" said study lead writer Kaitlin Naughten. She is an expert on oceans at the British Antarctic Survey.</p>
+<p>She said their research suggests that Earth is set on the path to a quick increase in the rate of ocean warming and ice shelf melting over the rest of the century.</p>
+<p>While past studies have talked about how serious the situation is, Naughten was the first to use computer modeling to study how warm water from below will melt the ice.</p>
+<p>The study looked at four different cases in how much carbon emissions the world produces. In each case, ocean warming was just too much for this area of the ice to survive, the study found.</p>
+<p>Naughten looked at melting, floating areas of ice that hold back <strong>glaciers</strong>. Once these areas of ice melt, there is nothing to stop the glaciers behind them from flowing into the sea.</p>
+<p>The study also looked at what would happen if future warming was limited to 1.5 degrees Celsius over mid-19th century levels: the international goal. They found the <strong>runaway</strong> melting process in this case as well.</p>
+<p>The world has already warmed about 1.2 degrees Celsius since pre-industrial times and much of this summer went past the 1.5 degrees mark.</p>
+<p>Naughten's study looked at the part of the West Antarctic Ice Sheet that is most at risk from melting from below, near the Amundsen Sea. It includes the very large Thwaites ice shelf that is melting so fast it is called "the Doomsday Glacier."</p>
+<p>That part of Antarctica "is <strong>doomed</strong>," said University of California Irvine ice scientist ice scientist Eric Rignot. He was not part of the study. He added, "The damage has already been done."</p>
+<p>Naughten does not like to use the word "doomed," because she said 100 years from now, the world might not just stop but drive back carbon levels in the air and climate change. But she said what is happening now on the ground is a slow collapse that cannot be stopped, at least not in this century.</p>
+<p>I'm Gena Bennett.</p>
+<p><em>Seth Borenstein reported this story for The Associated Press. Gregory Stachel adapted the story for VOA Learning English. </em></p>
+<p>________________________________________________</p>
+<h2 class="wsw__h2"> </h2>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>emission </strong>– <em>n</em>. the act of producing or sending out something (such as energy or gas) from a source</p>
+<p><strong>shelf </strong>– <em>n</em>. a flat area of rock, sand, or ice, especially underwater</p>
+<p><strong>glacier </strong>– <em>n</em>. a very large area of ice that moves slowly down a slope or valley or over a wide area of land</p>
+<p><strong>runaway </strong><em>– adj.</em> operating, running, or increasing in a fast and dangerous way that cannot be controlled</p>
+<p><strong>doom </strong>– <em>n</em>. very bad events or situations that cannot be avoided</p></div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>US, Australia to Provide Underwater Internet Cables for Pacific Islands  (2023/10/26) | 美澳为太平洋岛国提供互联网服务</title>
+            <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202310/us-australia-to-provide-underwater-internet-cables-for-pacific-islands.mp3"/>
+            <content:encoded><![CDATA[<div class="content"><p>The technology company Google will work together with the United States and Australia to offer internet service to Pacific Island nations such as Tuvalu.<br/>
+科技公司谷歌将与美国和澳大利亚合作，为图瓦卢等太平洋岛国提供互联网服务。</p>
+<p>The agreement continues a project Google is working on in the area.<br/>
+该协议延续了谷歌在该地区正在进行的一个项目。</p>
+<p>The announcement came on the same day that Australian Prime Minister Anthony Albanese visited with U.S. President Joe Biden at the White House.<br/>
+就在宣布这一消息的同一天，澳大利亚总理安东尼·阿尔巴内塞在白宫拜访了美国总统乔·拜登。</p>
+<p>The state visit has been planned for a long time.<br/>
+这次国事访问计划已久。</p>
+<p>The underwater cable project will bring internet service to Tuvalu, Micronesia, Kiribati, the Marshall Islands, Papua New Guinea, the Solomon Islands, Timor-Leste and Vanuatu.<br/>
+该海底电缆项目将为图瓦卢、密克罗尼西亚、基里巴斯、马绍尔群岛、巴布亚新几内亚、所罗门群岛、东帝汶和瓦努阿图提供互联网服务。</p>
+<p>A Biden administration official said Australia will provide $50 million for the project and the U.S. will give $15 million.<br/>
+拜登政府的一名官员表示，澳大利亚将为该项目提供5000万美元，美国将提供1500万美元。</p>
+<p>The Pacific islands are an area of interest for both the U.S. and China. Each nation has been working to expand their relationships with the island nations. They have been promising military partnerships and building projects.<br/>
+太平洋岛屿是美国和中国都感兴趣的地区。两国都在努力扩大他们与这些岛国的关系。他们一直承诺建立军事伙伴关系和建设项目。</p>
+<p>Biden has said work by U.S. telecommunications and internet companies such as Google is a national security issue. The companies that own or oversee cables that connect small countries to the internet can control the flow of information around the world.<br/>
+拜登表示，谷歌等美国电信和互联网公司所做的工作是一个国家安全问题。拥有或监督将小国连接到互联网的电缆的公司可以控制世界各地的信息流。</p>
+<p>I'm Dan Friedell.<br/>
+我是丹·费里德尔。(51VOA.COM原创翻译，请勿转载，违者必究！)</p></div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>Pakistan Prepares to Deport Illegal Afghans  (2023/10/26)</title>
+            <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202310/pakistan-prepares-to-deport-illegal-afghans.mp3"/>
+            <content:encoded><![CDATA[<div class="content"><span class="byline">By Gregory Stachel</span><br/>
+<span class="datetime">25 October 2023</span><br/>
+<p>The Pakistani government has approved the creation of several <strong>deportation</strong> centers for hundreds of thousands of Afghans living illegally in the country. Pakistan plans to arrest and send the Afghan nationals back to Afghanistan starting next month.</p>
+<p>The government recently approved the Illegal Foreigners Repatriation Plan. It sets a November 1 <strong>deadline</strong>. The deadline is for all "illegal/unregistered foreigners" and those overstaying their visas. These groups are required to return to their countries. If they do not, they face deportation for breaking Pakistan's immigration laws.</p>
+<p>Pakistani Interior Minister Sarfaraz spoke when the deadline was announced in early October. He said an estimated 1.7 million Afghans are among those facing deportation.</p>
+<div class="contentImage"><img alt="FILE - Afghan refugees board a bus from Karachi, Pakistan, to Afghanistan on Sept. 21, 2023. Pakistan, on Oct. 3, 2023, ordered undocumented immigrants to leave the country by Nov. 1. (Photo by Rizwan TABASSUM / AFP)" src="https://img.51voa.cn/1/ddb72e6e-86fe-4073-93a7-b010d5f81de8_cx0_cy4_cw0_w268_r1.jpg"/><br/>
+<span class="imagecaption">
+Afghan refugees board a bus from Karachi, Pakistan, to Afghanistan on Sept. 21, 2023. Pakistan, on Oct. 3, 2023, ordered undocumented immigrants to leave the country by Nov. 1. (Photo by Rizwan TABASSUM / AFP)</span></div>
+<p>Official <strong>sources</strong> told VOA that special deportation centers would be established in four areas: Punjab, Sindh, Baluchistan, and Khyber Pakhtunkhwa.</p>
+<p>Afghans detained in Punjab and Sindh will be moved to centers in the Rawalpindi and Karachi areas.</p>
+<p>Khyber Pakhtunkhwa will have two deportation centers in Nowshehra and Chamkani. While Baluchistan will have three centers: one in the capital of Quetta, and others in the areas of Pishin and Qilla Abdullah districts. These two areas are on Pakistan's 2,600-kilometer border with Afghanistan. Most refugee families are in those areas.</p>
+<p>The new plan <strong>empowers</strong> local administrations, police, and other officials to detain and deport Afghan nationals illegally living in the country. The plan also says that individuals charged with or on trial for minor crimes will be sent out of the country. It also says that those charged with or facing trial for "serious crimes" will not be sent back to Afghanistan.</p>
+<p>Pakistan has promised to carry out the deportations in "a <strong>phased </strong>and orderly" way. It also said that it would not target the 1.4 million Afghan refugees living legally in the country. The government added it would not target 900,000 Afghan citizens who are registered in Pakistan as economic migrants.</p>
+<p>The government has told law enforcement agencies not to <strong>harass</strong> legal refugees and those with Afghan nationality documents. However, Afghanistan's Taliban rulers and refugee families have claimed that some Afghans experienced abuse and mistreatment from the police.</p>
+<p>The Taliban have called on Pakistan to reconsider the deportation plan, calling it "<strong>inhumane</strong>" and "unacceptable." However, they have recently set up special camps on the Afghan side of the border. The camps will provide immediate shelter, health care, food, and financial assistance to families returning from the neighboring country.</p>
+<p>Officials in both countries have confirmed that tens of thousands of Afghans have voluntarily returned to their home country since Pakistan announced the deadline nearly a month ago.</p>
+<p>Taliban spokesman Zabihullah Mujahid on Afghan television urged Pakistan to treat Afghan refugees "humanely" and extend the period of deportation. He asked all the refugees to return to their country. He said the Taliban has made Afghanistan into a "safer and better" place.</p>
+<p><strong>Taliban rule in Afghanistan </strong></p>
+<p>The Taliban seized power from a U.S.-backed government in August 2021. At that time, U.S. and NATO troops left the country after nearly 20 years of involvement in the Afghan war.</p>
+<p>After the Taliban took over, hundreds of thousands of people fled to Pakistan. They feared punishment for their connections to Western forces. They included human rights defenders, former government officials, professionals, female activists and reporters.</p>
+<p>Many have since moved to the U.S. and other Western countries. But thousands are waiting in hopes of immigrating to the United States or Europe.</p>
+<p>The Taliban has enforced Islamic law in the country. The group has barred <strong>teenage </strong>girls from schools and many women from work. The restrictions mean many refugee families do not want to return to Afghanistan. They say their daughters cannot seek education or work in the country.</p>
+<p>The United Nations has urged Pakistan to suspend its deportation plan. It warns the plan could mean Afghans will be subject to abuse by the country's ruling Taliban officials.</p>
+<p>I'm Gregory Stachel.</p>
+<p><em>Ayaz Gul reported this story for Voice of America. Gregory Stachel adapted the story for VOA Learning English. </em></p>
+<p>________________________________________________</p>
+<h2 class="wsw__h2"> </h2>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>deport </strong>– <em>v</em>. to force (a person who is not a citizen) to leave a country</p>
+<p><strong>deadline </strong>– <em>n</em>. a date or time when something must be finished</p>
+<p><strong>source </strong>–n. a person who tells a reporter information</p>
+<p><strong>empower </strong>– <em>v</em>. to give official authority or legal power to (someone)</p>
+<p><strong>phased </strong><em>– adj.</em> done gradually in steps and according to a plan</p>
+<p><strong>harass </strong>– <em>v</em>. to annoy or bother (someone) in a constant or repeated way</p>
+<p><strong>humane </strong><em>– adj.</em> kind or gentle to people or animals</p>
+<p><strong>teenage </strong>– <em>adj</em>. between 13 and 19 years old</p></div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
             <title>Publishers Worry Over Google’s New AI Search Tool   (2023/10/25)</title>
             <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
             <enclosure type="audio/mpeg" url="https://files.51voa.cn/202310/publishers-worry-over-google-s-new-ai-search-tool.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By John Russell</span><br/>
+            <content:encoded><![CDATA[<div class="content"><span class="byline">By John Russell</span><br/>
 <span class="datetime">24 October 2023</span><br/>
 <p>Publishing companies are growing increasingly concerned about <strong>generative AI</strong>, especially a <strong>model</strong> developed by Google.</p>
 <p>Since May, Google has begun releasing a new form of search in the United States, India, and Japan powered by generative AI. The product is called Search Generative Experience, or SGE. SGE uses AI to create <strong>summaries </strong>for some search questions. Google says those summaries appear on the top of the Google search homepage, with links to "dig deeper."</p>
 <p>If publishers want to prevent their content from being used by Google's AI to create those summaries, they must use the same tool that would prevent them from appearing in Google search results. That would make it difficult for people using search to find the publishers that choose not to be involved in SGE.</p>
-<div class="contentImage"><img alt="div class=thumb thumb16_9&gt;
-&lt;img src=https://gdb.51voa.com/94f7b5b3-e02a-4eeb-9cca-5185e660ce40_w250_r1_s.jpg alt=FILE - A woman passes the logo from the web search engine provider Google during the digital society festival 're:publica', at the Arena Berlin in Berlin, Germany June 9, 2022. (REUTERS/Annegret Hilse) /&gt;
-&lt;span class=ico ico-fullscreen ico--media-expand ico--rounded&gt;" src="https://img.51voa.cn/1/94f7b5b3-e02a-4eeb-9cca-5185e660ce40_w268_r1.jpg"/><br/>
-A woman passes the logo from the web search engine provider Google during the digital society festival 're:publica', at the Arena Berlin in Berlin, Germany June 9, 2022. (REUTERS/Annegret Hilse)"&gt;
-<span class="ico ico-fullscreen ico--media-expand ico--rounded"></span></div>
+<div class="contentImage"><img alt="FILE - A woman passes the logo from the web search engine provider Google during the digital society festival 're:publica', at the Arena Berlin in Berlin, Germany June 9, 2022. (REUTERS/Annegret Hilse)" src="https://img.51voa.cn/1/94f7b5b3-e02a-4eeb-9cca-5185e660ce40_w268_r1.jpg"/><br/>
+<span class="imagecaption">
+A woman passes the logo from the web search engine provider Google during the digital society festival 're:publica', at the Arena Berlin in Berlin, Germany June 9, 2022. (REUTERS/Annegret Hilse)</span></div>
 <p>Google says that the AI-generated summaries are put together from many web pages and that the links are designed to be a starting point to learn more. The company describes SGE as an <strong>opt-in</strong> experiment for users, who will help develop and improve the product.</p>
 <p>To publishers, however, the new search tool is the latest concern in an unusual relationship. Publishers both compete against Google for online advertising and depend on the company for search traffic.</p>
 <p>Four major publishers spoke to Reuters news agency recently. The businesses said they are trying to understand their place in a world where AI could control how users find and pay for information. The publishers asked not to be identified because of ongoing negotiations with Google.</p>
@@ -111,7 +247,8 @@ A woman passes the logo from the web search engine provider Google during the di
             <title>More US States Teach Financial Education in High School  (2023/10/25) | 越来越多美国州要求高中进行理财教育</title>
             <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
             <enclosure type="audio/mpeg" url="https://files.51voa.cn/202310/more-us-states-teach-financial-education-in-high-school.mp3"/>
-            <content:encoded><![CDATA[<div class="content"><p>An increasing number of American states are requiring that students receive personal finance education in order to complete high school. At the same time, states are hoping to improve math skills among students in the United States.<br/>
+            <content:encoded><![CDATA[<div class="content">
+<p>An increasing number of American states are requiring that students receive personal finance education in order to complete high school. At the same time, states are hoping to improve math skills among students in the United States.<br/>
 美国越来越多州要求学生接受个人理财教育才能完成高中学业。与此同时，各州希望提高美国学生的数学技能。</p>
 <p>Capital City Public Charter School in Washington, D.C. has a course called Advanced Algebra with Financial Applications. The school has offered the math class for more than 10 years. The class provides students with basic knowledge about money management and helps them sharpen their math skills. Classes discuss credit, investments, and loans, for example, and connect these ideas with methods of math for calculating interest, budgeting and more.<br/>
 华盛顿特区首都公立特许学校开设了一门名为“高级代数与金融应用”的课程。这所学校开设这门数学课程已有10多年了。该课程为学生提供有关资金管理的基本知识，并帮助他们提高数学技能。例如，课程讨论信贷、投资和贷款，并将这些想法与计算利息、预算等的数学方法联系起来。</p>
@@ -151,17 +288,15 @@ A woman passes the logo from the web search engine provider Google during the di
             <title>Why the Interest Rate of US Treasury Notes Matters  (2023/10/25)</title>
             <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
             <enclosure type="audio/mpeg" url="https://files.51voa.cn/202310/why-the-interest-rate-of-us-treasury-notes-matter.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By Dan Friedell</span><br/>
+            <content:encoded><![CDATA[<div class="content"><span class="byline">By Dan Friedell</span><br/>
 <span class="datetime">24 October 2023</span><br/>
 <p>The U.S. government needs money to operate.</p>
 <p>A lot of that money comes from taxes. However, much of the money the U.S. government uses to pay its costs comes from borrowing in the form of U.S. Treasury securities.</p>
 <p>Investors, who believe the U.S. government will be able to pay them back, agree to loan the government money for a period of time. They receive interest payments regularly or in a way set by the Treasury.</p>
-<div class="contentImage"><img alt="div class=thumb thumb16_9&gt;
-&lt;img src=https://gdb.51voa.com/ab6003e3-0af3-4943-aefe-b4e1290c264c_cx0_cy2_cw0_w250_r1_s.jpg alt=FILE - Federal Reserve Chairman Jerome Powell speaks at a meeting of the Economic Club of New York, Oct. 19, 2023, in New York. (AP Photo/Seth Wenig, file) /&gt;
-&lt;span class=ico ico-fullscreen ico--media-expand ico--rounded&gt;" src="https://img.51voa.cn/1/ab6003e3-0af3-4943-aefe-b4e1290c264c_cx0_cy2_cw0_w268_r1.jpg"/><br/>
-Federal Reserve Chairman Jerome Powell speaks at a meeting of the Economic Club of New York, Oct. 19, 2023, in New York. (AP Photo/Seth Wenig, file)"&gt;
-<span class="ico ico-fullscreen ico--media-expand ico--rounded"></span></div>
+<div class="contentImage"><img alt="FILE - Federal Reserve Chairman Jerome Powell speaks at a meeting of the Economic Club of New York, Oct. 19, 2023, in New York. (AP Photo/Seth Wenig, file)" src="https://img.51voa.cn/1/ab6003e3-0af3-4943-aefe-b4e1290c264c_cx0_cy2_cw0_w268_r1.jpg"/>
+<br/>
+<span class="imagecaption">
+Federal Reserve Chairman Jerome Powell speaks at a meeting of the Economic Club of New York, Oct. 19, 2023, in New York. (AP Photo/Seth Wenig, file)</span></div>
 <p>The difference between the loan amount and the investment return is called the yield.</p>
 <p>In past years, the interest rate on the U.S. government 10-year note was low. For example, when the COVID-19 pandemic started, the interest rate for a 10-year government debt security was less than one percent. If you loaned the U.S. government $100, you would receive about one dollar a year in interest until the note "matures," or is paid back.</p>
 <p>Now, however, the yield has jumped to about five percent for a 10-year note. A note is a debt security with a term of between two and 10 years. That means investors who agree to lend money to the U.S. government for a period of 10 years will earn about a five percent return each year.</p>
@@ -195,17 +330,13 @@ Federal Reserve Chairman Jerome Powell speaks at a meeting of the Economic Club 
             <title>Women in Iceland, Including PM, Strike for Equal Pay  (2023/10/25)</title>
             <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
             <enclosure type="audio/mpeg" url="https://files.51voa.cn/202310/women-in-iceland-including-pm-strike-for-equal-pay.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By Dan Novak</span><br/>
+            <content:encoded><![CDATA[<div class="content"><span class="byline">By Dan Novak</span><br/>
 <span class="datetime">24 October 2023</span><br/>
 <p>Iceland's prime minister and women across the island nation went on strike Tuesday. They are pushing for an end to unequal pay and <strong>gender</strong>-based violence.</p>
 <p>Icelanders awoke to all-male news teams announcing shutdowns across the nation. Schools closed down, public transportation was delayed, hospitals had fewer workers, and hotel rooms went uncleaned.</p>
 <p>Katrin Jakobsdóttir is Iceland's prime minister. She said that she would stay home as part of the women's strike and expected other women on her cabinet to do the same.</p>
-<div class="contentImage"><img alt="div class=thumb thumb16_9&gt;
-&lt;img src=https://gdb.51voa.com/01000000-0aff-0242-7ee5-08dbd4b469a2_cx0_cy10_cw0_w250_r1_s.jpg alt=People across Iceland gather during the women's strike in Reykjavik, Iceland, Tuesday, Oct. 24, 2023. (AP Photo/Arni Torfason) /&gt;
-&lt;span class=ico ico-fullscreen ico--media-expand ico--rounded&gt;" src="https://img.51voa.cn/1/01000000-0aff-0242-7ee5-08dbd4b469a2_cx0_cy10_cw0_w268_r1.jpg"/><br/>
-People across Iceland gather during the women's strike in Reykjavik, Iceland, Tuesday, Oct. 24, 2023. (AP Photo/Arni Torfason)"&gt;
-<span class="ico ico-fullscreen ico--media-expand ico--rounded"></span></div>
+<div class="contentImage"><img alt="People across Iceland gather during the women's strike in Reykjavik, Iceland, Tuesday, Oct. 24, 2023. (AP Photo/Arni Torfason)" src="https://img.51voa.cn/1/01000000-0aff-0242-7ee5-08dbd4b469a2_cx0_cy10_cw0_w268_r1.jpg"/><br/><span class="imagecaption">
+People across Iceland gather during the women's strike in Reykjavik, Iceland, Tuesday, Oct. 24, 2023. (AP Photo/Arni Torfason)</span></div>
 <p>Iceland's trade <strong>unions</strong> are the main organizers of the strike. They called on women and <strong>nonbinary</strong>, a term to describe those who do not identify as male or female, to strike. They refused to do both paid and unpaid work, including household work, for the day. About 90 percent of Icelandic workers belong to a union.</p>
 <p>Schools and the health system, which have large female workforces, said they would be heavily affected by the walkout. National broadcaster RUV said it was reducing television and radio broadcasts for the day.</p>
 <p>Tuesday's walkout lasts from midnight to midnight. It is called the biggest strike since Iceland's first such event on October 24, 1975. That was when 90 percent of women refused to work, clean or look after children, to express anger at discrimination in the workplace.</p>
@@ -1829,149 +1960,6 @@ California Governor Gavin Newsom signed a law last week permitting low-income Me
 <p><strong>past participle<em> </em></strong><em>– n.</em> the form of the verb that is used with "be" in passive constructions</p>
 <p><strong>prepositional phrase </strong><em>– n.</em> a phrase that begins with a preposition and ends in a noun, pronoun, or noun phrase</p>
 <p><strong>predicate</strong> <em>– n.</em> the part of a sentence that expresses what is said about the subject</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>Study: Footprints in New Mexico May Be Oldest Sign of Humans  (2023/10/12)</title>
-            <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202310/study-footprints-in-new-mexico-may-be-oldest-sign-of-humans.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By Gregory Stachel</span><br/>
-<span class="datetime">11 October 2023</span><br/>
-<p>New research confirms that a <strong>fossil</strong> of human footprints found in the U.S. state of New Mexico likely represents the oldest direct evidence of humans living in the Americas.</p>
-<p>The footprints were discovered at the edge of the remains of an ancient lake in White Sands National Park in southern New Mexico. The research, published recently in <em>Science</em>, suggests the fossil dates back to between 21,000 and 23,000 years ago.</p>
-<p>The estimated age of the footprints was first reported in <em>Science</em> in 2021. But some researchers questioned the dates. Researchers wondered whether seeds from lake plants used in the early dating may have taken in ancient carbon from the lake. If so, this could have changed the radiocarbon test result by thousands of years.</p><div class="contentImage"><img alt="This Oct. 2023 photo shows human footprints at the White Sands National Park in New Mexico. Fossil human footprints discovered in White Sands likely date back to between 21,000 and 23,000 years ago, according to scientific evidence published Thursday, Oct. 5, 2023. (NPS via AP)" src="https://img.51voa.cn/1/01000000-c0a8-0242-bd4b-08dbc9a29800_cx0_cy14_cw0_w268_r1.jpg"/><br/><span class="imagecaption">This Oct. 2023 photo shows human footprints at the White Sands National Park in New Mexico. Fossil human footprints discovered in White Sands likely date back to between 21,000 and 23,000 years ago, according to scientific evidence published Thursday, Oct. 5, 2023. (NPS via AP)</span></div>
-<p>The new study presents two additional lines of evidence for the older date range. It uses two different materials found at the site, ancient tree pollen and quartz grains.</p>
-<p>The reported age of the footprints questions the belief that humans did not reach the Americas until about 15,000 years ago. That was a few thousand years before rising sea levels covered the Bering land bridge between Asia and North America.</p>
-<p>Thomas Urban is a scientist who studies ancient humans at Cornell University in New York. He was involved in the 2021 study but not the new one. He said it is an area "... that's always been <strong>controversial</strong>..." Urban said such studies are important because they deal with the last part "of the peopling of the world."</p>
-<p>Thomas Stafford is an independent scientist who studies ancient humans and the Earth in Albuquerque, New Mexico. He was not involved in the study. He said that while he "was a bit <strong>skeptical</strong> before," he now believes it.</p>
-<p>Stafford said it is an important finding if three completely different methods show findings from a similar time period.</p>
-<p>The new study separated about 75,000 individual pieces of pollen from the same area in rocks where the footprints where found.</p>
-<p>Kathleen Springer is an Earth scientist researcher at the United States Geological Survey and helped write the new paper. She said the process of dating pollen is very difficult. She added that scientists believe radiocarbon dating land plants gives more correct results than dating plants living in water. But she added there needs to be a large enough number of plants to study.</p>
-<p>The researchers also studied damage to the structure in ancient small pieces of quartz to produce an age estimate.</p>
-<p>Ancient footprints of any kind – left by humans or large animals – can give scientists some idea when they are from. They may record how and where people or animals walked and if their paths crossed. Animal footprints have also been found at White Sands.</p>
-<p>Other ancient sites in the Americas point to a similar time period. These include ancient art made from animal remains in Brazil. But scientists still question whether such materials really suggest that humans were living in the Americas then.</p>
-<p>Jennifer Raff is a scientist who studies ancient human genes at the University of Kansas. She was not involved in the study. Raff said, "White Sands is <strong>unique</strong> because there's no question these footprints were left by people, it's not <strong>ambiguous</strong>."</p>
-<p>I'm Andrew Smith.</p>
-<p><em>Christina Larson reported this story for The Associated Press. Gregory Stachel adapted the story for VOA Learning English. </em></p>
-<p>________________________________________________</p>
-<h2 class="wsw__h2"> </h2>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p><strong>fossil </strong>– <em>n</em>. something (such as a leaf, skeleton, or footprint) that is from a plant or animal which lived in ancient times and that you can see in some rocks</p>
-<p><strong>controversial </strong>– <em>adj</em>. relating to or causing much discussion, disagreement, or argument</p>
-<p><strong>skeptical </strong>– <em>adj</em>. having or expressing doubt about something (such as a claim or statement)</p>
-<p><strong>unique </strong><em>– adj.</em> used to say that something or someone is unlike anything or anyone else</p>
-<p><strong>ambiguous </strong>– <em>adj</em>. able to be understood in more than one way</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>How Did the Israel-Palestinian Conflict Start?  (2023/10/12)</title>
-            <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202310/how-did-the-israel-palestinian-conflict-start.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By VOA</span><br/>
-<span class="datetime">11 October 2023</span><br/>
-<p>The fighting between Israelis and Hamas militants is the latest clash in a conflict that some people believe dates back to events described in the Bible.</p>
-<p>Over the weekend, Hamas launched a surprise attack in Israel from the Palestinian territory of Gaza. Hamas gunmen killed more than 1,200 people, including women and children. The group also took more than 150 people as hostages.</p>
-<p>Israel answered with airstrikes of what it said were Hamas targets in Gaza. Officials in the Palestinian-controlled area said more than 1,000 have been killed, including some children. Thousands have also been wounded on both sides.</p><div class="contentImage"><img alt="Israelis take cover from the incoming rocket fire from the Gaza Strip in Ashkelon, southern Israel, Wednesday, Oct. 11, 2023. (AP Photo/Leo Correa)" src="https://img.51voa.cn/1/01000000-0aff-0242-c060-08dbca81a13b_cx0_cy10_cw0_w268_r1.jpg"/><br/><span class="imagecaption">Israelis take cover from the incoming rocket fire from the Gaza Strip in Ashkelon, southern Israel, Wednesday, Oct. 11, 2023. (AP Photo/Leo Correa)</span></div>
-<p><strong>What started the conflict?</strong></p>
-<p>The modern conflict between Israelis and Palestinians is mainly a territorial dispute in Palestine, an area now known as Israel, the Gaza Strip, and the West Bank. Parts of the land are also considered the holiest places to Jews, Christians and Muslims.</p>
-<p>The Roman Empire controlled the area at the time Jesus was believed to have been born in Bethlehem. Following the death of Rome's ally, King Herod, the land was divided into five locally administered areas under Rome.</p>
-<p>Later, the land then came under the Ottoman Empire's control for about 400 years until the end of World War I. After World War I, Britain controlled the area it called Palestine and expressed support for <a class="wsw__a" href="https://www.un.org/unispal/history/">"the establishment in Palestine of a national home for the Jewish people."</a></p>
-<p>In November 1947, the United Nations General Assembly passed a <a class="wsw__a" href="https://www.un.org/unispal/document/auto-insert-185393/">resolution</a> dividing the British-ruled area of Palestine into two states, one Jewish and one Arab, with Jerusalem under a UN administration. On May 14, 1948, the modern State of Israel was established for Jews fleeing persecution and seeking a homeland.</p>
-<p>Arab countries rejected the UN plan, arguing that it was unfair and violated the UN Charter. In the war that followed, some 700,000 Palestinians, half the Arab population in Palestine, fled or were driven from their homes. They ended up in Jordan, Lebanon, and Syria as well as in Gaza, the West Bank, and East Jerusalem.</p>
-<p>Israel denied that it sought to drive Palestinians from their homes. The new country said it was attacked by five Arab states the day after its creation. <strong>Armistice</strong> agreements halted the fighting in 1949, but there was no official peace treaty.</p>
-<p>Palestinians call the creation of Israel the "Nakba" in Arabic. It means a disaster, or catastrophe, that resulted in mass displacement and blocked their dreams of statehood.</p>
-<p><strong>Other major wars</strong></p>
-<p>In 1967, Israel launched the Six-Day War against Egypt and Syria. Israel has occupied the West Bank, Arab East Jerusalem, which it captured from Jordan, and Syria's Golan Heights ever since.</p>
-<p>In 1973, Egypt and Syria attacked Israeli positions along the Suez Canal and Golan Heights, beginning the Yom Kippur War. Israel pushed both armies back within three weeks.</p>
-<p>Israel invaded Lebanon in 1982 aiming to remove Palestinian Liberation Organization (PLO) fighters under Yasser Arafat. In 2006, war erupted in Lebanon again when Hezbollah militants captured two Israeli soldiers and Israel retaliated.</p>
-<p><strong>What is Hamas?</strong></p>
-<p>In 1987, Sheikh Ahmed Yassin, a Palestinian refugee living in Gaza, during the first intifada, or uprising, founded Hamas. The name in Arabic means the Islamic Resistance Movement.</p>
-<p>The group does not recognize Israel's right to exist. It has launched many deadly attacks, including suicide bombings against Israelis. In 1997, the U.S. State Department named Hamas a terrorist organization. So has the European Union and other Western countries.</p>
-<p>In 2005, Israel withdrew from the Gaza Strip, which it had captured in 1967. Hamas won the 2006 parliamentary elections over the Palestinian Authority and took control of Gaza. The Palestinian Authority still administers the semi-autonomous, or partly self-ruling, areas of the Israeli-occupied West Bank.</p>
-<p>Israel answered the Hamas takeover with a <strong>blockade</strong> on Gaza. It restricted the movement of people and goods to keep the group from developing weapons. Over the years, Hamas received support from many Arab countries. Recently, it has moved closer to Iran and its allies.</p>
-<p><strong>Current issues </strong></p>
-<p>For over 40 years, efforts have aimed to bring peace to the area.</p>
-<p>In 1979, Egypt and Israel signed a peace treaty. Israeli Prime Minister Yitzhak Rabin and PLO chief Arafat agreed in 1993 to set up Palestinian <strong>autonomy</strong> in the West Bank and the Gaza Strip. The following year, Israel signed a peace treaty with Jordan.</p>
-<p>In 2002, an Arab plan offered Israel normal ties with all Arab countries in return for a full withdrawal from the lands it took in the 1967 Middle East war, the creation of a Palestinian state, and a "just solution" for Palestinian refugees.</p>
-<p>The two sides, however, are far apart on most issues.</p>
-<p>Hamas has rejected the two-state solution. It has sworn to destroy Israel. Israel has increasingly built new Jewish settlements on occupied land over Palestinian objections.</p>
-<p>Palestinians want East Jerusalem to be the capital of the Palestinian state. East Jerusalem has areas that are holy to Muslims, Jews, and Christians. But Israel has established "indivisible" Jerusalem as the country's capital.</p>
-<p>Today about 5.6 million Palestinian refugees still live in Jordan, Lebanon, Syria, the Israeli-occupied West Bank and Gaza. Palestinians have long demanded that refugees should be permitted to return home. But Israel says any resettlement of Palestinian refugees must take place outside of its borders.</p>
-<p>I'm Anna Matteo.</p>
-<p>And I'm Dan Novak.</p>
-<p><em>Hai Do wrote this report for VOA Learning English from VOA, Associated Press, Reuters, and the United Nations sources. </em></p>
-<p>_________________________________________________</p>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p><strong>armistice </strong><em>–n.</em> a truce; and agreement to stop fight</p>
-<p><strong>blockade</strong><strong> </strong><em>–n. </em>when a country uses force to block trade, supplies or people from entering another country</p>
-<p><strong>autonomy</strong> <em>–v.</em> the right of a country to rule itself</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>Seattle Business Tries to Create ‘Beanless Coffee’  (2023/10/12)</title>
-            <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202310/seattle-business-tries-to-create-beanless-coffee.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By Dan Friedell</span><br/>
-<span class="datetime">11 October 2023</span><br/>
-<p>Coffee is one of the most popular drinks in the world. But it takes a lot of plants to produce the world's coffee supply each year. This production process is having lasting environmental effects.</p>
-<p>Farmers seeking to expand have to cut down old trees. In addition, many old coffee farms are not producing as many beans because of warming temperatures linked to climate change.</p>
-<p>This leads coffee bean growers to move higher up hills and mountains in search of cooler areas to plant new trees. Cutting down old trees in order to plant new crops or build homes is called deforestation. And deforestation, along with the burning of <strong>fossil fuels</strong>, is a leading cause of climate change.</p><div class="contentImage"><img alt="Atomo Coffee's 'beanless coffee', which uses superfoods and upcycled ingredients to mimic the molecular structure of coffee, is seen in this handout picture obtained by Reuters on September 29, 2023. " src="https://img.51voa.cn/1/249bff6e-fa84-4d8f-a7b2-15fda8aed9a0_w268_r1.jpg"/><br/><span class="imagecaption">Atomo Coffee's 'beanless coffee', which uses superfoods and upcycled ingredients to mimic the molecular structure of coffee, is seen in this handout picture obtained by Reuters on September 29, 2023. </span></div>
-<p>The effects of coffee production on the environment have led one company to create a "beanless" version of the drink. The Seattle-based company is called Atomo Coffee. It has already received more than $50 million in investments.</p>
-<p>Atomo's product tastes like coffee and is prepared in the same way – by pouring water over a fine grind. But it is not made with beans. It is instead made with plant material, such as seeds from a date. <strong>Caffeine</strong> for the product comes from waste during a process used to remove caffeine from tea.</p>
-<p>"Coffee is causing deforestation at a pretty <strong>alarming</strong> <strong>rate</strong> - almost up to 10 (New York) Central Parks a day," Andy Kleitsch recently told Reuters. Kleitsch started Atomo Coffee about five years ago. He said the world's coffee "machine" never stops, it is "always looking for more land, and that's what we're trying to stop."</p>
-<p>Studies show that by 2050, about half the land currently used to grow coffee could be unproductive.</p>
-<p>Atomo hopes to do for coffee what engineered meat products such as Beyond Meat have done for meat <strong>alternatives</strong>.</p>
-<p>The company has been testing out a kind of coffee called "cold brew." It uses over 90 percent less water than regular coffee and is produced with reduced carbon pollution as well. The company is also in the process of making a hot coffee product.</p>
-<p>Atomo hopes coffee shops will consider offering its beanless coffee to buyers who show interest in the product.</p>
-<p>But the beanless version comes with a cost. Atomo's coffee will sell for about $20 for one half kilogram. Regular coffee is usually $10 to $14 for the same amount.</p>
-<p>I'm Dan Friedell.</p>
-<p><em>Dan Friedell adapted this story for Learning English based on a report by Reuters.</em></p>
-<p>_________________________________________________</p>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p><strong>fossil fuel </strong>–n. fuel, such as coal or gas, that is formed in the earth from dead plants or animals</p>
-<p><strong>caffeine</strong>–n. a substance found in coffee or tea that makes you feel awake</p>
-<p><strong>alarming </strong>–adj. information that creates concern or a feeling of danger</p>
-<p><strong>rate </strong>–n. the speed at which something happens over time</p>
-<p><strong>alternative </strong>–adj. not usual or traditional</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>America’s Poor Math Skills Raise Concerns  (2023/10/11)</title>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202310/america-s-poor-math-skills-raise-concerns.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By Gregory Stachel</span><br/>
-<span class="datetime">10 October 2023</span><br/>
-<p>Many Americans joke about how bad they are at math. But, labor experts and others in the United States are not laughing. They say the nation's ever-decreasing math skill threatens U.S. economic competitiveness and national security.</p>
-<p>Jim Stigler is a professor at the University of California, Los Angeles. He studies the process of teaching and learning subjects, including math. He said, "The <strong>advances</strong> in technology that are going to drive where the world goes in the next 50 years are going to come from other countries, because they have the <strong>intellectual</strong> capital and we don't."</p>
-<p>The Education Reporting Collaborative, a coalition of eight news agencies, is documenting the math crisis facing schools. Members of the Collaborative are <em>AL.com</em>, <em>The Associated Press</em>, <em>The Christian Science Monitor</em>, <em>The Dallas Morning News</em>, <em>The Hechinger Report</em>, <em>Idaho Education News</em>, <em>The Post and Courier</em> in South Carolina, and <em>The Seattle Times</em>.</p><div class="contentImage"><img alt="FILE - Teacher Jerry Howland explains an equation during the Bridge to Calculus summer program at Northeastern University in Boston on Tuesday, Aug. 1, 2023. (AP Photo/Reba Saldanha)" src="https://img.51voa.cn/1/7f50d41b-ac80-4bf9-ad5a-0076921ab067_cx0_cy6_cw0_w268_r1.jpg"/><br/><span class="imagecaption">FILE - Teacher Jerry Howland explains an equation during the Bridge to Calculus summer program at Northeastern University in Boston on Tuesday, Aug. 1, 2023. (AP Photo/Reba Saldanha)</span></div>
-<p>The U.S. military has called for a major program to support education in science, technology, education, and math (STEM). It argues that the U.S. is dangerously behind other nations. The Defense Department says China produces eight times as many college <strong>graduates</strong> in these study fields as the United States. It says Russia produces four times as many engineers as the U.S.</p>
-<p>Government labor experts say the number of jobs in areas requiring math skill will increase by more than 30,000 each year through the end of 2030. That is much faster than most other kinds of jobs.</p>
-<p>"Mathematics is becoming more and more a part of almost every career," said Michael Allen. He chairs the math department at Tennessee Technological University.</p>
-<p>But most American students are not prepared for those jobs. In the most recent Program for International Student Assessment tests in math (PISA), U.S. students tested lower than students from 36 other education systems around the world. Students in China tested the highest.</p>
-<p>Only one in five American high school students planning to attend college is prepared for college-level study in STEM, say experts at the National Science and Technology Council, a government group.</p>
-<p>However, students from other countries are preparing to lead in these areas, reports the National Foundation for American Policy, a non-profit organization. It says only one in five graduate students in math-heavy fields at U.S. universities are American. The rest come from other countries. Most will leave the U.S. when they finish their programs.</p>
-<p>In Massachusetts, employers are expecting a shortage over the next five years of 11,000 workers in the life sciences alone.</p>
-<p>"It's not a small problem," said Edward Lambert Jr. He is director of the Massachusetts Business Alliance for Education. "We're just not starting students, <strong>particularly</strong> students of color and from lower-resourced families, on career paths related to math and computer science and those things in which we need to stay competitive, or starting them early enough," he said.</p>
-<p>"This is not an educational question alone," said Josh Wyner, a vice president of the Aspen Institute, a <strong>think tank</strong>. In July, it warned that other nations are gaining near to America's technological power.</p>
-<p>It urged decision makers to make education an important national security goal. "We are no longer keeping <strong>pace</strong> with other countries, particularly China," the Aspen report says, calling this a "dangerous" failure.</p>
-<p>I'm Gregory Stachel.</p>
-<p><em>Jon Marcus reported this story for The Associated Press. Gregory Stachel adapted the story for VOA Learning English. </em></p>
-<p>______________________________________________</p>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p><strong>advances </strong>– <em>n</em>. progress in the development or improvement of something</p>
-<p><strong>intellectual </strong>– <em>adj</em>. of or relating to the ability to think in a logical way</p>
-<p><strong>graduate </strong>– <em>v</em>. to earn a degree or diploma from a school, college, or university</p>
-<p><strong>particularly </strong><em>– adv.</em> more than usually</p>
-<p><strong>think tank </strong><em>– n.</em> an organization that consists of a group of people who think of new ideas on a particular subject or who give advice about what should be done</p>
-<p><strong>pace </strong><em>– n.</em> the speed at which something happens</p>
 </div>]]></content:encoded>
             <itunes:explicit>no</itunes:explicit>
           </item>
