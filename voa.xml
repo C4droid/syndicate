@@ -65,6 +65,158 @@ American Mosaic（美国万花筒） American Mosaic是一个radio magazine（�
 American Stories（美国故事） 这一专题材节目安排在每星期六晚上播出。这样能使听众在学习和工作之余，得以轻松一下头脑。我们可以通过这一美国文学的“窗口”，接触各种流派、各类名家的文学作品。了解美国英语的时代特色，欣赏、学习美国人民运用语方的技巧，并从那些佳作名篇中获得艺术享受。该节目对短篇故事采取一次播一篇的方式，对中、长篇小说则先进行简写加工，再分几次播出全文。在播出故事正文之前，播音员常常先介绍故事的主要情节。对需要分几次节目时间播出的中长篇，在播第二或以后各部分之前，主持人还先重述已播部分的故事梗概，以唤起听众的回忆，使故事听起来更加连贯。</description>
         <itunes:explicit>no</itunes:explicit>
           <item>
+            <title>Scientists Create ‘Biocomputer’ with Lab-Grown Brain Tissue  (2023/12/18)</title>
+            <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202312/scientists-create-biocomputer-with-lab-grown-brain-tissue.mp3"/>
+            <content:encoded><![CDATA[<div class="content">
+<span class="byline">By Bryan Lynn</span><br/>
+<span class="datetime">17 December 2023</span><br/>
+<p>American researchers have combined lab-grown human brain tissue with computer hardware to create a working biocomputer.</p>
+<p>The scientists say brain cells used in the experiment were able to recognize speech and complete simple math problems.</p>
+<p>The team made brain-like tissue that took the form of what they called a "brain organoid." Harvard University's Stem Cell Institute <a class="wsw__a" href="https://hsci.harvard.edu/organoids">explains</a> that an organoid is a collection of individualized, complex cells that can be grown from stem cells in a lab.</p><div class="contentImage"><img alt="In this July 29, 2013 photo, a researcher holds a human brain in a laboratory at Northwestern University's cognitive neurology and Alzheimer's disease center in Chicago. (AP Photo/Scott Eisen)" src="https://img.51voa.cn/1/01000000-0aff-0242-00ec-08dbfd8e8539_cx0_cy9_cw0_w268_r1.jpg"/><br/><span class="imagecaption">In this July 29, 2013 photo, a researcher holds a human brain in a laboratory at Northwestern University's cognitive neurology and Alzheimer's disease center in Chicago. (AP Photo/Scott Eisen)</span></div>
+<p>Under the right laboratory conditions, organoids can be made to look and even work similarly to real human tissue and organs. In this process, stem cells "can follow their own genetic <strong>instructions</strong> to self-organize," the Stem Cell Institute says.</p>
+<p>So far, scientists have been able to produce organoids that look like, or resemble, some organs. These organs include the brain, kidney, lung, stomach and liver. Such lab-created organoids are generally used to study how organs work without needing to experiment on actual organs.</p>
+<p>In the biocomputer experiment, the team said stem cells were able to form neurons similar to those found in the human brain. Neurons are electrically charged cells that transport signals to the brain and other parts of the body.</p>
+<p>Feng Guo led the experiment. He is a bioengineer and professor of Intelligent System Engineering at Indiana University Bloomington. His team recently published their research results <a class="wsw__a" href="https://www.nature.com/articles/s41928-023-01069-w.epdf?sharing_token=NYPf_32wRs_t6U-N_UVaLtRgN0jAjWel9jnR3ZoTv0M8M4oYFZwXw3ADmbAHb74edPY2vKOF1O-GEmUziwBdM4S_Qm6LsNScxuBszwcCh3Rk4pthEc9aDrLpsaqe7-4YKhK3HWl1E_kodyNXdLfYE8tDAEEOwYPeyB57nYaTS37RGi7ufFW6oTEw56CoODMlO5EDr-JQRXB5mXPmLNcJ7z0bta70aD4yJ4RBCmGphCY%3D&amp;tracking_referrer=www.technologyreview.com">in a study</a> in <em>Nature Electronics</em>.</p>
+<p>The researchers attached the brain organoid to a set of traditional electronic computing <strong>circuits</strong>. The researchers call this system Brainoware. The system was used to establish communication between the organoid and electronic circuits. An artificial intelligence (AI) tool was used to help read the neural activity of the organoid.</p>
+<p>The scientists aim to build "a bridge between AI and organoids," Guo <a class="wsw__a" href="https://www.nature.com/articles/d41586-023-03975-7">explained</a> to <em>Nature</em>. Guo believes that combining organoids and computer circuits could provide additional speed and energy to improve the performance of AI computing systems.</p>
+<p>The study notes that adding human brain power might be able to help machines with the things they do not do as well as people. For example, the researchers said humans generally have a faster learning ability and use less energy thinking than computers do.</p>
+<p>During one part of the experiment, the team tested the Brainoware system's voice recognition ability. The team trained the system on 240 recordings of eight different voices. The researchers said the organoid produced different neural signals in reaction to the different voices. The <strong>accuracy</strong> level of the system reached 78 percent, Guo said.</p>
+<p>"This is the first demonstration of using brain organoids [for computing]," Guo <a class="wsw__a" href="https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/">told</a> <em>MIT Technology Review</em>. He added, "It's exciting to see the possibilities of organoids for biocomputing in the future."</p>
+<p>Guo said these results persuaded his team that a brain-computer system can work to improve computing performance, especially for some AI jobs. But he noted the best accuracy rates recorded by the Brainoware system were still below the accuracy rates of traditional AI networks. Guo said this is one of the things his team plans to try to improve.</p>
+<p>Lena Smirnova is a developmental neuroscientist at Johns Hopkins University in Baltimore, Maryland. She told <em>Nature</em> that more research will be needed to improve such systems. But she said, "The study confirms some key <strong>theoretical</strong> ideas that could eventually make a biological computer possible."</p>
+<p>Smirnova noted that in earlier experiments, researchers have used other kinds of neuron cells to perform similar computational activities. But the latest study, she said, was the first to demonstrate this kind of performance in a brain organoid.</p>
+<p>I'm Bryan Lynn.</p>
+<p><em>Bryan Lynn wrote this story for VOA Learning English, based on reports from Nature Electronics, The Associated Press, Harvard's </em><em>Stem Cell Institute and MIT Technology Review. </em></p>
+<p><strong>_____________________________________________</strong></p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>instruction </strong><em>– n. </em>a set of steps for how to do something</p>
+<p><strong>circuit </strong><em>– v. </em>a complete circle an electric current travels around</p>
+<p><strong>accurate </strong><em>– adj. </em>correct or exact</p>
+<p><strong>theoretical </strong><em>– adj. </em>based on the ideas that relate to a subject, not the practical uses of that subject</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>A Short History of UN Climate Deal Promises  (2023/12/18)</title>
+            <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202312/a-short-history-of-un-climate-deal-promises.mp3"/>
+            <content:encoded><![CDATA[<div class="content">
+<span class="byline">By Gregory Stachel</span><br/>
+<span class="datetime">17 December 2023</span><br/>
+<p>United Nations delegates from nearly 200 countries recently held a climate meeting in Dubai, United Arab Emirates.</p>
+<p>The delegates agreed that the world must move away from fossil fuels like oil, gas, and coal.</p>
+<p>The U.N. meeting on climate change is called COP28 this year. Recently, <em>The Associated Press</em> gave details about some of the main results of notable climate talks over almost 30 years:</p><div class="contentImage"><img alt="FILE - Activists demonstrate for climate justice and a ceasefire at the COP28 U.N. Climate Summit, Dec. 9, 2023, in Dubai, United Arab Emirates. (AP Photo/Peter Dejong, File)" src="https://img.51voa.cn/1/55a437db-880e-45ed-8ff6-4b4ba8c5a31e_cx0_cy3_cw0_w268_r1.jpg"/><br/><span class="imagecaption">FILE - Activists demonstrate for climate justice and a ceasefire at the COP28 U.N. Climate Summit, Dec. 9, 2023, in Dubai, United Arab Emirates. (AP Photo/Peter Dejong, File)</span></div>
+<p><strong>The Kyoto Protocol</strong></p>
+<p>The Kyoto Protocol was the third high-level U.N. climate meeting. It took place in Kyoto, Japan in 1997.</p>
+<p>The agreement asked 41 countries that produced a lot of carbon gases to cut their <strong>emissions</strong> by about five percent compared to their emission levels in 1990.</p>
+<p>Countries agreed to some of the terms in the Kyoto Protocol by 2005. The United States and China, however, did not approve the agreement. Those countries have the world's two largest economies and produce the largest amount of carbon gases.</p>
+<p>The Kyoto Protocol was not successful by some measures. Emissions have greatly increased since then. But it is the first time so many U.N. members agreed that carbon gases were a problem.</p>
+<p><strong>Copenhagen's money for the climate</strong></p>
+<p>The 2009 climate meeting in Copenhagen, Denmark is widely seen as a failure. Developing and developed countries disagreed on cutting emissions and whether poor nations could use oil, natural gas, and coal to grow their economies.</p>
+<p>However, wealthy countries promised to send $100 billion a year to developing countries. The money was to be used for green technology by 2020. Green technology often describes energy technology that does not produce pollution when it is used.</p>
+<p>But wealthy nations did not reach their goal of $100 billion by the start of the 2020s. That led to criticism from developing countries and environmentalists.</p>
+<p>In 2022, the Organization of Economic Cooperation and Development, an international economic group, said wealthy countries probably reached their $100-billion goal.</p>
+<p>But the British nonprofit group Oxfam said 70 percent of the money was in the form of loans. It said the loans increased debt problems in developing countries.</p>
+<p>Also, an increasing number of weather-related disasters are blamed on climate change. Experts say the money promised is not enough. British economist Nicholas Stern said that developing countries likely need $2 trillion every year by 2030 for climate projects and recovery.</p>
+<p><strong>The Paris agreement</strong></p>
+<p>The Paris Agreement is widely considered the single biggest U.N. agreement on climate change. In 2015, about 196 nations agreed to keep atmospheric warming "well below" 2 degrees Celsius since, what the agreement calls, "pre-industrial times." Later, the goal became limiting warming no higher than 1.5 degrees Celsius.</p>
+<p>The U.N. says the Paris agreement is a "legally binding international treaty," meaning that it has the force of law in countries that approve it. But there do not appear to be punishments for countries that do not follow its rules.</p>
+<p>Today, the goal of limiting the rise of the atmosphere's temperature to 1.5 degrees is still central to climate discussions. U.N. experts say the world's temperature has not passed the limit set in the Paris agreement. The U.N. says it has warmed from 1.1 to 1.2 degrees Celsius since the early 1800s. But it says the atmosphere will reach the 1.5-degree limit soon unless large cuts in emissions are made quickly.</p>
+<p><strong>Glasgow and coal</strong></p>
+<p>Six years after the Paris agreement, climate officials wanted another agreement to strengthen the levels agreed upon in 2015.</p>
+<p>The meeting in Glasgow, Scotland was put off until 2021. It was delayed by the COVID-19 pandemic. The meeting included protests led by teenaged climate activist Greta Thunberg. She helped lead a worldwide movement of youth activists demanding more action from leaders.</p>
+<p>In Glasgow, countries agreed to "<strong>phase</strong>-down" coal use. That is different from saying "phase-out." India and China, two of the world's biggest coal users, pressed for the change.</p>
+<p>So far, most countries have failed to meet the promises they made at the Glasgow deal. Emissions from coal have increased and most major coal-using countries have yet to slow use of the fuel.</p>
+<p><strong>Loss and damage in Sharm el-Sheikh</strong></p>
+<p>Last year, climate talks took place in the Egyptian vacation town of Sharm el-Sheikh. There, countries agreed to create a <strong>fund</strong> for poor nations for the first time.</p>
+<p>Delegates agreed to a loss and damage fund. Its aim was to provide money to countries that suffered damage from severe weather events.</p>
+<p>Delegates at the COP27 meeting called for the fund to be created after a flood in Pakistan killed an estimated 2,000 people and caused billions of dollars in losses.</p>
+<p>The fund was officially created on the first day of this year's talks in Dubai. Over $700 million has been promised. Giving to the fund is voluntary.</p>
+<p>U.N. climate experts say billions of dollars are needed because of weather-related events like cyclones, rising sea levels, floods and droughts. The experts blame the extreme events on increasing temperatures in Earth's atmosphere.</p>
+<p>I'm Gena Bennett. And I'm Gregory Stachel.</p>
+<p><em>Guaurav Saini And Sibi Arasu reported this story for The Associated Press with Press Trust of India. Gregory Stachel adapted it for VOA Learning English.</em></p>
+<p>___________________________________________________</p>
+<h2 class="wsw__h2"> </h2>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>emission </strong>– <em>n</em>. the act of producing or sending out something (such as energy or gas) from a source</p>
+<p><strong>phase out </strong>– <em>phr. v</em>. to stop using, making, or doing (something) gradually over a period of time</p>
+<p><strong>fund </strong>– <em>n</em>. an amount of money that is used for a special purpose</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>Mickey Mouse Will Soon Belong to You, Me, Everyone  (2023/12/18) | 早期版本米老鼠即将版权到期进入共有领域</title>
+            <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202312/mickey-mouse-will-soon-belong-to-you-me-everyone.mp3"/>
+            <content:encoded><![CDATA[<div class="content"><p>An early version of Mickey Mouse, the famous Disney character, will soon belong to you, me and everybody else.<br/>
+迪士尼著名角色米老鼠的早期版本很快就会属于大众。</p>
+<p>The mouse that started a Hollywood empire, along with several other characters, movies, and books will enter the public domain on January 1st.<br/>
+这只开创了好莱坞帝国的老鼠，以及其他几个角色、电影和书籍将于1月1日进入公有领域。</p>
+<p>Public domain is the term to describe creative works that are no longer protected by U.S. copyright law. Once a work enters the public domain, it can legally be shared, performed, reused, or repurposed without permission or cost.<br/>
+公有领域是一个专业术语，用于描述不再受美国版权法保护的创意作品。一旦作品进入公有领域，就可以合法地共享、表演、重利用或重新调整用途，而无需获得许可或支付费用。</p>
+<p>Mickey Mouse, and Minnie Mouse, first appeared publicly in the 1928 film Steamboat Willie. Copyright law at the time provided protection for 75 years. But in 1998, U.S. law extended copyright protection for another 20 years.<br/>
+米老鼠和米妮老鼠首次公开出现在1928年的电影《汽船威利》中。当时的版权法提供了75年的保护。但在1998年，美国法律将版权保护期又延长了20年。</p>
+<p>Jennifer Jenkins is head of Duke University's Center for the Study of Public Domain. Jenkins says copyright law is sometimes called the Mickey Mouse Protection Act. As the character is about to enter the public domain, she says "This is it. This is Mickey Mouse. This is exciting because it's kind of symbolic."<br/>
+詹妮弗·詹金斯是杜克大学公有领域研究中心的负责人。詹金斯说，版权法有时被称为《米老鼠保护法》。随着这个角色即将进入公有领域，她说：“就是这样。这是米老鼠。这很令人兴奋，因为它有点象征意义。”</p>
+<p>In a statement, the Disney Company told The Associated Press, "Ever since Mickey Mouse's first appearance in the 1928 short film Steamboat Willie, people have associated the character with Disney's stories, experiences, and authentic products." The company added, "More modern versions of Mickey will remain unaffected by the expiration of the Steamboat Willie copyright..."<br/>
+迪士尼公司在一份声明中告诉美联社，“自从米老鼠第一次出现在1928年的短片《汽船威利》中以来，人们已经把这个角色与迪士尼的故事、经历和正牌产品联系在一起。”该公司补充道，“现代版本的米奇将不受《汽船威利》版权到期的影响……”</p>
+<p>People will only be able to use the version of the mouse in Steamboat Willie that has become public. However, observers expect the courts to be busy in the coming years judging what is inside and outside Disney's ownership.<br/>
+人们将只能使用已经开放版权的《汽船威利》中使用米老鼠版本。然而观察人士预计，未来几年，法院将忙于判断属于和不属于迪士尼所有权的情况。</p>
+<p>Disney also holds a trademark on Mickey to represent the company and its brand. That law bars the use of the character as a Disney product identifier for anyone except Disney.<br/>
+迪士尼还持有米奇的商标，以代表公司及其品牌。该法律禁止除迪士尼以外的任何人使用该角色作为迪士尼产品的标识符。</p>
+<p><span style="font-weight: bold;">Others in the public domain<br/>
+公有领域的其他</span></p>
+<p>Another famous animal character, Tigger, will also join his friend Winnie the Pooh in the public domain. The bouncing tiger first appeared in the book The House at Pooh Corner by British writer A.A. Milne. It turns 96 in January.<br/>
+另一个著名的动物角色跳跳虎，也将加入他的朋友小熊维尼的行列进入公有领域。这只蹦蹦跳跳的老虎首次出现在英国作家A.A.米尔恩的《维尼角的小屋》一书中。今年一月份它就满96岁了。</p>
+<p>The silly old bear Pooh, himself, became public property two years ago when Milne's book Winnie the Pooh came of age. The soft-spoken bear, no longer protected by copyright, is seen terrorizing women in this year's horror film Winnie the Pooh: Blood and Honey.<br/>
+两年前，当米尔恩的书《小熊维尼》到了法定年头时，这只傻里傻气的老熊维尼就成了公共财产。这只说话轻声细语的熊不再受版权保护，在今年的恐怖电影《小熊维尼：血与蜜》中，可以看到它吓唬女性。</p>
+<p>Other creative works entering the U.S. public domain are Charlie Chaplin's film Circus, Virginia Woolf's book Orlando, and Eugene O'Neill's play Long Day's Journey into Night.<br/>
+其他进入美国公有领域的创意作品包括查理·卓别林的电影《马戏团》、弗吉尼亚·伍尔夫的书《奥兰多》和尤金·奥尼尔的戏剧《漫漫长夜》。</p>
+<p>I'm Caty Weaver.<br/>
+我是凯蒂·韦弗。(51VOA.COM原创翻译，请勿转载，违者必究！)</p></div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>Young Indonesians Clean up Waterways, Better Solution Needed  (2023/12/18)</title>
+            <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202312/young-indonesians-clean-up-waterways-better-solution-needed.mp3"/>
+            <content:encoded><![CDATA[<div class="content">
+<span class="byline">By Dan Novak</span><br/>
+<span class="datetime">17 December 2023</span><br/>
+<p>Children in the Indonesian city of Bogor are cleaning up a local lake on their own.</p>
+<p>The young people take small boats, called kayaks, out on the water. They direct the kayaks toward floating trash. They remove the trash from the water and place it in their boats. Later, on land, all the trash is examined and dealt with.</p>
+<p>About 20 children take part in the effort to fight pollution but it began with one boy. Ten years ago, Giri Marhara decided to start cleaning up the lake. He was just 16 years old at the time and had a <strong>habit</strong> of cleaning up his environment.</p><div class="contentImage"><img alt="Environmental activist members of the Situ Gede Cleanliness Warrior pick up trash while paddling kayaks at Setu Gede lake in Bogor, West Java, Indonesia, Tuesday, Oct. 10, 2023. (AP Photo/Achmad Ibrahim)" src="https://img.51voa.cn/1/01000000-0aff-0242-1582-08dbfcc51fee_cx0_cy10_cw0_w268_r1.jpg"/><br/><span class="imagecaption">Environmental activist members of the Situ Gede Cleanliness Warrior pick up trash while paddling kayaks at Setu Gede lake in Bogor, West Java, Indonesia, Tuesday, Oct. 10, 2023. (AP Photo/Achmad Ibrahim)</span></div>
+<p>Young people like Marhara have been at the front of environmental and climate change movements in recent years. Movements like school strikes for climate action, protests at United Nations climate talks, and local clean ups have often been youth-led.</p>
+<p>The <strong>small-scale</strong> campaigns in Indonesia have been popular with younger people, gaining support and attention.</p>
+<p>"For me, cleaning up is <strong>catharsis</strong>, cleaning up is <strong>refreshing</strong>," said Marhara. He said children playing nearby would often ask if they could help him with lake clean up.</p>
+<p>They formed a group last year, called the Situ Gede Cleanliness Warrior, named after the lake. They boat across the lake, pick up trash, and identify what can be recycled.</p>
+<p>Marhara and his friends have collected more than 2,700 kilograms of trash in and around the Situ Gede lake.</p>
+<p>The trash problem in Indonesia is widespread. Its Environmental and Forestry Ministry says the country produced more than 35 million tons of waste last year. It estimates that 35 percent of waste in the country is <strong>unmanaged</strong>. Garbage along roadways, waterways and natural environments is a common sight.</p>
+<p>Waste is also responsible for around 3 percent of global greenhouse gas emissions, says the World Resources Institute. Much of that comes from food waste. If left to <strong>decompose</strong> in landfills, food waste can release methane. The gas warms the planet and is around 80 times stronger than carbon dioxide.</p>
+<p>The trash problem has raised health concerns: Plastic waste, for example, gets broken down into tiny pieces called microplastics, which can enter the human body. Studies suggest it can damage the <strong>endocrine</strong>, nervous and immune systems, and can carry an increased risk of cancers.</p>
+<p>There are alternatives to landfill or littering for some waste products: food waste can be <strong>composted</strong>, for example. Some other types of waste, like certain types of plastic, can be reused or recycled. But environmentalists also say the world needs to make less waste in the first place, as much of it ends up in landfills or in the world's oceans.</p>
+<p>But as waste continues, youth-led clean ups can still make an impact, even if it is just for small areas or communities.</p>
+<p>Marhara believes that lasting change will require ending "behavior that is causing trash to be out there in the environment," he said, saying the country has a "<strong>littering</strong> culture."</p>
+<p>"I think that the only way to counter that culture is by developing a <strong>counterculture</strong>," a clean up culture, he said.</p>
+<p>I'm Dan Novak.</p>
+<p><em>Dan Novak adapted this story for VOA Learning English based on reporting by The Associated Press. </em></p>
+<p><em>_____________________________________________</em></p>
+<h2 class="wsw__h2"> </h2>
+<h2 class="wsw__h2">Words in This Story<strong> </strong></h2>
+<p class="CxSpMiddle"><strong>habit </strong><em>— n. </em>a usual way of behaving</p>
+<p class="CxSpMiddle"><strong>catharsis </strong><em>— n. </em>the act or process of releasing a strong emotion</p>
+<p class="CxSpMiddle"><strong>refreshing</strong><strong><em> </em></strong><em>— adj. </em>pleasantly new, different, or interesting</p>
+<p class="CxSpMiddle"><strong>manage</strong><strong><em> </em></strong><em>— v. </em>to have control of</p>
+<p class="CxSpMiddle"><strong>decompose</strong><strong><em> </em></strong><em>— adj. </em>to cause something to be slowly destroyed and broken down by natural processes, chemicals, etc.</p>
+<p class="CxSpMiddle"><strong>endocrine </strong><em>— n. </em>relating to glands which release hormones or other products directly into the blood</p>
+<p class="CxSpMiddle"><strong>compost </strong><em>— n. </em>a decayed mixture of plants (such as leaves and grass) that is used to improve the soil in a garden</p>
+<p class="CxSpMiddle"><strong>landfill </strong><em>— n. </em>a system in which waste materials are buried under the ground</p>
+<p class="CxSpMiddle"><strong>counterculture </strong><em>— n</em>. a culture with values and customs that are very different from and usually opposed to those accepted by most of society</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
             <title>What Led to the Resignation of an Ivy League President?  (2023/12/17)</title>
             <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
             <enclosure type="audio/mpeg" url="https://files.51voa.cn/202312/what-led-to-the-resignation-of-an-ivy-league-president.mp3"/>
@@ -222,7 +374,8 @@ VOA Learning English presents America's Presidents.</p>
             <title>What Did People Search for in 2023?  (2023/12/16) | 谷歌发布2023年度热搜榜</title>
             <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
             <enclosure type="audio/mpeg" url="https://files.51voa.cn/202312/what-did-people-search-for-in-2023.mp3"/>
-            <content:encoded><![CDATA[<div class="content"><span style="font-size: 9pt;">Google, the most popular internet search engine, releases its "Year in Search 2023" this week.</span><p>
+            <content:encoded><![CDATA[<div class="content">
+<p>Google, the most popular internet search engine, releases its "Year in Search 2023" this week.<br/>
 互联网最热门搜索引擎谷歌本周公布了“2023年热搜榜”。</p>
 <p>Around the world, Google says the "war in Israel and Gaza" was the top search for news. The ongoing war topped searches for "Titanic submarine," which imploded in June, and February's "Turkey earthquake," which killed at least 50,000 in Turkey and Syria.<br/>
 谷歌表示，在世界各地，“以色列和加沙战争”是新闻热搜榜首。这场正在进行的战争超过了对今年6月内爆的“泰坦尼克号潜艇”和2月在土耳其和叙利亚造成至少5万人死亡的“土耳其地震”的搜索。</p>
@@ -1930,151 +2083,6 @@ The Store转变了方式来满足人们的需求。它变成了为老年人提�
 <p><strong>adaptation </strong>– <em>adj</em>. having the ability to make a person feel strong or healthy again</p>
 <p><strong>amazing </strong>– <em>adj</em>. causing great surprise or wonder</p>
 </div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>South Africa, Colombia Aim to Get Lower-Cost Drugs for TB, HIV  (2023/12/5)</title>
-            <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202312/south-africa-colombia-aim-to-get-lower-cost-drugs-for-tb-hiv.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By Andrew Smith</span><br/>
-<span class="datetime">04 December 2023</span><br/>
-<p>South Africa and Colombia are among the countries aiming to push drug companies to permit low-cost versions of drugs for deadly diseases. The drugs are for people with drug-resistant versions of tuberculosis (TB) and with HIV/AIDS.</p>
-<p>One target is the drug bedaquiline. It is used for treating people with drug-resistant tuberculosis. In South Africa, TB was blamed for the deaths of more than 50,000 people in 2021, making it the country's leading cause of death.</p>
-<p>Johnson &amp; Johnson is a U.S.-based drug and medical technology company. The company owns a patent for the drug bedaquiline. Patents legally protect a company's right to manufacture and sell a product that it developed or owns for a limited time. The legal protection prevents other companies from making the same drug without permission.</p><div class="contentImage"><img alt="FILE - Scientists conduct reserach at an Afrigen Biologics and Vaccines facility in Cape Town, South Africa, Tuesday Oct. 19, 2021. (AP Photo/Jerome Delay, File)" src="https://img.51voa.cn/1/01000000-c0a8-0242-9336-08dbf1b3d2d3_cx0_cy6_cw0_w268_r1.jpg"/><br/><span class="imagecaption">FILE - Scientists conduct reserach at an Afrigen Biologics and Vaccines facility in Cape Town, South Africa, Tuesday Oct. 19, 2021. (AP Photo/Jerome Delay, File)</span></div>
-<p>In recent months, activists have protested efforts by Johnson &amp; Johnson to protect its patent. In March, TB patients asked the Indian government to make a lower cost copy of bedaquiline. The government agreed, saying Johnson &amp; Johnson's patent could be broken.</p>
-<p>In July, the time limit for Johnson &amp; Johnson's patent on the drug ran out in South Africa. The company extended the patent until 2027 under South African law. However, activists became angry and accused Johnson &amp; Johnson of trying to make a lot of money from the drug.</p>
-<p>The South African government then began investigating the company's pricing policies. South Africa had been paying about $282 per treatment course: a full group of treatments. This was more than twice as much as poor countries involved in the Swiss-based Stop TB Partnership paid.</p>
-<p>In September, about a week after South Africa's investigation began, Johnson &amp; Johnson announced it would not enforce its patent in more than 130 countries. This would permit other drug makers in those countries to copy the drug.</p>
-<p>Christophe Perrin is a TB expert at Doctors Without Borders. He called the decision "a big surprise." He said protecting patents is central to how most drug companies plan their businesses.</p>
-<p>In October, Colombia announced that it would permit a third party to make the HIV drug dolutegravir without permission from the drug's patent-holder, Viiv Healthcare. The decision came after more than 120 groups asked the government to let more people use the drug, which is supported by the World Health Organization (WHO).</p>
-<p>Peter Maybarduk is with the Washington, D.C., non-profit group Public Citizen. He thinks the Colombian government is trying to take control of its treatment of HIV after not having enough vaccines for COVID-19. He noted that Brazilian activists are pushing their government to do the same.</p>
-<p><strong>More changes needed</strong></p>
-<p>However, some experts say more needs to change before poor countries can produce their own medicines.</p>
-<p>Petro Terblanche is managing director of the biotechnology company Afrigen Biologics based in Cape Town, South Africa. She said African countries produced less than one percent of all vaccines made around the world when the COVID-19 pandemic hit. But, Terblanche said, Africa used more than half of the world's supply.</p>
-<p>Afrigen Biologics is part of a WHO-supported effort to produce a COVID vaccine using the same mRNA technology as those made by U.S.-based drug makers Pfizer and Moderna.</p>
-<p>Terblanche also noted that African countries need to improve their ability to <strong>deliver</strong> vaccines. "If we can't get (vaccines and medicines) to the people who need them, they aren't useful," she said.</p>
-<p>Lynette Keneilwe Mabote-Eyde is a health care activist who has ties to the nonprofit Treatment Action Group based in New York City. She noted that South Africa has no clear law permitting the government to take legal action against a patent or a patent extension.</p>
-<p>The South African department of health did not answer questions from the Associated Press about patents.</p>
-<p><strong>Fighting tuberculosis</strong></p>
-<p>In its yearly report on TB released in November, the WHO said there were more than 10 million people sickened by the disease in 2022 and 1.3 million deaths.</p>
-<p>After COVID-19, tuberculosis is the world's deadliest infectious disease. It is also now believed to be the main cause of death of people with HIV. The WHO says only about 40 percent of people with drug-resistant TB are being treated.</p>
-<p>Zolelwa Sifumba, a South African doctor, found she had drug-resistant TB in 2012. She went through 18 months of treatment, taking about 20 pills every day in addition to daily injections. These left her in severe pain and resulted in some hearing loss. Bedaquiline was not a standard treatment in South Africa until 2018.</p>
-<p>"I wanted to quit (treatment) every single day," she said. Since her recovery, Sifumba has been pushing for better TB treatment. She said it makes little sense to charge poor countries, which have more cases of TB, high prices for necessary medicines.</p>
-<p>She questioned why poor countries would have to pay a lot for medicine. "If the lower income countries can't get it, then what's the point? Who are you making it for?" she said.</p>
-<p>I'm Gena Bennett. And I'm Andrew Smith.</p>
-<p><em>Gerald Imray and Maria Cheng wrote this story for The Associated Press. Andrew Smith adapted it for VOA Learning English.</em></p>
-<p>_______________________________________________</p>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p><strong>deliver </strong><em>–v.</em> to take something from one place to the place where it is supposed to go</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>Biden to US Congress: Ukraine Is 'Out of Money, Out of Time'  (2023/12/5) | 拜登督促国会批准尽快对乌克兰援助</title>
-            <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202312/biden-to-us-congress-ukraine-is-out-of-money-out-of-time.mp3"/>
-            <content:encoded><![CDATA[<div class="content"><p>The administration of American President Joe Biden warned lawmakers Monday against rejecting a military aid proposal for Ukraine.<br/>
-美国总统乔·拜登政府星期一警告议员不要否决对乌克兰军事援助的提案。</p>
-<p>Shalanda Young is the director of the United States Office of Management and Budget. She sent an open letter to the leaders of the U.S. Senate and House of Representatives.<br/>
-莎兰达·杨是美国管理和预算办公室主任。她向美国参众两院领导人发出了一封公开信。</p>
-<p>Young said if the current budget measure is rejected, U.S. military aid to Ukraine would be gone by the end of the year.<br/>
-杨说，如果目前的预算提案被否决，美国对乌克兰的军事援助将在今年年底前不复存在。</p>
-<p>The aid permits Ukraine to buy weapons for its defense against Russia.<br/>
-这项援助允许乌克兰购买武器抵抗俄罗斯。</p>
-<p>Young noted that the U.S. also provides financial aid to the Ukrainian economy, and that money is already gone. She wrote: "If Ukraine's economy collapses, they will not be able to keep fighting...."<br/>
-杨指出，美国还向乌克兰经济提供财政援助，这些钱已经花光了。她写道：“如果乌克兰经济崩溃，他们将无法继续战斗……”</p>
-<p>With less than one month to go in 2023, she added: "We are out of money – and nearly out of time."<br/>
-距离2023年还有不到一个月的时间，她补充道：“我们没有钱了，而且几乎没有时间了。”</p>
-<p>Biden has asked Congress for more than $100 billion in aid that would go to Ukraine, Israel and others. Some lawmakers oppose the measure unless there are conditions attached. They say the Biden administration must find solutions to the migrant problem at the U.S. southern border.<br/>
-拜登已要求国会向乌克兰、以色列和其他国家提供1000多亿美元的援助。一些立法者反对这项提案，除非有附加条件。他们说，拜登政府必须找到解决美国南部边境移民问题的办法。</p>
-<p>The House of Representatives already approved a military assistance bill for Israel. The Senate has not.<br/>
-众议院已经批准了一项对以色列的军事援助法案。参议院没有。</p>
-<p>The U.S. sent $111 billion to Ukraine in 2023. About $67 billion went to military needs. Another $27 billion went toward economic and civil assistance and $10 billion supported humanitarian aid.<br/>
-2023年，美国向乌克兰提供了1110亿美元。大约670亿美元用于军事需求。另有270亿美元用于经济和民事援助，还有100亿美元用于人道主义援助。</p>
-<p>Only three percent of the fund remains, Young wrote. She urged lawmakers to approve more money.<br/>
-杨写道，这笔专款只剩下3%。她敦促议员们批准更多资金。</p>
-<p>"This isn't a next year problem. The time to help a democratic Ukraine fight against Russian aggression is right now. It is time for Congress to act," the letter reads.<br/>
-这份公开信写道：“这不是明年的问题。帮助民主乌克兰对抗俄罗斯侵略的时机就是现在。国会是时候采取行动了。”</p>
-<p>The letter followed a closed meeting on November 29 among U.S. congressional, military and national security officials. The security officials told the lawmakers that Ukraine aid needed to continue. Biden's recent proposal includes $61 billion for Ukraine.<br/>
-这封信是在11月29日美国国会、军方以及国家安全官员举行非公开会议后发出的。安全官员告诉议员们，对乌克兰援助需要继续。拜登最近的提案包括向乌克兰提供610亿美元。</p>
-<p>Chuck Schumer attended the meeting. He is the Majority Leader of the U.S. Senate and a Democrat. He said the American military experts "were clear that Ukraine needs the aid soon."<br/>
-查克·舒默出席了会议。他是美国参议院多数党领袖以及民主党人。他说，美国军事专家“清楚乌克兰很快需要这笔援助。”</p>
-<p>I'm Dan Friedell.<br/>
-我是丹·弗里德尔。(51VOA.COM原创翻译，请勿转载，违者必究！)</p></div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>US States Push to End Food Waste  (2023/12/5)</title>
-            <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202312/us-states-push-to-end-food-waste.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By Dan Novak</span><br/>
-<span class="datetime">04 December 2023</span><br/>
-<p>When Sean Rafferty first worked in a food store 40 years ago, anything that was not sold got thrown out.</p>
-<p>But on a recent day at his store near the New York City area, he was preparing boxes of bread, vegetables, and milk products to be picked up by a food bank. It is part of a program in New York State requiring larger businesses to donate food, and, if possible, reusing small, leftover pieces of food.</p>
-<p>New York is among a growing number of states trying to limit food waste. They are concerned that it is taking up space in landfills and adding to <strong>global warming</strong>. A landfill is a place for putting <strong>garbage</strong>.</p><div class="contentImage"><img alt="Driver Carlos Quezada loads rice on a pallet for distribution at Feeding Westchester in Elmsford, N.Y., Wednesday, Nov. 15, 2023. (AP Photo/Seth Wenig)" src="https://img.51voa.cn/1/01000000-c0a8-0242-e9cc-08dbf0f79b38_w268_r1.jpg"/><br/><span class="imagecaption">Driver Carlos Quezada loads rice on a pallet for distribution at Feeding Westchester in Elmsford, N.Y., Wednesday, Nov. 15, 2023. (AP Photo/Seth Wenig)</span></div>
-<p>Food waste including meat and vegetables releases methane gas after being put in a landfill. And saving unwanted food helps to feed hungry families.</p>
-<p>Worldwide, about a third of food is wasted. In the United States, it is 40 percent. The U.S. spends about $218 billion each year growing and producing food that is wasted. About 57 million metric tons goes to waste, including 47.5 million metric tons that ends up in landfills.</p>
-<p>"What's shocking to people often is not only how much we waste ... but also the <strong>impact</strong>," said Emily Broad Leib. She is a Harvard University professor and director of the school's Food Law and Policy Clinic. "Food waste causes about 8 percent to 10 percent of global <strong>greenhouse gas emissions</strong>."</p>
-<p>In 2015, the U.S. Department of Agriculture and the Environmental Protection Agency announced a goal of 50 percent food waste reduction by 2030.</p>
-<p>That has led to a number of state government efforts, along with smaller, nonprofit efforts.</p>
-<p>Ten American states and Washington, D.C. have passed legislation or created policies to reduce, <strong>compost</strong> or donate waste.</p>
-<p>The states of California and Vermont have programs for turning people's food waste into compost or energy. Connecticut requires businesses, including larger food sellers and <strong>supermarkets</strong>, to reuse food waste. Farmers in Maryland can get a tax credit of up to $5,000 per farm for food they donate.</p>
-<p>Several states have joined New York in creating systems for food donation. Rhode Island requires food sellers servicing schools and universities to donate any unused food to food banks. And Massachusetts limits the amount of food that businesses can send to landfills.</p>
-<p>As of late October, New York had sent 2.3 million kilograms of food, about 4 million meals, through its Feeding New York State program. The program supports the state's 10 area food banks and is hoping to double that number next year.</p>
-<p>"Certainly, we should be reducing the amount we waste to start with, but then we should be feeding people before we throw food away..." said Sally Rowland. She is with the New York Department of Environmental Conservation.</p>
-<p>Despite New York's success, some worry not enough is being done to meet the 2030 goal. Broad Leib and others have called for a national effort to <strong>coordinate</strong> the various state and local policies.</p>
-<p>Kathryn Bender is a University of Delaware assistant professor of economics. She said donation programs are helpful. But she worries they might put the responsibility on nonprofits, instead of businesses.</p>
-<p>"The best solution for food waste is to not have it in the first place," Bender said. "If we don't need to produce all that food, let's not put all the resources into producing that food."</p>
-<p>I'm Faith Pirlo.</p>
-<p><em>Dan Novak adapted this story for VOA Learning English based on reporting by The Associated Press. </em></p>
-<p class="CxSpMiddle"><em>________________________________________________</em></p>
-<h2 class="wsw__h2"> </h2>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p class="CxSpMiddle"><strong>global warming </strong><em>— n. </em>the recent increase in the world's temperature that is believed to be caused by the increase of certain gases in the atmosphere</p>
-<p class="CxSpMiddle"><strong>garbage </strong><em>— n. </em>things that are no longer useful or wanted and that have been thrown out</p>
-<p class="CxSpMiddle"><strong>impact </strong><em>— n. </em> the act or force of one thing hitting another</p>
-<p class="CxSpMiddle"><strong>greenhouse gas </strong><em>— n.</em></p>
-<p class="CxSpMiddle"><strong>emission </strong><em>— n. </em>the act of producing or sending out something from a source</p>
-<p class="CxSpMiddle"><strong>compost </strong><em>— n. </em>a decayed mixture of plants that is used to improve the soil in a garden</p>
-<p class="CxSpMiddle"><strong>supermarket </strong><em>— n. </em>a store where customers can buy a variety of foods and usually household items</p>
-<p class="CxSpMiddle"><strong>coordinate </strong><em>— n. </em>to make arrangements so that two or more people or groups of people can work together properly and well</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>NASA Continues Mars Helicopter Experiments, Tests New Design on Earth  (2023/12/4)</title>
-            <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202312/nasa-continues-mars-helicopter-experiments-tests-new-design-on-earth.mp3"/>
-            <content:encoded><![CDATA[<div class="content"><span class="byline">By Bryan Lynn</span><br/>
-<span class="datetime">03 December 2023</span><br/>
-<p>As the American space agency NASA continues to carry out tests of its Ingenuity helicopter on Mars, it is also testing a future aircraft design on Earth.</p>
-<p>NASA's Ingenuity has been making test flights on the Red Planet for the past two-and-a-half years. The experimental helicopter arrived on Mars along with NASA's Perseverance explorer, or rover, in February 2021.</p>
-<p>Both the rover and helicopter have been collecting images and data as they explore an area known as Jezero Crater. The goal of the exploration effort is to search for signs of ancient life on Mars.</p>
-<div class="contentImage"><img alt="This illustration, made available by NASA, depicts the Ingenuity helicopter on Mars after launching from the Perseverance rover, shown in the background left. (NASA/JPL-Caltech via AP)" src="https://img.51voa.cn/1/01000000-c0a8-0242-05e9-08dbf1ebe005_cx0_cy5_cw0_w268_r1.jpg"/><br/>
-<span class="imagecaption">This illustration, made available by NASA, depicts the Ingenuity helicopter on Mars after launching from the Perseverance rover, shown in the background left. (NASA/JPL-Caltech via AP)</span></div>
-<p><strong>Ingenuity made history on Mars</strong></p>
-<p>Ingenuity made history in April 2021 by becoming the first aircraft to complete a powered, controlled flight on another planet. NASA officials have said the helicopter has performed far above expectations. Agency engineers planned on Ingenuity completing just five experimental flights on Mars. But the helicopter has so far performed 66 flights. It has provided NASA with valuable data on building future aircraft to fly in space.</p>
-<p>Travis Brown is Ingenuity's chief engineer at NASA's Jet Propulsion Laboratory (JPL) in California. He <a class="wsw__a" href="https://www.jpl.nasa.gov/news/nasa-uses-two-worlds-to-test-future-mars-helicopter-designs">said</a> in a statement that with nearly every flight, the helicopter has progressed in new ways. Brown noted that over the past nine months, Ingenuity had doubled its top speed and height records. In addition, the aircraft's operating speed and landings improved.</p>
-<p>Most Ingenuity flights only last two to three minutes. This is because the helicopter has energy and temperature limitations.</p>
-<p>NASA engineers say they have also been careful not to try to fly Ingenuity too fast because this can cause problems with its <strong>navigation</strong> system. The helicopter uses a camera to identify rocks and other things on the surface as it travels. If the aircraft goes too fast, it might not be able to navigate the best way forward.</p>
-<p>Controllers on the ground have said that to help with this issue, they have sent commands to Ingenuity to fly at higher levels. This way the aircraft has less chance of losing its way because surface objects stay in view longer.</p>
-<p>NASA says Ingenuity established a new height record, on flight 61, of 24 meters as it examined Martian wind conditions. On flight 62, the helicopter set a new speed record of 10 meters per second. During this flight Ingenuity also identified a new place for the Perseverance rover to carry out science experiments.</p>
-<p><strong>Testing new helicopter design on Earth</strong></p>
-<p>As that testing continues on Mars, teams on the ground have been experimenting with new <strong>rotor blades</strong>. These could be used in the future with a new generation of Mars helicopters. During the tests, engineers reported the rotor blades had reached speeds nearly equal to Mach 1, the speed of sound.</p>
-<p>The blades tested on Earth are made of carbon material and are more than 10 centimeters longer than Ingenuity's. The blades were designed to be both faster and stronger. NASA has said such rotor blades should be able to support bigger, more complex helicopters. The team <a class="wsw__a" href="https://www.jpl.nasa.gov/news/nasa-uses-two-worlds-to-test-future-mars-helicopter-designs">said</a> in a statement the helicopter design must reach the right balance. If the blades spin too fast, this causes control issues that can increase the risk of crashes.</p>
-<p>The Earth-based tests were carried out in September inside a space <strong>simulator</strong> at NASA's JPL. For these experiments, the simulator aimed to establish a Mars-like environment. The team was measuring tests of the rotor blades with sensors, cameras and other equipment. Many different speeds were tested and the blades were repeatedly repositioned to observe the best results.</p>
-<p>"We spun our blades up to 3,500 rpm, which is 750 revolutions per minute faster than the Ingenuity blades have gone," said Tyler Del Sesto, a leader of the JPL testing. "These more <strong>efficient</strong> blades are now more than a <strong>hypothetical</strong> exercise. They are ready to fly," he added.</p>
-<p>I'm Bryan Lynn.</p>
-<p><em>Bryan Lynn wrote this story for VOA Learning English, based on reports from NASA. </em></p>
-<p><strong>__________________________________________</strong></p>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p><strong>navigate </strong><em>– v. </em>to find the right direction to travel in by using maps of other equipment</p>
-<p><strong>rotor blade </strong><em>– n. </em>thin, flat pieces of material that spin to make aircraft lift off the ground and travel</p>
-<p><strong>simulator </strong><em>– n. </em>a machine used to practice operating a vehicle or piece of equipment without having to actually use those things</p>
-<p><strong>efficient </strong><em>– adj. </em>working well and not wasting time or energy</p>
-<p><strong>hypothetical </strong><em>– adj. </em>a situation or idea has been suggested but does not yet really exist or has not been proven to be true</p></div>]]></content:encoded>
             <itunes:explicit>no</itunes:explicit>
           </item>
     </channel>
