@@ -65,6 +65,132 @@ American Mosaic（美国万花筒） American Mosaic是一个radio magazine（�
 American Stories（美国故事） 这一专题材节目安排在每星期六晚上播出。这样能使听众在学习和工作之余，得以轻松一下头脑。我们可以通过这一美国文学的“窗口”，接触各种流派、各类名家的文学作品。了解美国英语的时代特色，欣赏、学习美国人民运用语方的技巧，并从那些佳作名篇中获得艺术享受。该节目对短篇故事采取一次播一篇的方式，对中、长篇小说则先进行简写加工，再分几次播出全文。在播出故事正文之前，播音员常常先介绍故事的主要情节。对需要分几次节目时间播出的中长篇，在播第二或以后各部分之前，主持人还先重述已播部分的故事梗概，以唤起听众的回忆，使故事听起来更加连贯。</description>
         <itunes:explicit>no</itunes:explicit>
           <item>
+            <title>Japanese Experiment Breaks Record for Internet Traffic Speed  (2024/1/4)</title>
+            <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202401/japanese-experiment-breaks-record-for-internet-traffic-speed.mp3"/>
+            <content:encoded><![CDATA[<div class="content">
+<span class="byline">By Bryan Lynn</span><br/>
+<span class="datetime">03 January 2024</span><br/>
+<p>Japanese researchers say they have broken the world speed record for sending internet data.</p>
+<p>The recent experiment involved sending data over <strong>fiber-optic</strong> lines enclosed inside <strong>cables</strong>. Fiber optic technology is currently the fastest way to transport, or transmit, internet data.</p>
+<p>Fiber-optic cables use signals of light to send data over long distances. The fiber material is very thin, about one-tenth the thickness of a human hair.</p><div class="contentImage"><img alt="FILE - Fiber optic cables are seen running into a server room at Intergate.Manhattan, a data center owned and developed by Sabey Data Center Properties, during a tour of the facility in lower Manhattan, in New York, March 20, 2013. (REUTERS/Mike Sega)" src="https://img.51voa.cn/1/01000000-c0a8-0242-95d6-08dc0c9b0939_w268_r1.jpg"/><br/><span class="imagecaption">FILE - Fiber optic cables are seen running into a server room at Intergate.Manhattan, a data center owned and developed by Sabey Data Center Properties, during a tour of the facility in lower Manhattan, in New York, March 20, 2013. (REUTERS/Mike Sega)</span></div>
+<p>Fiber-optic technology was meant to replace an older internet transmission method that uses cables made mainly of copper wiring. This method can also carry data over the internet, but at much reduced speeds and <strong>capacity</strong> compared with fiber-optics.</p>
+<p>A report released last year by the United Nations' International Telecommunication Union (ITU) <a class="wsw__a" href="https://www.itu.int/hub/2023/05/space-division-multiplexing/">suggested</a> current worldwide internet data transmission is reaching full capacity levels.</p>
+<p>The Japanese data transmission experiment used fiber-optic cables. But the engineers involved made some changes to the cables in an effort to greatly expand speed and capacity.</p>
+<p>Such methods are known as multiplexing technologies. They aim to increase the amount and speed of internet data with existing transmission equipment. These technologies combine multiple communication signals into a single transmission line.</p>
+<p>One multiplexing technology – called Wave Division Multiplexing (or WDM) – aims to increase the <strong>wavelength</strong> capacity within transmission cables. Another method – called Space Division Multiplexing (or SDM) – can involve increasing the size or number of fiber-optic centers, called cores.</p>
+<p>Engineers from Japan's National Institute of Information and Communications Technology (NCIT) led the researchers who carried out the experiment. The tests measured speeds in petabits. One petabit equals 1 million gigabits.</p>
+<p>The record transmission demonstrated a data transmission capacity of 22.9 petabits per second in a single fiber-optic cable. The previous record for data transmission was 10.66 petabits per second, set by the same team at NCIT.</p>
+<p>Major progress has been made in recent years in internet data transmission speeds. In October 2022, an international group of researchers <a class="wsw__a" href="https://www.dtu.dk/english/newsarchive/2022/10/new-data-transmission-record">announced</a> they had broken the world record. That team reported they had reached a test rate of 1.8 petabits per second using a single optical cable.</p>
+<p>Results of the Japanese experiment were officially presented in a paper released at the 49th <a class="wsw__a" href="https://ecoc2023.theiet.org/">European Conference on Optical Communications</a> in October. The team said it was able to beat the previous record by a large amount using new methods to expand and combine different WDM and SDM elements.</p>
+<p>The method used a fiber-optic cable that contained 38 cores. The researchers said expanding the number of cores resulted in an "increased number of optical paths" for high-speed data transmission.</p>
+<p>One researcher was Chigo Okonkwo of Eindhoven University of Technology in the Netherlands. He <a class="wsw__a" href="https://nltimes.nl/2023/12/25/eindhoven-researchers-break-record-fastest-data-transfer-speed-ever#:~:text=Scientists%20based%20in%20Eindhoven%20have,That%20was%20achieved%20in%202020.">told</a> the country's <em>NL Times</em> the rate of 22.9 petabits per second represented "about 20 times the global internet traffic per second." Okonkwo also noted the speed is about 229 times the total capacity of the kinds of fiber-optic cables currently in use today.</p>
+<p>Worldwide, the estimated average internet data transmission speed in 2023 was about 46.8 megabits per second, international research service <em>Statista</em> <a class="wsw__a" href="https://www.statista.com/chart/31075/global-average-internet-download-speed/#:~:text=As%20detailed%20in%20the%20Cable,major%20differences%20between%20world%20regions.">reports</a>. The rate reached 118.7 megabits per second in Western Europe, while Northern Africa had the lowest estimated rate at 9.8, <em>Statista </em>said.<em> </em></p>
+<p>The American-based Pew Research Center studies internet data transmission rates across the United States. Pew <a class="wsw__a" href="https://www.pewtrusts.org/en/research-and-analysis/fact-sheets/2022/07/how-do-americans-connect-to-the-internet">reports</a> the fastest current data transmission method available in the U.S. – called Fiber to Home – is about 10 gigabits per second. This amount is equal to about 10,000 megabits per second.</p>
+<p>Most Americans receive much slower data transmission rates, an average of just under 50 megabits per second. Pew estimates Fiber to Home service only accounts for about 20 percent of the U.S. internet service market.</p>
+<p>The NCIT team described its latest test results as "a major step toward the realization of future ultra-large capacity optical communication networks." But in order to reach this goal, the team said its current methods must be further perfected.</p>
+<p>For example, the researchers pointed to one major issue that could delay future deployments of its super-fast fiber-optic system. This will be the need to complete "significant <strong>upgrades</strong>" to current telecommunication hardware systems in order<strong> </strong>to support the new cable technologies.</p>
+<p>I'm Bryan Lynn.</p>
+<p><em>The Associated Press and Reuters reported this story. Bryan Lynn adapted the reports for VOA Learning English.</em><em> </em></p>
+<p><strong>_________________________________________</strong></p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>fiber optics </strong><em>– n. </em>the use of very thin glass or plastic wires through which light can travel to carry data, especially for internet and computer applications</p>
+<p><strong>cable </strong><em>– n. </em>a set of wires covered by plastic coverings</p>
+<p><strong>capacity </strong><em>– n. </em>the total amount of something that can be produced or contained</p>
+<p><strong>wavelength </strong><em>– n. </em>the distance between two waves of energy</p>
+<p><strong>upgrade </strong><em>– n. </em>a piece of equipment or software that improves the quality or usefulness of a computer or machine</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>Lancashire Heeler: Small Dog with Big Smile  (2024/1/4)</title>
+            <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202401/lancashire-heeler-small-dog-with-big-smile.mp3"/>
+            <content:encoded><![CDATA[<div class="content">
+<span class="byline">By Hai Do</span><br/>
+<span class="datetime">03 January 2024</span><br/>
+<p>It is a small dog with a big "smile." And it is ready to compete with 200 other kinds of dogs, known as breeds.</p>
+<p>Say hello to the Lancashire Heeler.</p>
+<p>The American Kennel Club (AKC) announced Wednesday that the rare dog breed can now compete in thousands of dog shows across the United States. That includes the famous Westminster Kennel Club show.</p><div class="contentImage"><img alt="FILE - Lex, a Lancashire Heeler, sits at attention on Dec. 29, 2023, in Morristown, N.J. The breed is the latest recognized by the American Kennel Club to compete in thousands of U.S. dog shows. (Michelle Barlak via AP)" src="https://img.51voa.cn/1/01000000-c0a8-0242-320f-08dc0c815fdc_w268_r1.jpg"/><br/><span class="imagecaption">FILE - Lex, a Lancashire Heeler, sits at attention on Dec. 29, 2023, in Morristown, N.J. The breed is the latest recognized by the American Kennel Club to compete in thousands of U.S. dog shows. (Michelle Barlak via AP)</span></div>
+<p>The AKC <a class="wsw__a" href="https://www.akc.org/dog-breeds/lancashire-heeler/">describes</a> the breed as "a medium to high energy dog." The organization says the dogs are intelligent, friendly and quick to learn new tasks. They are happy, talkative and always ready for a walk.</p>
+<p>Lancashire Heelers have long bodies and short coats of hair, or fur, in black and tan. The breed stands about 30 centimeters high and weighs up to 7.7 kilograms. Historically, they helped to drive farm animals and chase away rats. The breed can also perform several dog-related sports and activities.</p>
+<p>"They're <strong>gritty</strong> little dogs, and they're very intelligent little dogs," says Patricia Blankenship of Flora, Mississippi, who has bred them for many years. "It's an enjoyable little breed to be around."</p>
+<p>The breed is often described as "<strong>courageous</strong>, happy, <strong>affectionate</strong> to owner." And owners say they sometimes pull back their lips into a "smile."</p>
+<p>Lancashire Heeler Club President Sheryl Bradbury says the breed "has to have a job" or stay active with its owners. It is also helpful for them to meet different people and dogs.</p>
+<p>Lancashire Heelers have lived in Britain for hundreds of years, but they are now at risk of dying out as a breed. Britain's Kennel Club has added an average of just 121 Lancashire heelers yearly to its registry in recent years. The AKC says only about 5,000 exist worldwide.</p>
+<p>Founded in 1884, the AKC is the United States' oldest <strong>purebred</strong> dog registry. It also organizes dog shows where 201 recognized breeds compete for the traditional "best in show." To get recognized, a breed must have an official breeding <strong>standard</strong> and there must be at least 300 of the animals in at least 20 states.</p>
+<p>I'm Gena Bennett.</p>
+<p><em>Jennifer Peltz reported this story for the Associated Press. Hai Do adapted it for VOA Learning English. </em></p>
+<p>_________________________________________________</p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>gritty</strong> <em>–adj. </em>showing toughness or courage</p>
+<p><strong>courageous</strong> <em>–adj.</em> being brave or showing courage</p>
+<p><strong>affectionate </strong>–adj. showing love or good feeling</p>
+<p><strong>purebred </strong>–adj. having parents of the same breed</p>
+<p><strong>standard </strong>–n. a level of quality involving observance of certain rules</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>Record Half-million Migrants Crossed Dangerous Darien Gap Last Year  (2024/1/4) | 2023年穿越达连峡谷人数创新纪录</title>
+            <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202401/record-half-million-migrants-crossed-dangerous-darien-gap-last-year.mp3"/>
+            <content:encoded><![CDATA[<div class="content"><p>A record 520,000 migrants crossed the difficult and dangerous Darien Gap wilderness area between Colombia and Panama in 2023. Panamanian officials say that total is more than double the number recorded the year before.<br/>
+2023年，创纪录的52万移民穿越了哥伦比亚和巴拿马之间艰难而危险的“达连峡谷”荒野地带。巴拿马官员表示，这一数字是前一年的两倍多。</p>
+<p>The Panamanian government's migration agency says most of the migrants in 2023 were from Venezuela, Ecuador, and Haiti. And, agency chief Samira Gozaine said minors represented about 25 percent of the group traveling through the dense jungle.<br/>
+巴拿马政府移民局表示，2023年的大多数移民来自委内瑞拉、厄瓜多尔和海地。该机构负责人萨米拉·冈萨伊内表示，在穿越茂密丛林的人群中，未成年人约占25%。</p>
+<p>"This is a national security problem," she told reporters at a government event. "Unfortunately, we do not have a quick solution to solve it."<br/>
+她在一次政府活动中对记者说：“这是国家安全问题，不幸的是，我们没有快速解决方案。”</p>
+<p>The number of migrants crossing the Darien has sharply increased since 2019, when Laurentino Cortizo took office as Panama's president. Officials have called for international assistance to deal with the problem.<br/>
+自2019年劳伦蒂诺·科尔蒂佐就任巴拿马总统以来，穿越“达连峡谷”的移民人数急剧增加。官员们呼吁国际社会提供援助以解决这一问题。</p>
+<p>A major increase in Venezuelans fleeing the economic and social collapse of their country accounts for some of the migration flow. The United Nations says more than seven million Venezuelans have fled their country in recent years.<br/>
+逃离本国经济和社会崩溃的委内瑞拉人大幅增加，这是移民潮的一部分原因。联合国表示，近年来已有700多万委内瑞拉人逃离本国。</p>
+<p>Those who cross the Darien risk murder, rape, human trafficking, and other violence. Natural dangers include heavy rains, sudden floods, poisonous snakes and other wildlife. Migrants must cross jungle rivers as well. There are no roads, bridges or services, including police and emergency workers.<br/>
+那些穿越“达连峡谷”的人有被谋杀、强奸、贩卖人口和其他暴力的风险。自然危险包括暴雨、突发洪水、毒蛇和其他野生动物。移民还必须穿越丛林河流。这里没有道路、桥梁或包括警察和急救人员在内的相关服务。</p>
+<p>In September, Reuters reported that African migrants heading to the United States are flying to Nicaragua to avoid the dangers of the Darien Gap.<br/>
+9月，路透社报道称，前往美国的非洲移民正飞往尼加拉瓜，以避免“达连峡谷”的危险。</p>
+<p>I'm Dan Novak.<br/>
+我是丹·诺瓦克。(51VOA.COM原创翻译，请勿转载，违者必究！)</p></div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>Displaced Afghans Cross Borders to Survive  (2024/1/4)</title>
+            <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202401/displaced-afghan-cross-borders-to-survive.mp3"/>
+            <content:encoded><![CDATA[<div class="content">
+<span class="byline">By Hai Do</span><br/>
+<span class="datetime">03 January 2024</span><br/>
+<p>The desert in the mountains of eastern Afghanistan is filled with hundreds of thousands of people. Some live in tents. Others live out in the open after they were forced to leave neighboring Pakistan.</p>
+<p>More than 40 years of war, violence and poverty have turned 6 million Afghans into refugees. Another 3.5 million people are displaced within the country of 40 million. Many were driven from their homes by war, earthquakes and <strong>drought</strong>.</p>
+<p>Afghanistan's economy collapsed after the Taliban returned to power following the withdrawal of the United States and NATO allies in 2021. Now, two-thirds of its population depends on international aid to survive.</p><div class="contentImage"><img alt="An internally displaced woman takes care of her sick child in a camp on the outskirts of Kabul, Afghanistan, Thursday, Feb. 9, 2023. She has no money to treat her sick child. (AP Photo/Ebrahim Noroozi)" src="https://img.51voa.cn/1/01000000-0a00-0242-f57b-08dc0bd04827_cx0_cy3_cw0_w268_r1.jpg"/><br/><span class="imagecaption">An internally displaced woman takes care of her sick child in a camp on the outskirts of Kabul, Afghanistan, Thursday, Feb. 9, 2023. She has no money to treat her sick child. (AP Photo/Ebrahim Noroozi)</span></div>
+<p>Displaced Afghans live in camps around the country. They do not have enough food or firewood for heat in the winter. Women and children often turn to <strong>begging</strong>. Others marry off their young daughters to families willing to pay them money.</p>
+<p>In May, for example, 15-year-old Shamila was married at a camp for internally displaced people outside Kabul. She stood in a bright-red dress among the women of the family who congratulated her. But the girl was unhappy.</p>
+<p>"I have no choice. If I don't accept, my family will be hurt," said Shamila, whose father did not give the family's name because he feared the Taliban. The <strong>groom's</strong> family is giving her father money to pay off debts taken to support his wife and children.</p>
+<p>"I wanted to study and work, I should have gone to school," Shamila said. "I have to forget all my dreams...so at least I can help my father and my family a little and maybe I can take the <strong>burden off their shoulders</strong>."</p>
+<p>Last year, Pakistan decided to <strong>deport</strong> Afghans who entered the country illegally. Many Afghans lived for years in Pakistan. They were afraid of continuing conflicts at home. When Pakistan's order was announced, hundreds of thousands feared arrest and fled back to Afghanistan. The Afghans said Pakistani officials often prevented them from taking anything with them.</p>
+<p>Their first stop has been the camp in Torkham, where they might spend days or weeks before Taliban officials send them to another place. With little food and little to protect them from the mountain cold, many in the camp are sick.</p>
+<p>In a camp at the foot of a mountain, 55-year-old Farooq Sadiq sat with his wife and children on the ground among some of their belongings. Sadiq said he had been living in the Pakistani city of Peshawar for 30 years and owned a home there. Now they had nothing, not even a tent. He said they had been sleeping on the ground for the past eight nights.</p>
+<p>"I have nothing in Afghanistan, no house, no place to live, not enough money to buy a house," he said. He hopes to settle somewhere in Afghanistan and get a visa to Pakistan so he can go sell his home there to use the money for his family.</p>
+<p>The deportations from Pakistan have greatly increased the large numbers of Afghans who try to migrate into Iran, hoping to find work.</p>
+<p>Every month, thousands cross into Iran at the border near Zaranj. At night, with the help of <strong>smugglers</strong>, they climb over the border wall and jump to the other side.</p>
+<p>Mostly young men, from age 12 to their 20s, flee Afghanistan this way. They plan to work in Iran and send money home to their families. Many are caught by Iranian border guards and sent back.</p>
+<p>Others take a longer trip by car through mountains and deserts on Afghanistan's southwestern border through Pakistan to reach Iran. There is no border wall there. But fighters from the Sunni militant group Jundallah often attack the migrants, killing or kidnapping Shiites among them.</p>
+<p>Over several months, <em>Associated Press </em>photographer Ebrahim Noroozi traveled across Afghanistan from its eastern border with Pakistan to its western border with Iran to report their stories.</p>
+<p>I'm Mario Ritter, Jr.</p>
+<p><em>Ebrahim Noroozi reported this story for the Associated Press. Hai Do adapted it for VOA Learning English.</em></p>
+<p><em>Write to us in the Comments Section or on 51VOA.COM. </em></p>
+<p><em>_______________________________________________</em></p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>drought </strong><em>–n.</em> a severe lack of rain for an extended period</p>
+<p><strong>beg </strong><em>–v.</em> to ask people for money or food</p>
+<p><strong>groom </strong><em>–n.</em> a man about to be married</p>
+<p><strong>burden off (one's) shoulders </strong><em>–idiom</em> to solve a difficult problem or responsibility</p>
+<p><strong>deport </strong><em>–v.</em> to legally expel a person, who is not a citizen, from a country</p>
+<p><strong>smuggler </strong><em>–n.</em> a person who move goods or people from country to country secretly and illegally</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
             <title>Woman, Cat Help Others through Therapy  (2024/1/3)</title>
             <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
             <enclosure type="audio/mpeg" url="https://files.51voa.cn/202401/woman-cat-help-others-through-therapy.mp3"/>
@@ -1941,143 +2067,6 @@ I'm Kelly Jean Kelly.</p>
 <p><strong>simile</strong> – <em>n</em>. an indirect comparison using "like" or "as"</p>
 <p><strong>particular</strong> – <em>adj</em>. used when you want to talk about one thing or a certain kind of thing rather than ones that are similar</p>
 <p><strong>chorus </strong><em>– n.</em> part of a song that is repeated; a large organized group of singers</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>Cat Steals the Show in Video Sent by Laser from Space  (2023/12/21) | 橘猫成为太空激光发送视频主角</title>
-            <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202312/cat-steals-the-show-in-video-sent-by-laser-from-space.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<p>The U.S. space agency says an orange cat named Taters is the star of the first video sent by laser from deep space.<br/>
-美国航天局表示，第一段由激光从外太空发送的视频的主角是一只名叫“土豆”的橘猫。</p>
-<p>NASA's Psyche spacecraft sent the 15-second video to Earth from 30 million kilometers in space. The video shows Taters as he chases a red laser light.<br/>
-美国宇航局的普赛克飞船从3000万公里外的太空向地球发送了这段15秒的视频。视频显示“土豆”在追逐红色激光灯。</p>
-<p>It took less than two minutes for the video to reach Caltech's Palomar Observatory. The video quality is called ultra high-definition. It was sent at the test system's maximum rate of 267 megabits per second.<br/>
-这段视频传输到加州理工学院的帕洛玛天文台花了不到两分钟时间。这种视频质量被称为超高清。它是以该测试系统每秒267兆的最大速率发送的。</p>
-<p>NASA loaded the video into Psyche's laser communication experiment before launching the spacecraft to visit a rare metal asteroid in October. The mission team at NASA's Jet Propulsion Laboratory (JPL) in Pasadena, California, decided to use an employee's three-year-old cat.<br/>
-美国宇航局在10月发射普赛克飞船前往一颗稀有金属小行星，在此之前，它将视频加载到了飞船的激光通信实验中。位于加利福尼亚州帕萨迪纳的美国宇航局喷气推进实验室的任务团队决定使用一名员工的三岁猫。</p>
-<p>The video was sent to Earth on December 11 and was released by NASA this week. The test sent the video faster than most internet connections here on Earth, said project leader Ryan Rogalin.<br/>
-该视频于12月11日发送到地球，并于本周由美国宇航局发布。项目负责人瑞恩·罗加林说，这次实验发送视频的速度比地球上大多数互联网连接的速度都快。</p>
-<p>NASA wants to improve communications from deep space as it prepares efforts to send astronauts to the moon and possibly to the planet Mars. The laser test is meant to send data at rates up to 100 times greater than the radio systems currently used by spacecraft far from Earth.<br/>
-美国宇航局希望改善深空通信，为将宇航员送上月球和火星做准备。这次激光实验旨在以比目前远离地球的航天器使用的无线电系统高出100倍的速率发送数据。</p>
-<p>More tests are planned as Psyche heads towards the main area of asteroids between the planets Mars and Jupiter. But Taters will not be making anymore appearances, JPL said.<br/>
-喷气推进实验室表示，随着普赛克飞船前往火星和木星之间小行星的主要区域，计划进行更多实验。但是“土豆”不会再出现了。</p>
-<p>Joby Harris is an art director in JPL's DesignLab. He could not be any happier, but he does not want his cat's new public attention to go to his head.<br/>
-乔比·哈里斯是喷气推进实验室设计实验室的艺术总监。他再高兴不过了，但他不想让他的猫再次受到公众关注。</p>
-<p>"I'm celebrating his spotlight with him but making sure he keeps his paws on the carpet," Harris said in an email Tuesday.<br/>
-哈里斯在周二的一封电子邮件中说：“我和它一起庆祝它的露脸时刻，但要确保它把爪子放在地毯上。”</p>
-<p>I'm Jill Robbins.<br/>
-我是吉尔·罗宾斯。(51VOA.COM原创翻译，请勿转载，违者必究！)</p></div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>2023: A Big Year for Artificial Intelligence  (2023/12/21)</title>
-            <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202312/a-big-year-for-artificial-intelligence.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By John Russell</span><br/>
-<span class="datetime">20 December 2023</span><br/>
-<p>Artificial intelligence (AI) became a popular subject in 2023. Still, the technology has a long way to go to meet people's futuristic expectations of human-like machines.</p>
-<p>ChatGPT was central to this year's attention on AI. The <strong>chatbot </strong>showed the world recent developments in computer science, although not everyone understood quite how it works or what to do with it.</p>
-<p>AI scientist Fei-Fei Li suggested that 2023 would be remembered for the great changes in technology as well as the public awakening. It was a year for people to figure out "what this is, how to use it, what's the <strong>impact </strong>— all the good, the bad and the ugly," she added.</p><div class="contentImage"><img alt="FILE - The OpenAI logo is seen displayed on a cell phone with an image on a computer screen generated by ChatGPT's Dall-E text-to-image model, Friday, Dec. 8, 2023, in Boston. (AP Photo/Michael Dwyer)" src="https://img.51voa.cn/1/f72a0d88-4574-457d-9070-4c9e3539ba9b_cx0_cy5_cw0_w268_r1.jpg"/><br/><span class="imagecaption">FILE - The OpenAI logo is seen displayed on a cell phone with an image on a computer screen generated by ChatGPT's Dall-E text-to-image model, Friday, Dec. 8, 2023, in Boston. (AP Photo/Michael Dwyer)</span></div>
-<p><strong>Concerns over AI</strong></p>
-<p>The first AI concerns of 2023 began soon after New Year's Day. That is when classrooms reopened and schools from Seattle to Paris started blocking ChatGPT. Students were already asking the chatbot — released in late 2022 — to write papers and answer take-home tests.</p>
-<p>AI large language models behind technology such as ChatGPT work by predicting the next word in a sentence. The models make such predictions after having "learned" the structure of a huge number of human-written works. The large language models often get facts wrong. But the results appeared so natural that it created interest in the next AI developments and possible uses for trickery and <strong>deception</strong>.</p>
-<p>Worries grew as this new group of generative AI tools produced not just words but also images, music and voices. They seemed to threaten the jobs of anyone who writes, draws, and creates music and computer languages. Concerns about AI tools fueled strikes by Hollywood writers and actors and legal disputes from artists to writers.</p>
-<p>Some of the most respected AI scientists warned that the technology's progress was marching toward outsmarting humans and possibly threatening their existence. Yet other scientists called the warnings overblown and brought attention to more immediate risks.</p>
-<p>By spring, AI-created videos known as deepfakes had appeared in U.S. election campaigns. Deepfakes are videos that contain realistic images but with digital changes to people's actions and speech. One deepfake falsely showed Donald Trump <strong>embracing</strong> the nation's former top infectious disease expert. The technology made it increasingly difficult to tell the difference between real and fake videos of the wars in Ukraine and Gaza.</p>
-<p>By the end of the year, the AI crisis affected ChatGPT's maker, OpenAI. The San Francisco-based company led by chief executive Sam Altman was nearly destroyed by disagreements over its mission.</p>
-<p>AI debates also led to new laws from the European Union and consideration from others, including the United States Congress.</p>
-<p><strong>Too much excitement?</strong></p>
-<p>AI products released in 2023 have brought technology achievements not possible in earlier times. But the market research company Gartner says they arrive with "inflated expectations" and "massive claims" about its abilities.</p>
-<p>Gartner analyst Dave Micko said leading AI developers are pushing the latest technology with their current line of products, including search engines and workplace productivity software.</p>
-<p>He said, "As much as Google and Microsoft and Amazon and Apple would love us to adopt the way that they think about their technology and that they deliver that technology, I think adoption actually comes from the bottom up."</p>
-<p>It is easy to forget that this is not the first appearance of AI in business. The technology has been used to help guide self-driving cars, compare objects and individual faces, and recognize speech in software like Siri and Alexa.</p>
-<p>In 2011, Tom Gruber launched Siri, which was bought and used by Apple in the iPhone. At that time, it was the only major use of AI that people had ever experienced.</p>
-<p>But Gruber believes what's happening now is the "biggest wave ever" in AI, launching new possibilities as well as dangers.</p>
-<p>The dangers could come fast in 2024. Major national elections in the U.S., India and elsewhere could get flooded with AI-created deepfakes.</p>
-<p>In the longer term, AI technology's rapidly improving language, visual sensing and step-by-step planning abilities could create a kind of digital assistant — but only if given access to the "inner loop of our digital life stream," Gruber said.</p>
-<p>"They can <strong>manage </strong>your attention as in, ‘You should watch this video. You should read this book. You should <strong>respond</strong> to this person's communication,'" Gruber said. He added, "That is what a real executive assistant does. And we could have that, but with a really big risk of personal information and privacy."</p>
-<p>I'm John Russell. And I'm Ashley Thompson.</p>
-<p><em>Matt O'Brien reported on this story for the Associated Press. John Russell adapted it for VOA Learning English. </em></p>
-<p>________________________________________</p>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p><strong>chatbot</strong> <em>-- n. </em>a computer program designed to converse with people</p>
-<p><strong>impact </strong><em>-- n.</em> a powerful or major influence or effect</p>
-<p><strong>deception</strong> -<em>- n.</em> the act of making someone believe something that is not true</p>
-<p><strong>embrace</strong> <em>-- v.</em> to hold someone in your arms as a way of expressing love or friendship</p>
-<p><strong>manage</strong> <em>-- v.</em> to take care of and make decisions about something</p>
-<p><strong>respond</strong> <em>- v.</em> to say or write something as an answer to a question or request</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>UN: Myanmar Overtakes Afghanistan as World’s Top Opium Producer  (2023/12/21)</title>
-            <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202312/un-myanmar-overtakes-afghanistan-as-world-s-top-opium-producer.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By Bryan Lynn</span><br/>
-<span class="datetime">20 December 2023</span><br/>
-<p>A United Nations report finds that Myanmar has <strong>overtaken</strong> Afghanistan as the world's top opium producer.</p>
-<p>The change came after Myanmar expanded its opium production for a third year, the U.N. reported. In Afghanistan, production fell sharply in 2023 after the Taliban placed a ban on poppy farming.</p>
-<p>The latest data on worldwide opium production was recently released in the U.N.'s report, the <a class="wsw__a" href="https://www.unodc.org/roseap/uploads/documents/Publications/2023/Southeast_Asia_Opium_Survey_2023.pdf">Southeast Asia Opium Survey 2023</a>. The report was released by the U.N.'s Office of Drugs and Crime (UNODC).</p><div class="contentImage"><img alt="A man walks through a flowering opium poppy field in Shan state, Myanmar, 2023. (UNODC)" src="https://img.51voa.cn/1/01000000-c0a8-0242-a70b-08dbfadebb96_cx0_cy9_cw0_w268_r1.jpg"/><br/><span class="imagecaption">A man walks through a flowering opium poppy field in Shan state, Myanmar, 2023. (UNODC)</span></div>
-<p>The report estimates opium crops in Afghanistan dropped an estimated 95 percent in 2023 after the Taliban's ban and enforcement efforts.</p>
-<p>During the same period, an increasing number of farmers in Myanmar turned to opium as a new crop. The increase in production follows a military takeover of the government in 2021 that pushed the country into a civil war. The situation has severely hurt Myanmar's economy.</p>
-<p>The U.N. report estimates poppy growth and processing in Myanmar grew 33 percent in 2022 and another 18 percent this year. That amounts to a total of 47,000 hectares. That is the most land Myanmar has used for opium production since 2013.</p>
-<p>Jeremy Douglas is the area representative for the UNODC. He told VOA the country's economic and security situation have severely limited business possibilities and led more people to turn to opium farming to make money.</p>
-<p>Most families in Myanmar make their living off the land. But a World Bank report released in May found that nearly half of farming families said they worry about having enough food. That number was up from 26 percent from a year earlier.</p>
-<p>The UNODC estimates Myanmar's farmers grew enough poppy this year to produce up to 1,080 metric tons of dry opium. This amounted to total earnings of up to $2.5 billion. Most of this money is believed to have gone to traffickers shipping the product across Asia and as far as Australia, often as heroin.</p>
-<p>Most of that heroin flows through neighboring Thailand on its way to other places. In September, Thai police seized over 440 packs of heroin, along with some 15 million methamphetamine pills. A top Thai law enforcement official told VOA the $8.2 million drug seizure was the largest in the country's history.</p>
-<p>The UNODC report notes Afghanistan's reduced opium production is expected to create a worldwide heroin shortage and drive prices higher. This is likely to lead even more farmers in Myanmar to start growing poppies.</p>
-<p>Douglas said such a shortage could also result in more heroin processed in the Golden Triangle area making its way beyond the Asia-Pacific to Europe and North America. The Golden Triangle is a heavily criminalized area near the borders of Myanmar, Laos and Thailand. It is known for growing and producing large amounts of drugs.</p>
-<p>Afghan heroin started taking over the European and North American markets from the Golden Triangle more than 10 years ago. That change came as drug controllers in Southeast Asia started dealing mostly in methamphetamine.</p>
-<p>Douglas told VOA that even as Afghan production falls sharply, there is still large demand for opium on the world market. He said, "It's highly likely that we're going to start seeing Golden Triangle heroin returning to markets that it hasn't been in for quite some years."</p>
-<p>I'm Bryan Lynn.</p>
-<p><em>Voice of America's Zsombor Peter and the United Nations reported on this story. Bryan Lynn adapted the reports for VOA Learning English.</em></p>
-<p><strong>____________________________________________</strong></p>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p><strong>overtake </strong><em>– v. </em>to catch up with and then pass by someone or something</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>Lacking Counselors, US Schools Turn to Online Therapy  (2023/12/20)</title>
-            <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202312/lacking-counselors-us-schools-turn-to-online-therapy.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By Dan Novak</span><br/>
-<span class="datetime">19 December 2023</span><br/>
-<p>Public schools in the United States are increasingly employing online mental health services, or teletherapy, for students.</p>
-<p>At least 16 of the 20 largest American public school systems are offering online therapy to reach millions of students, reports the Associated Press. In those systems alone, schools have signed provider contracts worth more than $70 million.</p>
-<p>The business model is making so much money that <strong>venture capitalists </strong>are investing in new companies as the market grows. However, some experts have raised concerns about the quality of care offered by fast-growing tech companies.</p><div class="contentImage"><img alt="An employee of Hazel Health displays the opening page of the company's app, Tuesday, Oct. 10, 2023 (AP Photo/Rebecca Blackwell)" src="https://img.51voa.cn/1/01000000-0aff-0242-fa9b-08dbfb5fa7e5_cx0_cy5_cw0_w268_r1.jpg"/><br/><span class="imagecaption">An employee of Hazel Health displays the opening page of the company's app, Tuesday, Oct. 10, 2023 (AP Photo/Rebecca Blackwell)</span></div>
-<p>But educators say teletherapy works for many kids and is meeting a large need. Schools are also experiencing shortages in on-site therapists. Online help has made therapy more easily available to children, especially poorer students and those in rural areas. Schools let students connect with online <strong>counselors</strong> during the school day or after hours from home.</p>
-<p>Ishoo is a mother of two in Lancaster, California. She struggled to help her second-grade daughter deal with severe <strong>anxiety</strong>.</p>
-<p>Last spring, her school district started a teletherapy program and Ishoo signed up her daughter. During a month of weekly video sessions at her home, the girl opened up to a therapist. The therapist gave the student tools and techniques to reduce anxiety.</p>
-<p>"She learned that it's OK to ask for help, and sometimes everyone needs some extra help," Ishoo said.</p>
-<p>The 13,000-student school system, like many others, has counselors and psychologists on staff. But it is not enough to meet the need, said Trish Wilson, the Lancaster <strong>supervisor</strong> of counseling.</p>
-<p>Therapists in the area have full caseloads, making it impossible to offer students immediate care, she said. Students rarely have to wait long for an online session.</p>
-<p>Students and their parents said in interviews they turned to teletherapy after struggling with feelings of sadness, loneliness, stress and anxiety. For many, returning to in-person school after distance learning was very difficult.</p>
-<p>Schools are using federal pandemic relief money to pay for help as experts have warned of worrying rates of youth depression, anxiety and suicide. Many school districts are signing contracts with private companies. Others are working with local health care providers, nonprofits or state programs.</p>
-<p>Mental health experts welcome the extra support but warn about possible risks. For one, it is getting harder to employ on-site school counselors and psychologists. Competition with telehealth providers is not helping.</p>
-<p>"We have 44 counselor <strong>vacancies</strong>, and telehealth definitely <strong>impacts</strong> our ability to fill them," said Doreen Hogans. She is supervisor of school counseling in Prince George's County, Maryland. Hogans estimates 20 percent of school counselors who left have taken teletherapy jobs. The jobs often provide more favorable working hours than the schools.</p>
-<p>The quick growth of the companies raises questions about the quality of the therapists, and their experience with children and privacy, said Kevin Dahill-Fuchel. He is executive director of Counseling in Schools, a nonprofit that helps schools improve traditional, in-person mental health services.</p>
-<p>One of the biggest providers is San Francisco-based Hazel Health. It started with telemedicine health services in schools in 2016 and expanded to mental health in May 2021, CEO Josh Golomb said. It now employs more than 300 therapists providing teletherapy in over 150 school districts in 15 states.</p>
-<p>Other providers are getting into the space. In November, New York City started a free telehealth therapy service for teens to help end barriers to <strong>access</strong>, said Ashwin Vasan, the city's health commissioner. New York is paying the company TalkSpace $26 million over three years for a service permitting teenagers to download an app and connect with therapists.</p>
-<p>Unlike other cities, New York is offering the service to all teens, whether attending private, public or home schools, or not in school at all.</p>
-<p>"I truly hope this normalizes and democratizes access to mental health care for our young people," Vasan said.</p>
-<p>I'm Dan Novak.</p>
-<p><em>Dan Novak adapted this story for VOA Learning English based on reporting by The Associated Press. </em></p>
-<p><em>________________________________________________</em></p>
-<h2 class="wsw__h2"> </h2>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p class="CxSpFirst"><strong>venture capital</strong><em>— n. </em>money that is used to start a new business</p>
-<p class="CxSpMiddle"><strong>counselor </strong><em>— n. </em> a person who provides advice as a job : a person who counsels people</p>
-<p class="CxSpMiddle"><strong>anxiety </strong><em>— n. </em>fear or nervousness about what might happen</p>
-<p class="CxSpMiddle"><strong>supervise</strong><strong><em> </em></strong><em>— v. </em>to be in charge of</p>
-<p class="CxSpMiddle"><strong>vacancy </strong><em>— n. </em> a job or position that is available to be taken</p>
-<p class="CxSpMiddle"><strong>impact </strong><em>— n. </em>the act or force of one thing hitting another</p>
-<p class="CxSpMiddle"><strong>access</strong><strong><em> </em></strong><em>— n. </em>a way of getting near, at, or to something or someone</p>
 </div>]]></content:encoded>
             <itunes:explicit>no</itunes:explicit>
           </item>
