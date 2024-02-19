@@ -65,6 +65,168 @@ American Mosaic（美国万花筒） American Mosaic是一个radio magazine（�
 American Stories（美国故事） 这一专题材节目安排在每星期六晚上播出。这样能使听众在学习和工作之余，得以轻松一下头脑。我们可以通过这一美国文学的“窗口”，接触各种流派、各类名家的文学作品。了解美国英语的时代特色，欣赏、学习美国人民运用语方的技巧，并从那些佳作名篇中获得艺术享受。该节目对短篇故事采取一次播一篇的方式，对中、长篇小说则先进行简写加工，再分几次播出全文。在播出故事正文之前，播音员常常先介绍故事的主要情节。对需要分几次节目时间播出的中长篇，在播第二或以后各部分之前，主持人还先重述已播部分的故事梗概，以唤起听众的回忆，使故事听起来更加连贯。</description>
         <itunes:explicit>no</itunes:explicit>
           <item>
+            <title>Microsoft: State-supported Hackers Using Its AI Tools  (2024/2/19) | 微软称国家支持的黑客组织滥用其人工智能工具</title>
+            <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202402/microsoft-state-supported-hackers-using-its-ai-tools.mp3"/>
+            <content:encoded><![CDATA[<div class="content"><p>Microsoft says state-supported online attackers from Russia, North Korean, and Iran have been using its OpenAI tools to possibly trick targets and gain information.<br/>
+微软表示，来自俄罗斯、朝鲜和伊朗的国家支持的网络攻击者一直在使用其OpenAI工具来欺骗目标并获取信息。</p>
+<p>Microsoft said in a report released Wednesday that it had tracked online attackers, or hacking groups, that work with several states. They include Russia's military Intelligence, Iran's Revolutionary Guard, and North Korean governments. The company said the hackers were trying to improve their campaigns using large language models like OpenAI's ChatGPT. Those computer programs use artificial intelligence. They use huge amounts of information on the internet to create human-sounding writing.<br/>
+微软在周三发布的一份报告中表示，它已经追踪了与几个国家合作的网络攻击者或黑客组织。其中包括俄罗斯军事情报部门、伊朗革命卫队和朝鲜政府。该公司表示，黑客正试图使用OpenAI旗下的ChatGPT等大型语言模型来改进他们的活动。那些计算机程序使用人工智能。它们利用互联网上的大量信息来创作类似人类的作品。</p>
+<p>The company said it would ban state-backed hacking groups from using its AI products. The company said it was not concerned whether any rules had been broken.<br/>
+该公司称其将禁止国家支持的黑客组织使用其人工智能产品。该公司表示，它并不关心是否有任何违规行为。</p>
+<p>"Independent of whether there's any violation of the law or any violation of terms of service, we just don't…want them to have access to this technology," Microsoft Vice President for Customer Security Tom Burt told Reuters.<br/>
+微软负责客户安全的副总裁汤姆·伯特告诉路透社：“无论是否有任何违法行为或违反服务条款的行为，我们都不希望他们能够使用这项技术。”</p>
+<p>Russian, North Korean, and Iranian diplomatic officials did not immediately return requests for comment on the claims.<br/>
+俄罗斯、朝鲜和伊朗外交官员没有立即回复对这些说法发表评论的请求。</p>
+<p>The claims that state-backed hackers have been caught using AI tools to support spying activities is likely to increase concerns about the spread of the technology and its possible abuse. Internet security officials in Western countries have been warning since last year that bad actors were abusing AI tools.<br/>
+国家支持的黑客被抓到使用人工智能工具支持间谍活动的这种说法，可能会增加人们对该技术传播及其可能被滥用的担忧。自去年以来，西方国家的互联网安全官员一直警告说，不良行为者正在滥用人工智能工具。</p>
+<p>OpenAI and Microsoft described the hackers' use of their AI tools as in an "early-stage" and "incremental." Burt said neither had seen online spies have big successes.<br/>
+OpenAI和微软将黑客对其人工智能工具的使用描述为“早期”和“增量”。伯特表示，也没见到网络间谍取得巨大成功。</p>
+<p>"We really saw them just using this technology like any other user," he said. The report described hacking groups using large language models in different ways.<br/>
+他说：“我们实际上看到他们像其他用户一样使用这项技术。”该报告描述了黑客组织以不同方式使用大型语言模型的情况。</p>
+<p>Microsoft said hackers suspected of working for the Russian military spy agency, widely called GRU, used the models. The company said the hackers researched satellite and military technologies that might deal with military operations in Ukraine.<br/>
+微软表示，被怀疑为俄罗斯军事间谍机构GRU工作的黑客使用了这些模型。该公司表示，黑客研究了可能应对乌克兰军事行动的卫星和军事技术。</p>
+<p>Microsoft said North Korean hackers used the models to create content that could be used to trick area experts into giving up information. Iranian hackers also used the models to write better emails, Microsoft said. The company said the Iranian group aimed to trick feminist leaders to go to a dangerous website.<br/>
+微软表示，朝鲜黑客利用这些模型创建了可以用来诱骗地区专家放弃信息的内容。微软表示，伊朗黑客也利用这些模型编写了更好的电子邮件。该公司表示，这个伊朗组织的目的是诱骗女权主义领导人访问一个危险的网站。</p>
+<p>Neither Burt nor OpenAI security official Bob Rotsted said how much activity had been found or how many users had been banned. Burt defended the ban on hacking groups although Microsoft's search engine Bing has no such ban. Burt noted that AI was new and a cause for concern.<br/>
+伯特和OpenAI安全官员鲍勃·罗斯特德都没有透露发现了多少活动，也没有透露有多少用户被禁止。伯特为禁止黑客组织的禁令进行了辩解，尽管微软的搜索引擎必应没有这样的禁令。伯特指出，人工智能是一种令人担忧的新事物。</p>
+<p>"This technology is both new and incredibly powerful," he said.<br/>
+他说：“这项技术既新颖又强大。”</p>
+<p>I'm Gena Bennett.<br/>
+我是吉娜·贝内特。(51VOA.COM原创翻译，请勿转载，违者必究！)</p></div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>Study: Collapse of Ocean Currents Could Cause Major Climate Problems  (2024/2/19)</title>
+            <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202402/study-collapse-of-ocean-currents-could-cause-major-climate-problems.mp3"/>
+            <content:encoded><![CDATA[<div class="content">
+<span class="byline">By Bryan Lynn</span><br/>
+<span class="datetime">18 February 2024</span><br/>
+<p>Scientists are warning of the possible collapse of an Atlantic Ocean current system that would likely lead to worldwide climate changes.</p>
+<p>Researchers identify the ocean system as the Atlantic Meridional Overturning Circulation (AMOC). They say the system plays an important part in moving, or circulating, salt and warm water around the world. This process helps control world temperatures, affects carbon dioxide levels and supports worldwide water flows.</p>
+<p>The AMOC system brings warm water to northern areas and carries cold water south, the U.S. National Oceanic and Atmospheric Administration (NOAA) <a class="wsw__a" href="https://oceanservice.noaa.gov/facts/amoc.html">explains</a>. The circulation also transports nutrients necessary to support many kinds of sea life.</p><div class="contentImage"><img alt="FILE - Wind blown waves from Hurricane Florence hit the beach in Emerald Isle N.C., Thursday, Sept. 13, 2018. (AP Photo/Tom Copeland)" src="https://img.51voa.cn/1/01000000-0a00-0242-da77-08dc2e73e8f0_cx4_cy2_cw92_w268_r1.jpg"/><br/><span class="imagecaption">FILE - Wind blown waves from Hurricane Florence hit the beach in Emerald Isle N.C., Thursday, Sept. 13, 2018. (AP Photo/Tom Copeland)</span></div>
+<p>The process begins as warm and salty surface water flows northward toward Greenland in the Atlantic.</p>
+<p>Scientists created "a complex climate model" in an effort to <strong>simulate</strong> a possible collapse of the AMOC. The computer model was "able to measure a sudden weakening of the ocean circulation," the team <a class="wsw__a" href="https://www.uu.nl/en/news/potential-collapse-of-the-atlantic-ocean-circulation-strongly-affects-european-climate">said</a> in a statement.</p>
+<p>The research was led by scientists from Utrecht University in the Netherlands. A study describing their findings recently <a class="wsw__a" href="https://www.science.org/doi/10.1126/sciadv.adk1189">appeared</a> in the publication <em>Science Advances</em>.</p>
+<p>For thousands of years, Earth's oceans have depended on the AMOC circulation system – which acts like a <strong>conveyor belt</strong> - to control climate. The system is still operating, but has experienced slowdowns in recent years.</p>
+<p>The driver of the conveyor belt sits off the coast of Greenland. As more ice melts here from climate change, more freshwater flows into the North Atlantic and slows the circulation, said Rene van Westen. He is a climate scientist and oceanographer at Utrecht University.</p>
+<p>Van Westen told The Associated Press his research on a possible AMOC collapse does suggest "we are heading towards a <strong>tipping point</strong>." He added, however, that while his team found clear evidence the system is moving closer to collapse, "we're not sure how much closer."</p>
+<p>In the current system, cold, deeper and fresher water heads south past both Americas and then east past Africa. The system also pushes saltier, warmer ocean water from the Pacific and Indian oceans past the southern tip of Africa. This water flows to and around Florida before continuing up the U.S. East Coast towards Greenland.</p>
+<p>The Dutch team simulated 2,200 years of AMOC flow. The researchers added to the model expectations for future human-caused climate change. The results predicted "an <strong>abrupt</strong> AMOC collapse," after 1,750 years.</p>
+<p>But the researchers noted it is difficult to provide a realistic date because the process could be influenced by many unknown circulation events. Making a prediction is also difficult because "current observational records are too short" to provide an exact estimation of collapse, the scientists <a class="wsw__a" href="https://www.uu.nl/en/news/potential-collapse-of-the-atlantic-ocean-circulation-strongly-affects-european-climate">said</a>. The team said more physics-based measuring tools are necessary to create early warning systems.</p>
+<p>The team noted one difficult area to predict is around the tip of Africa, where it is difficult to produce realistic estimates of circulation flows. Measurements around that area have a big effect on how much the AMOC slows, the researchers said.</p>
+<p>"This value is getting more <strong>negative</strong> under climate change," van Westen said. He added that when the AMOC reaches a certain level, the change does not happen over time, but would be more "<strong>cliff</strong>-like," he added.</p>
+<p>Van Westen said an AMOC collapse would mostly affect climate in Europe.</p>
+<p>The researchers say a collapse could reduce temperatures in northwestern Europe by 5 to 15 degrees Celsius. Their study predicts the change would also extend Arctic ice much farther south, raise temperatures in the Southern Hemisphere and change worldwide rainfall. Some scientists warned the climate effects could cause worldwide food and water shortages.</p>
+<p>In addition, the team said the simulation predicted a possible 100 centimeter rise in European sea levels if the AMOC collapsed.</p>
+<p>Van Westen warned that once the collapse happens, the resulting climate effects are nearly impossible to change. Another member of the team, Henk Dijkstra, said staying clear of such a tipping point is necessary to avoid the "<strong>devastating consequences</strong> on climate, society, and the environment."</p>
+<p>I'm Bryan Lynn.</p>
+<p><em>Bryan Lynn wrote this story for VOA Learning English, based on reports from The Associated Press, Utrecht University and Science Advances.</em></p>
+<p><strong>____________________________________________</strong></p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>simulate </strong><em>– v. </em>to do or make something that behaves or looks like something real but is not</p>
+<p><strong>conveyor belt </strong><em>– n. </em>a continuously moving piece of equipment used to transport objects from one place to another</p>
+<p><strong>tipping point </strong><em>– n. </em>the time at which a change or effect cannot be stopped</p>
+<p><strong>abrupt</strong> <em>– adj. </em>sudden and unexpected</p>
+<p><strong>negative </strong><em>– adj. </em>harmful or bad</p>
+<p><strong>cliff </strong><em>– n. </em>a high area of rock with a very steep side, often along a coast</p>
+<p><strong>devastating </strong><em>– adj. </em>causing a lot of damage or destruction</p>
+<p><strong>consequence </strong><em>– n. </em>a result of a particular action or situation, often one that is bad</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>Handwriting Returns in California Schools  (2024/2/19)</title>
+            <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202402/handwriting-returns-in-california-schools.mp3"/>
+            <content:encoded><![CDATA[<div class="content">
+<span class="byline">By Gregory Stachel</span><br/>
+<span class="datetime">18 February 2024</span><br/>
+<p>Starting this year, six- to twelve-year-olds in California will be required to learn <strong>cursive </strong>handwriting.</p>
+<p>The return to handwriting comes after many years in which typing on computer keyboards was taught and handwriting was pushed aside.</p>
+<p>Cursive is a kind of handwriting in which all the letters in a word are connected to each other.</p><div class="contentImage"><img alt="A student at Orangethorpe Elementary School practices writing cursive as California grade school students are being required to learn cursive handwriting this year, in Fullerton, California, U.S. January 23, 2024. (REUTERS/Mike Blake)" src="https://img.51voa.cn/1/6de8e967-539a-454c-9aa0-21366ba01d70_cx0_cy7_cw0_w268_r1.jpg"/><br/><span class="imagecaption">A student at Orangethorpe Elementary School practices writing cursive as California grade school students are being required to learn cursive handwriting this year, in Fullerton, California, U.S. January 23, 2024. (REUTERS/Mike Blake)</span></div>
+<p>Assembly Bill 446 requires that handwriting be taught to 2.6 million Californian students in <strong>grades</strong> one through six. And it requires cursive lessons in grades three and above.</p>
+<p>Former elementary school teacher Sharon Quirk-Silva supported the bill and California Governor Gavin Newsom signed it into law in October.</p>
+<p>Experts say learning cursive improves brain development, reading skills, and hand movement. Some educators also find value in teaching children to read historic documents and family letters from past generations.</p>
+<p>Pamela Keller teaches grades four to six at Orangethorpe Elementary School in Fullerton about 50 kilometers southeast of Los Angeles. She said she was already teaching cursive before the law took effect on January 1.</p>
+<p>Some children <strong>complain </strong>about the difficulty, but Keller has a ready answer:</p>
+<p>"We tell them, well, it's going to make you smarter, it's going to make some connections in your brain, and it's going to help you move to the next level. And then they get <strong>excited</strong> because students want to be smarter. They want to learn," Keller said.</p>
+<p>During a recent visit to the school <strong>library</strong>, Keller said one student got excited seeing an image of the U.S. Constitution, written in 1787, saying, "It's cursive!"</p>
+<p>Several of Keller's students say the subject was difficult, like the letter Z, but they enjoyed it anyways.</p>
+<p>"I love it, because I just feel it's <strong>fancier</strong>...to write, and it's fun to learn new letters," said Sophie Guardia, a 9-year-old in the fourth grade.</p>
+<p>In teacher Nancy Karcher's class, her third-grade students said, "It's fun," "Now I can read my mom's writing," and "It's for my secrets."</p>
+<p><strong>Cursive coming back</strong></p>
+<p>As computers and smart devices grew in popularity, cursive writing was pushed aside. In 2010, the national Common Core education <strong>standards</strong> were published to help students prepare for university. Cursive was left out.</p>
+<p>"They stopped teaching kids how to form any letters at all. Teacher colleges are not preparing teachers to teach handwriting," said Kathleen Wright. She is the founder of the Handwriting Collective, a nonprofit group.</p>
+<p>But cursive is coming back. California became the 22nd U.S. state to require cursive handwriting and the 14th to pass a cursive teaching bill since 2014, said Lauren Gendill. She is a researcher at the National Conference of State Legislatures. Five states have introduced cursive bills so far in 2024.</p>
+<p>Leslie Zoroya is project director for reading language arts at the Los Angeles County Office of Education. She said research has shown that learning cursive supports several linked skills that improve childhood development.</p>
+<p>Zoroya said, "You're using different<strong> neural</strong> networks when you're doing cursive rather than printing. And so, it's creating those pathways in your brain."</p>
+<p>Zoroya said she got the idea from former California Governor Jerry Brown.</p>
+<p>California's teaching standards always had cursive writing goals, but Quirk-Silva said cursive was not always taught and was weakening.</p>
+<p>She said, "The hope of the legislation is that by the time students leave sixth grade, they would be able to read and write it."</p>
+<p>I'm Gregory Stachel.</p>
+<p><em>Daniel Trotta reported this story for The Associated Press. Gregory Stachel adapted it for VOA Learning English. </em></p>
+<p>______________________________________________________</p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>cursive </strong>–n. a form of handwriting in which the writing instrument never leaves the paper while writing a word</p>
+<p><strong>grade </strong>–n. a level of education that is equal to one school year</p>
+<p><strong>complain </strong><em>– v. </em>to say (something that expresses annoyance or unhappiness)</p>
+<p><strong>excited </strong><em>– adj. </em>very enthusiastic and eager about something</p>
+<p><strong>library </strong><em>– n.</em> a place where books, magazines, and other materials (such as videos and musical recordings) are available for people to use or borrow</p>
+<p><strong>fancy </strong><em>– adj. </em>not plain or ordinary</p>
+<p><strong>standard </strong>– <em>n</em>. a level of quality, especially one that people think is acceptable</p>
+<p><strong>neural </strong>– <em>adj</em>. of, relating to, or involving a nerve or the nervous system</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>Presidents’ Day in the US  (2024/2/19)</title>
+            <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202402/presidents-day-in-the-us.mp3"/>
+            <content:encoded><![CDATA[<div class="content">
+<span class="byline">By Hai Do</span><br/>
+<span class="datetime">18 February 2024</span><br/>
+<p>The third Monday of February is known as Presidents' Day in the United States. For nearly 100 years, America honored its first president, <a class="wsw__a" href="https://www.51voa.com/a/americas-presidents-washington/3714877.html" target="_blank">George Washington</a>, on February 22. That was his birthday. But the date was not a national holiday until 1968.</p>
+<p>That year, the U.S. Congress passed a measure known as the <strong>Uniform</strong> Monday Holiday Act. The measure meant that some public holidays would always fall on a Monday. Today, the country honors its first president on the third Monday in February -- and not on Washington's real birthday.</p>
+<p>The holiday is now commonly called Presidents' Day. Many say it also honors <a class="wsw__a" href="https://www.51voa.com/a/americas-presidents-abraham-lincoln/3884227.html" target="_blank">Abraham Lincoln</a>'s birthday. The nation's 16th president was born on February 12.</p><div class="contentImage"><img alt="FILE - A view of the Capitol Dome, Washington Monument and Lincoln Memorial in Washington, D.C. on June 21, 2014. (AP Photo/J. David Ake)" src="https://img.51voa.cn/1/7A4EA373-B5D4-42DD-9ECD-271CC7CB13EF_cx0_cy1_cw0_w268_r1.jpg"/><br/><span class="imagecaption">FILE - A view of the Capitol Dome, Washington Monument and Lincoln Memorial in Washington, D.C. on June 21, 2014. (AP Photo/J. David Ake)</span></div>
+<p>The federal government, however, still recognizes the holiday as "Washington's Birthday."</p>
+<p>The Uniform<strong> </strong>Monday Holiday Act gives workers a three-day weekend. It also gives shops and marketers a chance to have special Presidents' Day sales.</p>
+<p><strong>Presidential facts and 'firsts'</strong></p>
+<p>In January of 2021, <a class="wsw__a" href="https://www.51voa.com/a/joe-biden-oldest/7436052.html" target="_blank">Joe Biden</a> made history when he took the oath of office as the 46th president of the United States. At 78 years old, he became the oldest elected president. The man he beat was the previous record holder, <a class="wsw__a" href="https://www.51voa.com/a/americas-presidents-donald-trump/4188923.html" target="_blank">Donald J. Trump</a>. He took office at the age of 70 in 2017.</p>
+<p>Biden and Trump are leading candidates for the Democratic and Republican presidential nominations for the 2024 presidential race. They will likely face each other again later this year for the presidency.</p>
+<p>As the first billionaire president, Trump replaced <a class="wsw__a" href="https://www.51voa.com/a/americas-presidents-john-kennedy/4085635.html" target="_blank">John F. Kennedy</a>, the 35th president, as the richest man to serve as president.</p>
+<p>Kennedy still holds the record for the youngest person to be elected president. He was 43 when he took office. Kennedy is also the youngest president to die in office. He was <strong>assassinated </strong>in 1963 in Dallas, Texas. He was 46 years old.</p>
+<p>Another presidential assassination put the youngest person in the office of the president. In 1901, <a class="wsw__a" href="https://www.51voa.com/a/americas-presidents-theodore-roosevelt/3986653.html" target="_blank">Theodore Roosevelt</a>, then the vice president, became president at the age of 42. He took office after <a class="wsw__a" href="https://www.51voa.com/a/americas-presidents-william-mckinley/3979185.html" target="_blank">William McKinley</a>, the 25th president, was shot and killed in Buffalo, New York.</p>
+<p>The first president to die in office, though, was <a class="wsw__a" href="https://www.51voa.com/a/americas-presidents-william-henry-harrison/3806092.html" target="_blank">William Henry Harrison</a>. The country's ninth president only served 32 days, the shortest time of any president.</p>
+<p>Another Roosevelt holds the record for the longest time in office. <a class="wsw__a" href="https://www.51voa.com/a/americas-presidents-franklin-roosevelt/4046663.html" target="_blank">Franklin Delano Roosevelt</a> was the 32nd president. He held office for 4,422 days. After his death, the 22nd Amendment was passed. It limited a person to two four-year terms as president.</p>
+<p><strong>Presidential relatives</strong></p>
+<p>Most Americans know that the two Roosevelts were related. But they may not know exactly how they were related. Here it goes:</p>
+<p>Franklin Roosevelt's wife, Eleanor Roosevelt was also his fifth <strong>cousin</strong> once removed. And Theodore Roosevelt, the 26th president, was Eleanor's uncle. That makes the two presidents <strong>distant</strong> relatives.</p>
+<p>But they were not the first relatives to both serve as president. That title belongs to the Adamses. <a class="wsw__a" href="https://www.51voa.com/a/john-adams-biography/3735093.html" target="_blank">John Adams</a> was America's second president. His son, <a class="wsw__a" href="https://www.51voa.com/a/americas-presidents-john-quincy-adams/3777362.html" target="_blank">John Quincy Adams</a> was elected as the nation's sixth president.</p>
+<p>The Bushes are the other father-son presidential <strong>pair</strong>. <a class="wsw__a" href="https://www.51voa.com/a/americas-presidents-george-hw-bush/4151649.html" target="_blank">George Herbert Walker Bush</a> was elected as the 41st president. His son, <a class="wsw__a" href="https://www.51voa.com/a/americas-presidents-george-w-bush/4172344.html" target="_blank">George W. Bush</a>, was the country's 43rd president.</p>
+<p>Not everyone can run for president.</p>
+<p>The <a class="wsw__a" href="https://www.51voa.com/p/5613.html" target="_blank">U.S. Constitution</a> says a person must be at least 35 years old. A person must also have lived "within the United States" for at least 14 years. And they must be a "natural-born citizen."</p>
+<p>But the meaning of "natural-born citizen" is not exactly clear. People read the rules in different ways.</p>
+<p>By some reasoning, the first "natural-born" American president was not George Washington or John Adams. It was <a class="wsw__a" href="https://www.51voa.com/a/americas-presidents-martin-van-buren/3793825.html" target="_blank">Martin Van Buren</a>, the eighth president. He was born in 1782, six years after the signing of the Declaration of Independence.</p>
+<p>All seven presidents before Van Buren, and William Henry Harrison, the 9th president, technically were not "natural-born" citizens. They were born before 1776 when the American states were still British colonies.</p>
+<p>I'm Ashley Thompson.</p>
+<p><em>Hai Do wrote this story for VOA Learning English. Ashley Thompson was the editor.</em></p><div id="bottom"><!-- 51-content-bottom -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-3585518775245612" data-ad-format="auto" data-ad-slot="9284795419" data-full-width-responsive="true" style="display:block; text-align:center;"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<p><em>_____________________________________________</em></p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>uniform</strong> - n. staying the same</p>
+<p><strong>cousin </strong>- <em>n</em>. a child of your uncle or aunt</p>
+<p><strong>assassinated</strong>. - <em>v</em>. killed usually for political reasons</p>
+<p><strong>distant</strong> - adj. used to describe a relative who is not closely related</p>
+<p><strong>pair</strong> - n. two people who are related in some way or who do something together</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
             <title>Recent Death Brings Attention to Alaskapox Virus  (2024/2/18)</title>
             <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
             <enclosure type="audio/mpeg" url="https://files.51voa.cn/202402/recent-death-brings-attention-to-alaskapox-virus.mp3"/>
@@ -1924,151 +2086,6 @@ renderExternalContent("https://www.youtube.com/embed/sQgd6MccwZc?&amp;&amp;&amp;
 <p class="CxSpMiddle"><strong>zero-tolerance </strong><em>— adj. </em>a policy of giving the most severe punishment possible to every person who commits a crime or breaks a rule</p>
 <p class="CxSpMiddle"><strong>implement </strong><em>— v. </em>to begin to do or use</p>
 <p class="CxSpMiddle"> </p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>Will AI Mean Death of Music or More Creativity?  (2024/2/7)</title>
-            <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202402/will-ai-mean-death-of-music-or-more-creativity.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By Gregory Stachel</span><br/>
-<span class="datetime">06 February 2024</span><br/>
-<p>Inside a recording room at Queen Mary University of London, several researchers are working with new artificial intelligence (AI) tools. Their aim is to develop what they call the "new virtual worlds" of music.</p>
-<p>Andrea Martonelli and Max Graf are among more than 30 doctoral students working with Mathieu Barthet, a senior lecturer in Digital Media. They are exploring the possibilities of computational creativity and generative AI. Generative AI is a term that describes technology tools designed to operate at human levels.</p>
-<p>Together, the researchers have set up a futuristic studio where music meets <strong>cutting-edge</strong> technology.</p><div class="contentImage"><img alt="Andrea Martelloni, a PhD Student at the Queen Mary University of London, demonstrates the 'HITar', an AI-powered augmented guitar, at the 2024 National Association of Music Merchants (NAMM) trade show in Anaheim, California, U.S., January 25, 2024. (REUTERS/Jorge Garcia)" src="https://img.51voa.cn/1/4e9464e8-4152-4a42-811a-d76326390477_w268_r1.jpg"/><br/><span class="imagecaption">Andrea Martelloni, a PhD Student at the Queen Mary University of London, demonstrates the 'HITar', an AI-powered augmented guitar, at the 2024 National Association of Music Merchants (NAMM) trade show in Anaheim, California, U.S., January 25, 2024. (REUTERS/Jorge Garcia)</span></div>
-<p>Graf showed off a virtual instrument to reporters with the Reuters news agency. Graf calls the instrument Netz. Netz is played through an augmented-reality headset. Augmented-reality equipment combines the real world with computer-created content. The device Graf uses follows body movements to create musical sounds like notes and chords.</p>
-<p>Martonelli played a HITar, a <strong>guitar</strong> with AI sensors added to it. The sensors can read his movements to create percussive, or drum-like, sounds. These sounds cannot be made with a normal guitar.</p>
-<p>AI can be found in music-making dating back to the 1950s. But recent progress in generative AI has led to divided opinions on the technology.</p>
-<p>Generative AI grew in popularity last year thanks to the ChatGPT language system. Generative AI can create new sounds, words for music or entire songs on its own. But artists usually use simpler AI to add to their sound.</p>
-<p>British musician YUNGBLUD said he believes AI can help his music go "to another direction."</p>
-<p>Other musicians worry that the technology could go too far. Amy Love plays in the English rock group Nova Twins. She said she is not in favor of music that includes artificially generated voices of actual artists. She said she feels the same way about using dead artists' voices in songs.</p>
-<p>In November, the Beatles released the song "Now and Then." It is considered the group's last song and includes the voice of Beatles musician John Lennon, who died in 1980. Lennon's voice sounds were taken from an old recording and re-created with AI.</p>
-<p>New York City-based entertainment company Warner Music said in November it was partnering with the <strong>estate </strong>of the late French singer Edith Piaf to re-create her voice using AI.</p>
-<p>Many experts say AI raises legal and ethical concerns. But <strong>guidelines</strong> on generative AI are still only in their early stage.</p>
-<p>Barthet said, "I think AI can have its place in the music production<strong> chain</strong>." But he added that is only possible if the technology is guided in the right way and if there are rules in place to make sure that musicians keep some amount of control.</p>
-<p>I'm Jill Robbins.</p>
-<p><em>Alessandro Parodi, Olivier Sorgho and Matt Stock reported this story for Reuters. Gregory Stachel adapted it for VOA Learning English. </em></p>
-<p>__________________________________________</p>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p><strong>cutting-edge </strong>– <em>n</em>. the newest and most advanced area of activity in an art or science</p>
-<p><strong>guitar </strong>– <em>n</em>. a musical instrument that is held against the front of your body and that has usually six strings which are played with your fingers or with a pick</p>
-<p><strong>estate </strong><em>– n. </em>the things left by someone who has died</p>
-<p><strong>guideline </strong><em>– n.</em> a rule or instruction that shows or tells how something should be done</p>
-<p><strong>chain </strong><em>– n. </em>a series of connected things or people</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>Boeing Faces Another Manufacturing Delay Affecting 50 Planes  (2024/2/7)</title>
-            <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202402/boeing-faces-another-manufacturing-delay-affecting-50-planes.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By Dan Friedell</span><br/>
-<span class="datetime">06 February 2024</span><br/>
-<p>Boeing announced this week that it was delaying the delivery of about 50 new planes to its customers because of a newly discovered manufacturing problem.</p>
-<p>The American airplane company is under increased <strong>scrutiny</strong> after part of one of its latest 737 passenger airplanes blew open mid-flight in early January.</p>
-<p>The unused door opening of an Alaska Airlines Boeing 737 Max 9 blew out on January 5 as it took off from Portland, Oregon. The part is called a "door plug." It closes off a space that would normally have an emergency exit in it. The door plug permits air carriers to have a few more seats on the plane instead of the exit.</p><div class="contentImage"><img alt="FILE - A worker walks past Boeing's new 737 MAX-9 under construction at their production facility in Renton, Washington on February 13, 2017. (REUTERS/Jason Redmond/File Photo)" src="https://img.51voa.cn/1/ba1e1cf2-5bb1-4119-9bd8-5a0ffc061a38_cx0_cy8_cw0_w268_r1.jpg"/><br/><span class="imagecaption">FILE - A worker walks past Boeing's new 737 MAX-9 under construction at their production facility in Renton, Washington on February 13, 2017. (REUTERS/Jason Redmond/File Photo)</span></div>
-<p>No one was hurt in the Alaska Airlines incident, but the plane suffered serious damage.</p>
-<p>Investigators said <strong>bolts</strong> meant to secure the door plug were not tightened properly. Many airplanes owned by Alaska Airlines and United Airlines were prevented from flying as the panels were fixed. Most are now flying again.</p>
-<p>The American Federal Aviation Administration (FAA) restricted the production of Max 9 planes until it is satisfied with Boeing's safety measures.</p>
-<p>Now another problem has come up.</p>
-<p>An employee of a company that makes parts for Boeing said some holes were not drilled correctly in the window <strong>frames</strong> of some Max jets.</p>
-<p>That company, Spirit AeroSystems, is also being looked at in more detail after the Alaska Airlines incident. Its parts were used to secure the door that blew out in January.</p>
-<p>One of Boeing's top leaders is Stan Deal. In a letter, Deal wrote that the company would have to "perform rework on about 50 <strong>undelivered</strong> planes," but it is not a safety problem for airplanes currently in use.</p>
-<p>The continued problems caused the leader of another airline, Emirates, to criticize Boeing.</p>
-<p>Tim Clark is the president of Emirates, a major airline based in Dubai. He noted a "progressive <strong>decline</strong>." He said the manufacturer must "<strong>instill</strong> a safety culture which is second to none," noting the company's leaders likely understand this is their last chance to regain lost confidence.</p>
-<p>Both United Airlines and Alaska Airlines have expressed their anger at Boeing in recent weeks. United's leader, Scott Kirby, said it may consider purchasing planes from another manufacturer in the future.</p>
-<p>The FAA said it is paying more attention to Boeing's large production center in Washington state. Jodi Baker is the agency's deputy associate administrator for <strong>aviation</strong> safety. Baker said the FAA plans to visit the factory and talk with employees who build the airplanes to find out about their concerns and the company's safety culture.</p>
-<p>Because of the recent problems, Boeing said it would withdraw a request it made with the FAA. The company wanted permission to deliver a smaller version of the 737 MAX airplane before redesigning a system that prevents the build-up of ice on engine <strong>inlets</strong>.</p>
-<p>I'm Dan Friedell.</p>
-<p><em>Dan Friedell adapted this story for Learning English based on a report by the Associated Press.</em></p>
-<p>____________________________________________________</p>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p><strong>scrutiny </strong>–n. the act of investigating or looking closely at something or someone</p>
-<p><strong>bolt </strong>–n. a fastener which secures two pieces together using a screw</p>
-<p><strong>frame </strong>–n. an outer structure that holds something else in</p>
-<p><strong>undelivered </strong>–adj. something not given or sent to the person who ordered it</p>
-<p><strong>decline </strong>–n. a decrease in height or quality</p>
-<p><strong>instill </strong>–v. to cause something to be created over time through thoughtful effort</p>
-<p><strong>aviation </strong>–n. the industry of flight in the Earth's atmosphere</p>
-<p><strong>inlet </strong>–n. an opening that leads into an engine</p>
-<p><em>We want to hear from you. Are you concerned about flying on planes made by Boeing?</em></p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>King Charles’ Cancer Was Caught Early  (2024/2/7) | 英国国王查尔斯确诊癌症</title>
-            <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202402/king-charles-cancer-was-caught-early.mp3"/>
-            <content:encoded><![CDATA[<div class="content"><p>King Charles' cancer was caught early, British Prime Minister Rishi Sunak said Tuesday. Sunak added that the nation is hopeful the king can make a full recovery.<br/>
-英国首相里希·苏纳克周二表示，查尔斯国王的癌症在早期被发现。苏纳克补充说，全国人民都希望查尔斯国王能够完全康复。</p>
-<p>Buckingham Palace officials announced on Monday that the 75-year-old king had a "form of cancer" and would postpone his public appearances to receive treatment.<br/>
-白金汉宫官员周一宣布，这位75岁的国王患上了“某种癌症”，他将推迟公开露面去接受治疗。</p>
-<p>The palace added that Charles was "wholly positive" and looking forward to returning to public work as soon as possible.<br/>
-白金汉宫补充说，查尔斯“非常积极乐观”，并期待着尽快重返公共工作岗位。</p>
-<p>Charles has been king for less than 18 months. He became king following the death of his mother Queen Elizabeth.<br/>
-查尔斯当上国王还不到18个月。他在母亲伊丽莎白女王去世后成为了国王。</p>
-<p>He is planning to continue his weekly meetings with the prime minister and dealing with state papers.<br/>
-他计划继续每周与首相会面，并处理国家文件。</p>
-<p>Charles' son, Prince William is first in line to the throne. He is expected to fill in for some of Charles' duties. His younger son Prince Harry, who has a troubled relationship with the family, arrived Tuesday from California to visit the king.<br/>
-查尔斯的儿子威廉王子是王位的第一顺位继承人。预计他将接替查尔斯的一些职责。他的小儿子哈里王子星期二从加利福尼亚州过来看望国王。哈里王子与王室关系不佳。</p>
-<p>Sunak said he had been "shocked and sad" at the news.<br/>
-苏纳克表示，他对这一消息感到“震惊和悲伤”。</p>
-<p>"All our thoughts are with him and his family. You know, thankfully, this has been caught early," Sunak told BBC radio.<br/>
-苏纳克告诉BBC电台：“我们和国王以及他的家人同在。你知道，谢天谢地，这件事发现得早。”</p>
-<p>Sunak said he was in regular contact with the king. "That will of course continue as normal," he said.<br/>
-苏纳克表示，他与国王保持着定期联系。他说：“这当然会像往常一样继续下去。”</p>
-<p>U.S. President Joe Biden expressed his concern on Monday and said he planned to call the king later.<br/>
-美国总统乔·拜登周一表达了关切，并表示他计划稍后致电国王。</p>
-<p>Canadian Prime Minister Justin Trudeau wrote on the social media service X: "We're sending him our very best wishes – and hoping for a fast and full recovery."<br/>
-加拿大总理贾斯汀·特鲁多在社交媒体服务X上写道：“我们向他致以最良好的祝愿，并希望他能迅速完全康复。”</p>
-<p><span style="font-weight: bold;">Cancer discovery<br/>
-发现癌症</span></p><p>The cancer was discovered recently when Charles stayed three nights in the hospital. At the time, he was undergoing a medical procedure for a non-cancerous enlarged prostate.<br/>
-癌症是查尔斯最近在医院住了三个晚上才发现的。当时，他正在接受非癌性前列腺肥大的医疗手术。</p>
-<p>Buckingham Palace officials have said he does not have prostate cancer. But they did not give any additional details about the kind of cancer the king has.<br/>
-白金汉宫官员表示，他不是患前列腺癌症。但他们没有提供任何关于国王所患癌症的额外细节。</p>
-<p>The British royal family usually keeps medical issues private. But the palace said Charles wanted to make his diagnosis public. He is a backer of several cancer-related charities.<br/>
-英国王室通常对医疗问题保密。但王宫表示，查尔斯希望将自己的诊断结果公之于众。他是几个与癌症有关的慈善机构的支持者。</p>
-<p>Charles' treatment will likely draw attention to the long waiting times for cancer patients under Britain's state-run National Health Service (NHS).<br/>
-查尔斯的治疗可能会引起人们对癌症患者在英国国营国家医疗服务体系下漫长等待时间的关注。</p>
-<p>Survival rates for cancer in Britain are lower than those of other European countries. A January NHS report shows that Britain is behind for nine out of 10 of the most common kinds of cancer.<br/>
-英国癌症的存活率低于其他欧洲国家。英国国家医疗服务体系1月份的一份报告显示，在最常见的10种癌症中，英国有9种癌症的存活率落后。</p>
-<p>I'm Andrew Smith.<br/>
-我是安德鲁·史密斯。(51VOA.COM原创翻译，请勿转载，违者必究！)</p></div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>Damage atop Damage: ‘Atmospheric River’ Storms Strike California Again  (2024/2/6)</title>
-            <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202402/damage-atop-damage-atmospheric-river-storms-strike-california-again.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By Caty Weaver</span><br/>
-<span class="datetime">05 February 2024</span><br/>
-<p>In California, the second of back-to-back atmospheric rivers on Monday caused heavy rains and mudslides, flooded roadways and cut electric power.</p>
-<p>Atmospheric rivers are long and wide areas, like a river, of water <strong>vapor</strong> in the atmosphere that form over an ocean. The National Oceanic and Atmospheric Administration <a class="wsw__a" href="https://www.noaa.gov/stories/what-are-atmospheric-rivers">says</a> these weather systems carry as much water vapor as the average flow of water at the mouth of the Mississippi River. When atmospheric rivers make landfall, they often release this water vapor in the form of rain or snow.</p>
-<p>Much of California was still drying out from the atmospheric river that blew in last week. Over the weekend, officials ordered people living in parts of California that burned in recent wildfires to evacuate. These areas are at high risk for wreckage flows.</p><div class="contentImage"><img alt="An emergency worker helps a resident escape from danger after a mudslide, February 5, 2024, in the Beverly Crest area of Los Angeles, California. (AP Photo/Marcio Jose Sanchez)" src="https://img.51voa.cn/1/0867d26f-12cd-4ffe-a033-674074205a9a_w268_r1.jpg"/><br/><span class="imagecaption">An emergency worker helps a resident escape from danger after a mudslide, February 5, 2024, in the Beverly Crest area of Los Angeles, California. (AP Photo/Marcio Jose Sanchez)</span></div>
-<p>About 1.4 million people living in the Los Angeles area, were under a flash flood warning Monday morning. Up to 23 centimeters of rain had already fallen in the area, with more expected, the National Weather Service predicts. It called the flash flooding and threat of mudslides, "a particularly dangerous situation."</p>
-<p>Keki Mingus, from the Studio City area of Los Angeles, said that mud, rocks, and water came down through her neighborhood. Mingus said, "It looks like a river that's been here for years. I've never seen anything like it."</p>
-<p><strong>Storm affects entire California coast</strong></p>
-<p>The rains brought down trees and power lines Sunday in the San Francisco Bay Area. Winds in the northern area blew as fast as 95 kilometers an hour. In the mountains, they were even stronger with <strong>gusts</strong> reaching almost 130 kilometers an hour.</p>
-<p>Palisades Tahoe is a skiing area about 320 kilometers northeast of San Francisco. The skiing area was expected to have the heaviest snowfall yet this season on Sunday, as much as 15 centimeters per hour for a total of up to 60 centimeters. Heavy snow is continuing into Monday throughout the Sierra Nevada and motorists were urged to avoid mountain roads.</p>
-<p>Just to the south in San Jose, emergency crews rescued people from a car trapped by floodwaters. Other teams rescued people living beside a rising river.</p>
-<p>For the Central Coast, the weather service issued a rare "<strong>hurricane</strong> force wind warning," with wind gusts of up to 148 kilometers an hour.</p>
-<p>The storm then moved into Southern California, where officials warned of possible severe flooding. They ordered people to leave canyon areas where there were recent wildfires. Officials are concerned about the high risk of wreckage flows in those areas.</p>
-<p>The latest atmospheric river storm is called a "<a class="wsw__a" href="https://oceanservice.noaa.gov/facts/pineapple-express.html">Pineapple Express</a>" because it stretches across the Pacific from almost as far as Hawaii.</p>
-<p>"We've had flooding, we've had gusty winds, we've had the whole <strong>gamut</strong> here," said Todd Hall, a weather scientist with the National Weather Service near Los Angeles. Hall said he expects the heavy to moderate rain to continue in southern California until Tuesday.</p>
-<p>California Governor Gavin Newsom has declared a state of emergency for most areas of the state. The Governor's Office of Emergency Services activated its operations center and deployed workers and equipment in areas most at risk.</p>
-<p>I'm Caty Weaver.</p>
-<p><em>Caty Weaver adapted this story for VOA Learning English from an Associated Press report.</em></p>
-<p class="CxSpMiddle"><em>_______________________________________</em></p>
-<h2 class="wsw__h2"><strong>Words in This Story</strong></h2>
-<p class="CxSpMiddle"><strong>gust</strong> – <em>n</em>. <strong> </strong>a sudden brief rush of wind</p>
-<p class="CxSpMiddle"><strong>gamut </strong>– <em>n. </em>an entire range or series</p>
-<p class="CxSpMiddle"><strong>plume </strong>– <em>n. </em>something shaped like a feather</p>
-<p class="CxSpMiddle"><strong>moisture </strong>– <em>n. </em>liquid diffused or condensed in relatively small quantity</p>
-<p class="CxSpMiddle"><strong>surf </strong>– <em>n</em>. the swell of the sea that breaks upon the shore</p>
-<p class="CxSpMiddle"><strong>hurricane </strong>– <em>n</em>. <strong> </strong>a tropical storm with winds of 74 miles (119 kilometers) per hour or greater that is usually accompanied by rain, thunder, and lightning, and that sometimes moves into temperate latitudes</p>
 </div>]]></content:encoded>
             <itunes:explicit>no</itunes:explicit>
           </item>
