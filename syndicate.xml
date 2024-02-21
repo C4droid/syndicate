@@ -11,11 +11,232 @@
   </author>
 
   <entry>
+    <title>Is Blockchain Ready for Primetime?</title>
+    <link href="https://www.project-syndicate.org/commentary/blockchain-technology-works-and-has-uses-but-needs-regulatory-safety-by-josh-burek-2024-02" />
+    <id>https://www.project-syndicate.org/commentary/blockchain-technology-works-and-has-uses-but-needs-regulatory-safety-by-josh-burek-2024-02</id>
+    <published>2024-02-21T00:00:30+00:00</published>
+    <updated>2024-02-21T00:00:30+00:00</updated>
+    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="blockchain-technology-works-and-has-uses-but-needs-regulatory-safety-by-josh-burek-2024-02">
+<a class="track-event overlay" data-entity-id="65d60c7bb61549e22836e9be" data-entity-link-name="blockchain-technology-works-and-has-uses-but-needs-regulatory-safety-by-josh-burek-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/blockchain-technology-works-and-has-uses-but-needs-regulatory-safety-by-josh-burek-2024-02" data-language="english" href="/commentary/blockchain-technology-works-and-has-uses-but-needs-regulatory-safety-by-josh-burek-2024-02" title="Is Blockchain Ready for Primetime?"><span class="u-tos">Is Blockchain Ready for Primetime?</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/1f3ef142064c9089cca02176a999e875.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/1f3ef142064c9089cca02176a999e875.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/1f3ef142064c9089cca02176a999e875.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/1f3ef142064c9089cca02176a999e875.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="commentary/blockchain-technology-works-and-has-uses-but-needs-regulatory-safety-by-josh-burek-2024-02">Is Blockchain Ready for Primetime?</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Feb 21, 2024</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="josh-burek" data-entity-type="member" data-event-action="click" data-href-original="columnist/josh-burek" data-language="english" href="columnist/josh-burek">Josh Burek </a>
+considers whether the technology has checked all the boxes needed to achieve wider adoption.        </p>
+</header>
+</li>]]></summary>
+    <content type="html"><![CDATA[<li class="listing listing--default" data-url="blockchain-technology-works-and-has-uses-but-needs-regulatory-safety-by-josh-burek-2024-02">
+<a class="track-event overlay" data-entity-id="65d60c7bb61549e22836e9be" data-entity-link-name="blockchain-technology-works-and-has-uses-but-needs-regulatory-safety-by-josh-burek-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/blockchain-technology-works-and-has-uses-but-needs-regulatory-safety-by-josh-burek-2024-02" data-language="english" href="/commentary/blockchain-technology-works-and-has-uses-but-needs-regulatory-safety-by-josh-burek-2024-02" title="Is Blockchain Ready for Primetime?"><span class="u-tos">Is Blockchain Ready for Primetime?</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/1f3ef142064c9089cca02176a999e875.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/1f3ef142064c9089cca02176a999e875.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/1f3ef142064c9089cca02176a999e875.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/1f3ef142064c9089cca02176a999e875.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="commentary/blockchain-technology-works-and-has-uses-but-needs-regulatory-safety-by-josh-burek-2024-02">Is Blockchain Ready for Primetime?</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Feb 21, 2024</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="josh-burek" data-entity-type="member" data-event-action="click" data-href-original="columnist/josh-burek" data-language="english" href="columnist/josh-burek">Josh Burek </a>
+considers whether the technology has checked all the boxes needed to achieve wider adoption.        </p>
+</header>
+</li>
+    <br/> <div class="article__body article__body--commentary english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
+<p data-line-id="d9588768d3184b08a067b6b40a3bb6a2"> CAMBRIDGE – As the crypto winter thaws, and financial institutions renew their interest in digital assets, an old debate has re-emerged over whether blockchain is truly a “trust machine,” as <em>The Economist </em><a href="https://www.economist.com/leaders/2015/10/31/the-trust-machine">described</a> it in 2015. </p>
+<p data-line-id="45429e5136fb439ca0670f2d39b78d36"> A figure from fifteenth-century Venice can help answer that question. Though he was neither a technologist nor a banker, the friar Luca Pacioli is remembered today for developing the <a href="https://www.stptax.com/luca-pacioli-the-father-of-accounting/">double-entry bookkeeping accounting system</a> that underpins much of the modern economy. It was his ingenious model that introduced debits and credits to the method of recording transactions in two separate accounts. </p>
+<p data-line-id="ec978a52aa54454c9e0f57197e1e2cf6"> This seemingly boring and cumbersome tweak to a core business function didn’t just ensure accuracy and curb fraud; it also gave owners new insights into how to run and improve their businesses and cut costs. Under Pacioli’s system, efficiencies soared, commerce accelerated, and the Renaissance took flight. Double-entry accounting became a <a href="https://www.mathvalues.org/masterblog/2019/4/26/how-double-entry-bookkeeping-changed-the-world">cornerstone</a> of economic activity because it was simple, easily shared, and undeniably useful. Centuries later, financial statements based on Pacioli’s work became mandatory for any business. Such is the power of a basic infrastructure upgrade. </p>
+<p data-line-id="e9856beb361643908c1e5a4e8334a4b4"> The broader lesson is that an innovation that makes it from conception to global adoption typically passes three tests of public trust: Does it work? Is it useful? Is it safe? Or put another way, users expect competence, value, and reliability. </p>
+<div data-classes="newsletter--branding newsletter--ps newsletter--compact newsletter--label newsletter--admin" data-label="Sign up for our weekly newsletter, PS on Sunday" data-link-name="newsletter-weekly" data-newsletter="prosyn-weekly-newsletter" data-newsletter-subscribe-form="true"></div>
+<p data-line-id="185f8431c504435ea8c8dc6a6cae008a"> Today, blockchain’s advocates see the technology as the next great leap toward making financial transactions massively more efficient. “The root problem with conventional currency is all the trust that’s required to make it work,” <a href="https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/">wrote</a> Bitcoin’s pseudonymous creator Satoshi Nakamoto in 2009. “With e-currency based on cryptographic proof, without the need to trust a third-party middleman, money can be secure and transactions effortless.” Nakamoto envisioned crypto proofs replacing human trust to create a truly peer-to-peer, trustless financial system. </p>
+<p data-line-id="dd45cf6b604946798e48489ae6ef523f"> The underlying blockchain technology that Bitcoin’s creator(s) deployed builds elegantly on the foundation that Pacioli laid. Imagine if a fifteenth-century Florentine merchant’s ledger entry showed up instantly on the books of every other merchant. Such a distributed ledger creates triple-entry (or effectively infinite-entry) accounting, making the data immutable and incontestable.  </p>
+<p data-line-id="26a7830795934ce1b4e7c62b5242ef70"> That functionality alone is transformative, but the architecture of blockchain networks gives them superpowers well beyond financial applications. As the tech entrepreneur Chris Dixon <a href="https://readwriteown.com/">notes</a>, “[I]t’s wrong to think of blockchains as mere ledgers for tabulating numbers. Blockchains are not databases; they’re full-fledged computers.” </p>
+<p data-line-id="c4dde91ad6194e3c9d8c1b016b3768d9"> Of course, one of the great ironies of the crypto industry is that a technology grounded in a desire to strengthen financial trust has generated so much mistrust. But while <em>The Economist</em> was not wrong to call blockchain a trust machine nearly a decade ago, its assessment may have been incomplete. After settling literally trillions of transactions, blockchain’s fundamental claim to facilitate the reliable exchange of value has been well verified. Though it is little solace to those who lost funds during the industry’s <a href="https://www.npr.org/2022/12/29/1145297807/crypto-crash-ftx-cryptocurrency-bitcoin">implosions</a> in recent years, those episodes reflected irrational exuberance and old-fashioned fraud, not any flaws of distributed-ledger protocols. </p>
+<p data-line-id="2d1105fbf3c640ab8a68528f3210ef5b"> These failures were as predictable as they were regrettable. Excitement about emerging technologies typically outpaces their utility, leaving a wake of disappointments. Even the most promising technologies struggle with early design flaws. AI chatbots can hallucinate. Electric-vehicle batteries can fail in extreme cold or heat. New software is often buggy. And blockchain networks have not been fully immune to hacks and performance issues. But their battle-tested durability makes them well positioned to upgrade the way we move money. </p>
+<p data-line-id="1c6759d459074a76b98c3cd9603e5df5"> What about usefulness? This quality is more subjective. Obviously, collectible <a href="https://www.dallasnews.com/news/watchdog/2022/01/13/how-to-make-a-million-dollars-buying-digital-cartoons-of-apes-no-really/">cartoon apes</a> and purely speculative trading do not amount to a transformative, more inclusive upgrade to the global financial system. </p>
+<p data-line-id="0b150762f81b47bcaddbc97f72d0ad9d"> Fortunately, responsible market players today are using blockchain to do many other things: delivering mobile, corruption-resistant <a href="https://www.unhcr.org/us/news/press-releases/unhcr-wins-award-innovative-use-blockchain-solutions-provide-cash-forcibly">humanitarian aid</a> to refugees; <a href="https://www.circle.com/reports/state-of-the-usdc-economy">lowering the costs</a> of charitable giving, remittances, and cross-border payments by 80%; expanding access to basic financial services; giving workers in high-inflation countries a portable store of value; establishing <a href="https://www.linkedin.com/pulse/trust-transparency-creator-economy-unleashing-power-smart-1e/">provenance</a> to power the “creator economy”; transmitting money at scale with the ease, security, and speed with which the internet transmits data; and upgrading legacy financial rails that date back to the 1970s. </p>
+<p data-line-id="85d95c62f7e24d50ad3224b095eb82c8"> While still nascent, these applications undeniably deliver high social and economic value. That brings us to the third question: whether blockchain-based financial rails are safe – which, in financial services, means regulated. Can users expect common, high standards around the world? Not quite yet, but we’re getting close. </p>
+<p data-line-id="146661c896564038ba3b6f3cc1c2c59f"> This is another irony for crypto. What began as a libertarian vision for a code-based financial system air-gapped from government is colliding with regulatory reality. There is a growing recognition that blockchain-based networks and financial applications are not displacing so much as modernizing and democratizing traditional financial infrastructure. That means working with – not against – regulators and policymakers. </p>
+<p data-line-id="895c4e13273d4381897194b621e15c04"> The good news is that 2024 is poised to bring greater regulatory certainty. Japan, Hong Kong, Singapore, and the European Union have all <a href="https://www.coindesk.com/consensus-magazine/2023/01/25/asia-crypto-regulation/">established</a> strong <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-blockchain">standards</a> and consumer protections for this growing ecosystem. And the US Congress could follow suit this year with bipartisan digital-asset and stablecoin <a href="https://www.paymentsdive.com/news/yellen-treasury-stablecoin-congress-sec-fsoc-cfpb/707373/">legislation</a> that would crack down on illicit financing and counterfeit digital currencies. That would make a material difference in public confidence. </p>
+<p data-line-id="d2c7edbd29744246874395ad136d49d6"> Is blockchain a trust machine? The year ahead could give us a definitive answer. </p>
+</div>]]></content>
+  </entry>
+  <entry>
+    <title>Russia Will Honor Navalny Someday</title>
+    <link href="https://www.project-syndicate.org/commentary/alexei-navalny-legacy-why-he-was-effective-by-carl-bildt-2024-02" />
+    <id>https://www.project-syndicate.org/commentary/alexei-navalny-legacy-why-he-was-effective-by-carl-bildt-2024-02</id>
+    <published>2024-02-21T00:00:29+00:00</published>
+    <updated>2024-02-21T00:00:29+00:00</updated>
+    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="alexei-navalny-legacy-why-he-was-effective-by-carl-bildt-2024-02">
+<a class="track-event overlay" data-entity-id="65d5f8a0b61549e228fb2b31" data-entity-link-name="alexei-navalny-legacy-why-he-was-effective-by-carl-bildt-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/alexei-navalny-legacy-why-he-was-effective-by-carl-bildt-2024-02" data-language="english" href="/commentary/alexei-navalny-legacy-why-he-was-effective-by-carl-bildt-2024-02" title="Russia Will Honor Navalny Someday"><span class="u-tos">Russia Will Honor Navalny Someday</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/6d53a733645a6673b6a99e41ecae4ec7.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/6d53a733645a6673b6a99e41ecae4ec7.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/6d53a733645a6673b6a99e41ecae4ec7.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/6d53a733645a6673b6a99e41ecae4ec7.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="commentary/alexei-navalny-legacy-why-he-was-effective-by-carl-bildt-2024-02">Russia Will Honor Navalny Someday</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Feb 21, 2024</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="carl-bildt" data-entity-type="member" data-event-action="click" data-href-original="columnist/carl-bildt" data-language="english" href="columnist/carl-bildt">Carl Bildt </a>
+reflects on the murdered opposition leader’s success in challenging Vladimir Putin’s regime.        </p>
+</header>
+</li>]]></summary>
+    <content type="html"><![CDATA[<li class="listing listing--default" data-url="alexei-navalny-legacy-why-he-was-effective-by-carl-bildt-2024-02">
+<a class="track-event overlay" data-entity-id="65d5f8a0b61549e228fb2b31" data-entity-link-name="alexei-navalny-legacy-why-he-was-effective-by-carl-bildt-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/alexei-navalny-legacy-why-he-was-effective-by-carl-bildt-2024-02" data-language="english" href="/commentary/alexei-navalny-legacy-why-he-was-effective-by-carl-bildt-2024-02" title="Russia Will Honor Navalny Someday"><span class="u-tos">Russia Will Honor Navalny Someday</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/6d53a733645a6673b6a99e41ecae4ec7.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/6d53a733645a6673b6a99e41ecae4ec7.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/6d53a733645a6673b6a99e41ecae4ec7.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/6d53a733645a6673b6a99e41ecae4ec7.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="commentary/alexei-navalny-legacy-why-he-was-effective-by-carl-bildt-2024-02">Russia Will Honor Navalny Someday</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Feb 21, 2024</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="carl-bildt" data-entity-type="member" data-event-action="click" data-href-original="columnist/carl-bildt" data-language="english" href="columnist/carl-bildt">Carl Bildt </a>
+reflects on the murdered opposition leader’s success in challenging Vladimir Putin’s regime.        </p>
+</header>
+</li>
+<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
+ | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/commentary/alexei-navalny-legacy-why-he-was-effective-by-carl-bildt-2024-02" target="_blank">archive.is</a></div>
+    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
+<p data-line-id="d03ca4e4072b4b22b544c86ba37ea338"> STOCKHOLM – We may never know exactly how and why <a href="https://www.project-syndicate.org/columnist/alexei-navalny">Alexei Navalny</a> died in the remote Arctic penal colony where he was detained. The <a href="https://www.reuters.com/world/europe/russian-prison-service-statement-about-navalnys-death-2024-02-16/">communiqué</a> that Russian officials issued within two minutes of the popular opposition leader’s reported time of death will never be believed, and the <a href="https://www.washingtonpost.com/world/2024/02/20/navalny-mother-body-putin-plea/">delay</a> in releasing his body to his mother only adds to the suspicion. </p><p data-line-id="747f4d4bf482402997c338d23c492862"> Still, we can say for certain that were it not for the Kremlin, Navalny would be alive today. After <a href="https://www.project-syndicate.org/onpoint/novichok-attack-putins-fingerprints-by-alexei-navalny-and-tikhon-dzyadko-2020-10">trying to kill</a> him with a sophisticated nerve agent a few years ago, President Vladimir Putin’s regime had been moving him to increasingly brutal prisons. With Russia holding a presidential “election” this year, it seems that Navalny was deemed too dangerous to keep alive. </p><p data-line-id="42d6d9a795554741a7fa67b89bdf8029"> I first met Navalny in early 2011, when I was invited to address a conference in Moscow honoring the memory of Andrei Sakharov, the father of the Soviet hydrogen bomb who went on to become an exponent of the liberal opposition in the late-Soviet era. In fact, Navalny was one of the main reasons why I made the trip. He had started to make a name for himself, and we arranged a breakfast that turned into a long conversation. </p>
+</div>]]></content>
+  </entry>
+  <entry>
+    <title>Europe Is Home Alone</title>
+    <link href="https://www.project-syndicate.org/commentary/combined-russia-and-trump-threat-to-european-security-by-joschka-fischer-2024-02" />
+    <id>https://www.project-syndicate.org/commentary/combined-russia-and-trump-threat-to-european-security-by-joschka-fischer-2024-02</id>
+    <published>2024-02-21T00:00:28+00:00</published>
+    <updated>2024-02-21T00:00:28+00:00</updated>
+    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="combined-russia-and-trump-threat-to-european-security-by-joschka-fischer-2024-02">
+<a class="track-event overlay" data-entity-id="65d5d340b61549e2287d7dd8" data-entity-link-name="combined-russia-and-trump-threat-to-european-security-by-joschka-fischer-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/combined-russia-and-trump-threat-to-european-security-by-joschka-fischer-2024-02" data-language="english" href="/commentary/combined-russia-and-trump-threat-to-european-security-by-joschka-fischer-2024-02" title="Europe Is Home Alone"><span class="u-tos">Europe Is Home Alone</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/6b346131df8e0a689b331fdb9db60039.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/6b346131df8e0a689b331fdb9db60039.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/6b346131df8e0a689b331fdb9db60039.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/6b346131df8e0a689b331fdb9db60039.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="commentary/combined-russia-and-trump-threat-to-european-security-by-joschka-fischer-2024-02">Europe Is Home Alone</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Feb 21, 2024</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="joschka-fischer" data-entity-type="member" data-event-action="click" data-href-original="columnist/joschka-fischer" data-language="english" href="columnist/joschka-fischer">Joschka Fischer </a>
+thinks the threats to European security have become too great for the status quo to bear.        </p>
+</header>
+</li>]]></summary>
+    <content type="html"><![CDATA[<li class="listing listing--default" data-url="combined-russia-and-trump-threat-to-european-security-by-joschka-fischer-2024-02">
+<a class="track-event overlay" data-entity-id="65d5d340b61549e2287d7dd8" data-entity-link-name="combined-russia-and-trump-threat-to-european-security-by-joschka-fischer-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/combined-russia-and-trump-threat-to-european-security-by-joschka-fischer-2024-02" data-language="english" href="/commentary/combined-russia-and-trump-threat-to-european-security-by-joschka-fischer-2024-02" title="Europe Is Home Alone"><span class="u-tos">Europe Is Home Alone</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/6b346131df8e0a689b331fdb9db60039.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/6b346131df8e0a689b331fdb9db60039.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/6b346131df8e0a689b331fdb9db60039.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/6b346131df8e0a689b331fdb9db60039.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="commentary/combined-russia-and-trump-threat-to-european-security-by-joschka-fischer-2024-02">Europe Is Home Alone</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Feb 21, 2024</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="joschka-fischer" data-entity-type="member" data-event-action="click" data-href-original="columnist/joschka-fischer" data-language="english" href="columnist/joschka-fischer">Joschka Fischer </a>
+thinks the threats to European security have become too great for the status quo to bear.        </p>
+</header>
+</li>
+<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
+ | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/commentary/combined-russia-and-trump-threat-to-european-security-by-joschka-fischer-2024-02" target="_blank">archive.is</a></div>
+    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
+<p data-line-id="21c1fd957cd8492188eb0156ba702954"> BERLIN – Europe’s situation in 2024 is difficult, even dangerous. In Ukraine, Russian President Vladimir Putin’s war of aggression – an effort to wipe the country off the map and annex its territory – is entering its third year. In the United States, Donald Trump, the presumptive Republican nominee for November’s presidential election, is making wild threats against America’s longstanding allies, even encouraging Putin to attack European countries that do not spend at least 2% of their GDP on defense. </p><p data-line-id="c588a8625f06402c908e104aa1a1df4f"> If Trump wins in November, it would probably be the end of NATO and the American security guarantee. Europe would be completely on its own, trapped between an imperial Russian neighbor and an isolationist America on the other side of the Atlantic. Making matters worse, Europeans continue to cling desperately to an inherited grouping of “sovereign” nation-states, even though most are sovereign only on paper, because they are too weak to face current geopolitical realities on their own. </p><p data-line-id="373bc94f4197494a9b7b1938020f8d9a"> The situation demands greater European unity: namely, a common foreign policy, a joint military capability, a European nuclear umbrella, and everything else that forms the basis of meaningful sovereign power in the twenty-first century. Europeans, however, remain unwilling to accept this fact. </p>
+</div>]]></content>
+  </entry>
+  <entry>
+    <title>Economic Possibilities for Our Overworked Grandchildren</title>
+    <link href="https://www.project-syndicate.org/commentary/what-keynes-famous-1930-essay-got-right-and-wrong-by-kaushik-basu-2024-02" />
+    <id>https://www.project-syndicate.org/commentary/what-keynes-famous-1930-essay-got-right-and-wrong-by-kaushik-basu-2024-02</id>
+    <published>2024-02-21T00:00:27+00:00</published>
+    <updated>2024-02-21T00:00:27+00:00</updated>
+    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="what-keynes-famous-1930-essay-got-right-and-wrong-by-kaushik-basu-2024-02">
+<a class="track-event overlay" data-entity-id="65d4d06eb61549e22898bdb0" data-entity-link-name="what-keynes-famous-1930-essay-got-right-and-wrong-by-kaushik-basu-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/what-keynes-famous-1930-essay-got-right-and-wrong-by-kaushik-basu-2024-02" data-language="english" href="/commentary/what-keynes-famous-1930-essay-got-right-and-wrong-by-kaushik-basu-2024-02" title="Economic Possibilities for Our Overworked Grandchildren"><span class="u-tos">Economic Possibilities for Our Overworked Grandchildren</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/c6ef3a2acc36e5e139ed858d99a08a49.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/c6ef3a2acc36e5e139ed858d99a08a49.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/c6ef3a2acc36e5e139ed858d99a08a49.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/c6ef3a2acc36e5e139ed858d99a08a49.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="commentary/what-keynes-famous-1930-essay-got-right-and-wrong-by-kaushik-basu-2024-02">Economic Possibilities for Our Overworked Grandchildren</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Feb 21, 2024</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="kaushik-basu" data-entity-type="member" data-event-action="click" data-href-original="columnist/kaushik-basu" data-language="english" href="columnist/kaushik-basu">Kaushik Basu </a>
+shows how it is possible to redistribute income from the rich to the poor without undermining individual incentives.        </p>
+</header>
+</li>]]></summary>
+    <content type="html"><![CDATA[<li class="listing listing--default" data-url="what-keynes-famous-1930-essay-got-right-and-wrong-by-kaushik-basu-2024-02">
+<a class="track-event overlay" data-entity-id="65d4d06eb61549e22898bdb0" data-entity-link-name="what-keynes-famous-1930-essay-got-right-and-wrong-by-kaushik-basu-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/what-keynes-famous-1930-essay-got-right-and-wrong-by-kaushik-basu-2024-02" data-language="english" href="/commentary/what-keynes-famous-1930-essay-got-right-and-wrong-by-kaushik-basu-2024-02" title="Economic Possibilities for Our Overworked Grandchildren"><span class="u-tos">Economic Possibilities for Our Overworked Grandchildren</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/c6ef3a2acc36e5e139ed858d99a08a49.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/c6ef3a2acc36e5e139ed858d99a08a49.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/c6ef3a2acc36e5e139ed858d99a08a49.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/c6ef3a2acc36e5e139ed858d99a08a49.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="commentary/what-keynes-famous-1930-essay-got-right-and-wrong-by-kaushik-basu-2024-02">Economic Possibilities for Our Overworked Grandchildren</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Feb 21, 2024</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="kaushik-basu" data-entity-type="member" data-event-action="click" data-href-original="columnist/kaushik-basu" data-language="english" href="columnist/kaushik-basu">Kaushik Basu </a>
+shows how it is possible to redistribute income from the rich to the poor without undermining individual incentives.        </p>
+</header>
+</li>
+<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
+ | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/commentary/what-keynes-famous-1930-essay-got-right-and-wrong-by-kaushik-basu-2024-02" target="_blank">archive.is</a></div>
+    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
+<p data-line-id="e99f3e45adc74e22ac69f69d305649af"> ITHACA, NEW YORK – In 1930, John Maynard Keynes published his short essay “<a href="https://www.aspeninstitute.org/wp-content/uploads/files/content/upload/Intro_and_Section_I.pdf">Economic Possibilities for Our Grandchildren</a>,” in which he outlined his vision of a future global economy characterized by leisure and abundance. As the rapid advance of artificial intelligence threatens to displace millions of workers, it is worth revisiting this brilliant, passionate work. </p><p data-line-id="203ddbf83d024b3ab812ab131cc5a546"> Keynes originally wrote his essay in 1928 for a lecture at a boys’ school in Hampshire, England, and spent two years revising it before its publication. Despite being taken aback by the 1929 stock market crash, he encouraged his readers to view it as a “temporary phase of maladjustment.” Demonstrating his characteristic foresight, Keynes avoided making predictions for the next five or ten years, instead focusing on the century to come. </p><p data-line-id="ddfe81a2660345dfa8d3425436cb755b"> Many of Keynes’s insights were remarkably prescient. Modern society, he observed, had become “afflicted with a new disease,” whereby technological advances had reduced demand for labor. But he viewed this “technological unemployment” as a reason for hope, not despair, predicting that innovation would drive rapid GDP growth and usher in an age of leisure. “The standard of life in progressive countries one hundred years hence,” he speculated, “will be between four and eight times as high as it is.” Despite the economic ups and downs of the past century, this prediction has proven to be accurate. </p>
+</div>]]></content>
+  </entry>
+  <entry>
     <title>Empowering the Pandemic Accord</title>
     <link href="https://www.project-syndicate.org/commentary/the-world-needs-legally-binding-pandemic-accord-by-gordon-brown-2024-02" />
     <id>https://www.project-syndicate.org/commentary/the-world-needs-legally-binding-pandemic-accord-by-gordon-brown-2024-02</id>
-    <published>2024-02-21T00:00:30+00:00</published>
-    <updated>2024-02-21T00:00:30+00:00</updated>
+    <published>2024-02-21T00:00:26+00:00</published>
+    <updated>2024-02-21T00:00:26+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="the-world-needs-legally-binding-pandemic-accord-by-gordon-brown-2024-02">
 <a class="track-event overlay" data-entity-id="65d5c56cb61549e22854d503" data-entity-link-name="the-world-needs-legally-binding-pandemic-accord-by-gordon-brown-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/the-world-needs-legally-binding-pandemic-accord-by-gordon-brown-2024-02" data-language="english" href="/commentary/the-world-needs-legally-binding-pandemic-accord-by-gordon-brown-2024-02" title="Empowering the Pandemic Accord"><span class="u-tos">Empowering the Pandemic Accord</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -56,16 +277,18 @@ warns that lies could undermine efforts to create a global pact for fighting inf
 warns that lies could undermine efforts to create a global pact for fighting infectious-disease outbreaks.        </p>
 </header>
 </li>
-    <br/> <div class="article__body article__body--commentary english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
-<p data-line-id="30903ff23bdd4f4f9656bad06abf6c27"> EDINBURGH – The COVID-19 pandemic taught us several lessons, many of which came at great cost. Chief among them was that, despite years of rehearsals, the world was not prepared for a fast-moving outbreak of a novel infectious disease. </p><p data-line-id="4eba156a9af441cbbac8acb0fb481093"> Countries failed their own citizens, but the global response was even more inadequate. It was marked by an inexcusable absence of cooperation and coordination, ugly nationalism that included vaccine hoarding, and greed on the part of Western countries, which refused to share information, pathogens, and therapeutics. I would say that the response was – to use a word that may seem old-fashioned and out of favor in some quarters – sinful. </p><p data-line-id="8e873ccc56fc48fc88af2fb7fa4faf53"> The overwhelming lesson we learned the hard way is that no one is safe anywhere until everyone is safe everywhere. Could the wave of infections caused by the second Omicron variant have been avoided if the Global South had been vaccinated more quickly? We cannot be sure. But we do know that international cooperation is not compatible with nationalism, xenophobia, and new forms of colonialism. We need a form of globalization that works for everyone, because while our world may be deeply fractured, we are all still inescapably interdependent. </p><p data-line-id="ee1438a24528452cbfc988b3212c7d35"> In response to our collective failures, the World Health Organization’s member states decided to negotiate a <a href="https://www.who.int/news-room/questions-and-answers/item/pandemic-prevention--preparedness-and-response-accord">Pandemic Accord</a>, an international legal instrument that would provide a global framework to ensure equitable access to vaccines, therapeutics, and diagnostics. You could call it a pandemic nonproliferation accord, an agreement to help each other and work together in the event of a new public-health catastrophe. </p><div data-classes="newsletter--branding newsletter--ps newsletter--compact newsletter--label newsletter--admin" data-label="Sign up for our weekly newsletter, PS on Sunday" data-link-name="newsletter-weekly" data-newsletter="prosyn-weekly-newsletter" data-newsletter-subscribe-form="true"></div><p data-line-id="bc0bb27d6e3d4d158d6c2349a7bc2e28"> Unfortunately, this global effort is <a href="https://www.theguardian.com/world/2024/jan/22/global-pandemic-agreement-at-risk-of-falling-apart-who-warns">being threatened</a> by a torrent of misinformation and disinformation, blatant lies, and percolating conspiracy theories. Among the falsehoods are that the WHO would be empowered to <a href="https://www.reuters.com/article/factcheck-who-treaty/fact-check-the-who-is-not-planning-to-implement-a-pandemic-treaty-that-would-strip-member-states-of-sovereignty-idUSL2N2XH0KA/">strip member states</a> of sovereignty, deploy armed troops to enforce mandatory vaccinations and lockdowns, and monitor people’s movements through digital passports. All these claims are wholly untrue. </p><p data-line-id="fca5e3b7db6543378905c4737fbf5406"> National governments themselves have proposed and are negotiating the Pandemic Accord, and they alone – not the WHO – will be responsible for its requirements and, ultimately, for its success or failure. </p><p data-line-id="eac2125d14d24be687abe0686acb393d"> We must not underestimate the importance of the Accord, which represents a once-in-a-lifetime opportunity to improve the world we live in, especially for young people and future generations. Young people, in particular, suffered greatly during the pandemic: their education was disrupted, their lives turned upside down, and their prospects diminished. And, given the endurance of the collateral effects of COVID-19 and its control measures, especially their adverse impact on mental health, young people have a right to expect that their future will be protected. </p><p data-line-id="5fa3190e1d484f5a9eaee8a10c37543e"> But the clock is ticking. Countries must act now to meet the self-imposed deadline of May 2024, when they are expected to present an agreement to the 77th World Health Assembly (the WHO’s decision-making body). They must not squander the opportunity to adopt a global pact that will protect future generations from a repeat of the devastation wrought by COVID-19. The unprecedented nature of the pandemic requires an unprecedented response. </p><p data-line-id="ad11fff541bd4ed28e7d93ef16127789"> Some of the current sticking points in the Pandemic Accord are related to intellectual property. But if countries embrace a spirit of global collaboration, they can devise creative solutions that balance intellectual-property rights, incentives, and the <a href="https://www.wto.org/english/tratop_e/trips_e/trips_e.htm">flexibilities in TRIPS</a>, the World Trade Organization’s intellectual-property agreement. Compromise on this issue and others requires recognizing that the private and public sectors must work together in the fight against infectious diseases. But above all, security, equity, and equal access to information, technology, and products must be at the heart of the Accord. </p><p data-line-id="58f69997e7554d8f831ffeb68a89d672"> People all around the world are desperate for hope. They want assurance that the future will be better than the past. Countries must recognize that adopting a give-and-take approach during the final negotiations is critical to reaching an agreement on the Pandemic Accord, which in turn could provide some much-needed optimism. </p><p data-line-id="575afa24984f4697a36eb47b90d2f783"> We must demonstrate through our deeds as well as our words that we live in a deeply interconnected world in which we share each other’s burdens, even when times are difficult. Establishing an effective model of open and inclusive health multilateralism will deliver the crucial message that cross-border cooperation can deliver global solutions to global problems. </p>
+<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
+ | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/commentary/the-world-needs-legally-binding-pandemic-accord-by-gordon-brown-2024-02" target="_blank">archive.is</a></div>
+    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
+<p data-line-id="30903ff23bdd4f4f9656bad06abf6c27"> EDINBURGH – The COVID-19 pandemic taught us several lessons, many of which came at great cost. Chief among them was that, despite years of rehearsals, the world was not prepared for a fast-moving outbreak of a novel infectious disease. </p><p data-line-id="4eba156a9af441cbbac8acb0fb481093"> Countries failed their own citizens, but the global response was even more inadequate. It was marked by an inexcusable absence of cooperation and coordination, ugly nationalism that included vaccine hoarding, and greed on the part of Western countries, which refused to share information, pathogens, and therapeutics. I would say that the response was – to use a word that may seem old-fashioned and out of favor in some quarters – sinful. </p><p data-line-id="8e873ccc56fc48fc88af2fb7fa4faf53"> The overwhelming lesson we learned the hard way is that no one is safe anywhere until everyone is safe everywhere. Could the wave of infections caused by the second Omicron variant have been avoided if the Global South had been vaccinated more quickly? We cannot be sure. But we do know that international cooperation is not compatible with nationalism, xenophobia, and new forms of colonialism. We need a form of globalization that works for everyone, because while our world may be deeply fractured, we are all still inescapably interdependent. </p>
 </div>]]></content>
   </entry>
   <entry>
     <title>Will Europe Ever Get Serious About Defense?</title>
     <link href="https://www.project-syndicate.org/commentary/european-defense-coordination-lacking-at-munich-security-conference-by-daniela-schwarzer-2024-02" />
     <id>https://www.project-syndicate.org/commentary/european-defense-coordination-lacking-at-munich-security-conference-by-daniela-schwarzer-2024-02</id>
-    <published>2024-02-20T00:00:29+00:00</published>
-    <updated>2024-02-20T00:00:29+00:00</updated>
+    <published>2024-02-20T00:00:25+00:00</published>
+    <updated>2024-02-20T00:00:25+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="european-defense-coordination-lacking-at-munich-security-conference-by-daniela-schwarzer-2024-02">
 <a class="track-event overlay" data-entity-id="65d4b966b61549e2285140cd" data-entity-link-name="european-defense-coordination-lacking-at-munich-security-conference-by-daniela-schwarzer-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/european-defense-coordination-lacking-at-munich-security-conference-by-daniela-schwarzer-2024-02" data-language="english" href="/commentary/european-defense-coordination-lacking-at-munich-security-conference-by-daniela-schwarzer-2024-02" title="Will Europe Ever Get Serious About Defense?"><span class="u-tos">Will Europe Ever Get Serious About Defense?</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -116,8 +339,8 @@ laments the lack of a strong, coordinated message at the latest Munich Security 
     <title>Rethinking Inequality in Latin America</title>
     <link href="https://www.project-syndicate.org/commentary/latin-america-inequality-needs-radical-rethink-by-ana-maria-ibanez-2024-02" />
     <id>https://www.project-syndicate.org/commentary/latin-america-inequality-needs-radical-rethink-by-ana-maria-ibanez-2024-02</id>
-    <published>2024-02-20T00:00:28+00:00</published>
-    <updated>2024-02-20T00:00:28+00:00</updated>
+    <published>2024-02-20T00:00:24+00:00</published>
+    <updated>2024-02-20T00:00:24+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="latin-america-inequality-needs-radical-rethink-by-ana-maria-ibanez-2024-02">
 <a class="track-event overlay" data-entity-id="65d4aa98b61549e228235878" data-entity-link-name="latin-america-inequality-needs-radical-rethink-by-ana-maria-ibanez-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/latin-america-inequality-needs-radical-rethink-by-ana-maria-ibanez-2024-02" data-language="english" href="/commentary/latin-america-inequality-needs-radical-rethink-by-ana-maria-ibanez-2024-02" title="Rethinking Inequality in Latin America"><span class="u-tos">Rethinking Inequality in Latin America</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -168,8 +391,8 @@ highlights new research showing that the problem is neither as predictable nor a
     <title>Africa’s Shifting Economic Paradigm</title>
     <link href="https://www.project-syndicate.org/commentary/africa-must-capitalize-on-demographic-dividend-by-increasing-domestic-demand-by-rabah-arezki-2024-02" />
     <id>https://www.project-syndicate.org/commentary/africa-must-capitalize-on-demographic-dividend-by-increasing-domestic-demand-by-rabah-arezki-2024-02</id>
-    <published>2024-02-20T00:00:27+00:00</published>
-    <updated>2024-02-20T00:00:27+00:00</updated>
+    <published>2024-02-20T00:00:23+00:00</published>
+    <updated>2024-02-20T00:00:23+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="africa-must-capitalize-on-demographic-dividend-by-increasing-domestic-demand-by-rabah-arezki-2024-02">
 <a class="track-event overlay" data-entity-id="65d49bfebb77912e1a576aad" data-entity-link-name="africa-must-capitalize-on-demographic-dividend-by-increasing-domestic-demand-by-rabah-arezki-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/africa-must-capitalize-on-demographic-dividend-by-increasing-domestic-demand-by-rabah-arezki-2024-02" data-language="english" href="/commentary/africa-must-capitalize-on-demographic-dividend-by-increasing-domestic-demand-by-rabah-arezki-2024-02" title="Africa’s Shifting Economic Paradigm"><span class="u-tos">Africa’s Shifting Economic Paradigm</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -220,8 +443,8 @@ urges policymakers to pursue reforms to promote competition and boost domestic c
     <title>The Case for Mission-Driven Climate Finance</title>
     <link href="https://www.project-syndicate.org/commentary/africa-needs-more-ambitious-climate-financing-by-bogolo-kenewendo-2024-02" />
     <id>https://www.project-syndicate.org/commentary/africa-needs-more-ambitious-climate-financing-by-bogolo-kenewendo-2024-02</id>
-    <published>2024-02-20T00:00:26+00:00</published>
-    <updated>2024-02-20T00:00:26+00:00</updated>
+    <published>2024-02-20T00:00:22+00:00</published>
+    <updated>2024-02-20T00:00:22+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="africa-needs-more-ambitious-climate-financing-by-bogolo-kenewendo-2024-02">
 <a class="track-event overlay" data-entity-id="65d49099bb77912e1a33d654" data-entity-link-name="africa-needs-more-ambitious-climate-financing-by-bogolo-kenewendo-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/africa-needs-more-ambitious-climate-financing-by-bogolo-kenewendo-2024-02" data-language="english" href="/commentary/africa-needs-more-ambitious-climate-financing-by-bogolo-kenewendo-2024-02" title="The Case for Mission-Driven Climate Finance"><span class="u-tos">The Case for Mission-Driven Climate Finance</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -270,8 +493,8 @@ argues that Africa has the ideas, ambition, and capacity to implement green solu
     <title>Tim O'Reilly on AI development, regulation, copyright lawsuits, and more</title>
     <link href="https://www.project-syndicate.org/onpoint/an-interview-with-tim-oreilly-about-advanced-technology-ai-development-regulation-2024-02" />
     <id>https://www.project-syndicate.org/onpoint/an-interview-with-tim-oreilly-about-advanced-technology-ai-development-regulation-2024-02</id>
-    <published>2024-02-20T00:00:25+00:00</published>
-    <updated>2024-02-20T00:00:25+00:00</updated>
+    <published>2024-02-20T00:00:21+00:00</published>
+    <updated>2024-02-20T00:00:21+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default onpoint" data-url="an-interview-with-tim-oreilly-about-advanced-technology-ai-development-regulation-2024-02">
 <a class="track-event overlay" data-entity-id="65d4811fbb77912e1a0d0004" data-entity-link-name="an-interview-with-tim-oreilly-about-advanced-technology-ai-development-regulation-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/onpoint/an-interview-with-tim-oreilly-about-advanced-technology-ai-development-regulation-2024-02" data-language="english" href="/onpoint/an-interview-with-tim-oreilly-about-advanced-technology-ai-development-regulation-2024-02" title="Tim O'Reilly on AI development, regulation, copyright lawsuits, and more"><span class="u-tos">Tim O'Reilly on AI development, regulation, copyright lawsuits, and more</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -322,8 +545,8 @@ shows how the imperatives of modern capitalism impede the development of broadly
     <title>The Trump Effect Takes Europe</title>
     <link href="https://www.project-syndicate.org/commentary/trump-effect-spurs-europeans-into-action-on-ukraine-defense-and-political-unity-by-mark-leonard-2024-02" />
     <id>https://www.project-syndicate.org/commentary/trump-effect-spurs-europeans-into-action-on-ukraine-defense-and-political-unity-by-mark-leonard-2024-02</id>
-    <published>2024-02-20T00:00:24+00:00</published>
-    <updated>2024-02-20T00:00:24+00:00</updated>
+    <published>2024-02-20T00:00:20+00:00</published>
+    <updated>2024-02-20T00:00:20+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="trump-effect-spurs-europeans-into-action-on-ukraine-defense-and-political-unity-by-mark-leonard-2024-02">
 <a class="track-event overlay" data-entity-id="65d476e6bb77912e1af37bc6" data-entity-link-name="trump-effect-spurs-europeans-into-action-on-ukraine-defense-and-political-unity-by-mark-leonard-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/trump-effect-spurs-europeans-into-action-on-ukraine-defense-and-political-unity-by-mark-leonard-2024-02" data-language="english" href="/commentary/trump-effect-spurs-europeans-into-action-on-ukraine-defense-and-political-unity-by-mark-leonard-2024-02" title="The Trump Effect Takes Europe"><span class="u-tos">The Trump Effect Takes Europe</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -374,8 +597,8 @@ sees the threat of another “America First” presidency spurring Europeans int
     <title>The EU Must Not Give Up on a Mercosur Trade Deal</title>
     <link href="https://www.project-syndicate.org/commentary/eu-must-not-abandon-mercosur-trade-agreement-by-camila-villard-duran-2024-02" />
     <id>https://www.project-syndicate.org/commentary/eu-must-not-abandon-mercosur-trade-agreement-by-camila-villard-duran-2024-02</id>
-    <published>2024-02-19T00:00:23+00:00</published>
-    <updated>2024-02-19T00:00:23+00:00</updated>
+    <published>2024-02-19T00:00:19+00:00</published>
+    <updated>2024-02-19T00:00:19+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="eu-must-not-abandon-mercosur-trade-agreement-by-camila-villard-duran-2024-02">
 <a class="track-event overlay" data-entity-id="65d382c7bb77912e1af6126f" data-entity-link-name="eu-must-not-abandon-mercosur-trade-agreement-by-camila-villard-duran-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/eu-must-not-abandon-mercosur-trade-agreement-by-camila-villard-duran-2024-02" data-language="english" href="/commentary/eu-must-not-abandon-mercosur-trade-agreement-by-camila-villard-duran-2024-02" title="The EU Must Not Give Up on a Mercosur Trade Deal"><span class="u-tos">The EU Must Not Give Up on a Mercosur Trade Deal</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -426,8 +649,8 @@ calls on European policymakers to recalibrate their diplomatic strategy toward t
     <title>The UK Labour Party’s Green-Energy Debacle</title>
     <link href="https://www.project-syndicate.org/commentary/lessons-from-uk-labour-green-prosperity-u-turn-by-robert-skidelsky-2024-02" />
     <id>https://www.project-syndicate.org/commentary/lessons-from-uk-labour-green-prosperity-u-turn-by-robert-skidelsky-2024-02</id>
-    <published>2024-02-19T00:00:22+00:00</published>
-    <updated>2024-02-19T00:00:22+00:00</updated>
+    <published>2024-02-19T00:00:18+00:00</published>
+    <updated>2024-02-19T00:00:18+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="lessons-from-uk-labour-green-prosperity-u-turn-by-robert-skidelsky-2024-02">
 <a class="track-event overlay" data-entity-id="65d3789dbb77912e1ad8bc4c" data-entity-link-name="lessons-from-uk-labour-green-prosperity-u-turn-by-robert-skidelsky-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/lessons-from-uk-labour-green-prosperity-u-turn-by-robert-skidelsky-2024-02" data-language="english" href="/commentary/lessons-from-uk-labour-green-prosperity-u-turn-by-robert-skidelsky-2024-02" title="The UK Labour Party’s Green-Energy Debacle"><span class="u-tos">The UK Labour Party’s Green-Energy Debacle</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -478,8 +701,8 @@ explains why the threat of climate change outweighs the risks of increased publi
     <title>Yes, Russian Reserves Should Be Seized</title>
     <link href="https://www.project-syndicate.org/commentary/russia-frozen-reserves-should-be-seized-to-pay-for-ukraines-reconstruction-by-michael-r-strain-2024-02" />
     <id>https://www.project-syndicate.org/commentary/russia-frozen-reserves-should-be-seized-to-pay-for-ukraines-reconstruction-by-michael-r-strain-2024-02</id>
-    <published>2024-02-19T00:00:21+00:00</published>
-    <updated>2024-02-19T00:00:21+00:00</updated>
+    <published>2024-02-19T00:00:17+00:00</published>
+    <updated>2024-02-19T00:00:17+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="russia-frozen-reserves-should-be-seized-to-pay-for-ukraines-reconstruction-by-michael-r-strain-2024-02">
 <a class="track-event overlay" data-entity-id="65d3729bbb77912e1ac68938" data-entity-link-name="russia-frozen-reserves-should-be-seized-to-pay-for-ukraines-reconstruction-by-michael-r-strain-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/russia-frozen-reserves-should-be-seized-to-pay-for-ukraines-reconstruction-by-michael-r-strain-2024-02" data-language="english" href="/commentary/russia-frozen-reserves-should-be-seized-to-pay-for-ukraines-reconstruction-by-michael-r-strain-2024-02" title="Yes, Russian Reserves Should Be Seized"><span class="u-tos">Yes, Russian Reserves Should Be Seized</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -530,8 +753,8 @@ explains why the Kremlin’s frozen assets should be used for Ukraine’s recons
     <title>Cracks in the New Gilded Age</title>
     <link href="https://www.project-syndicate.org/commentary/combating-global-inequality-key-to-defending-democracy-by-nabil-ahmed-1-2024-01" />
     <id>https://www.project-syndicate.org/commentary/combating-global-inequality-key-to-defending-democracy-by-nabil-ahmed-1-2024-01</id>
-    <published>2024-02-19T00:00:20+00:00</published>
-    <updated>2024-02-19T00:00:20+00:00</updated>
+    <published>2024-02-19T00:00:16+00:00</published>
+    <updated>2024-02-19T00:00:16+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="combating-global-inequality-key-to-defending-democracy-by-nabil-ahmed-1-2024-01">
 <a class="track-event overlay" data-entity-id="65d326d1bb77912e1ae9585f" data-entity-link-name="combating-global-inequality-key-to-defending-democracy-by-nabil-ahmed-1-2024-01" data-entity-type="document" data-event-action="click" data-href-original="/commentary/combating-global-inequality-key-to-defending-democracy-by-nabil-ahmed-1-2024-01" data-language="english" href="/commentary/combating-global-inequality-key-to-defending-democracy-by-nabil-ahmed-1-2024-01" title="Cracks in the New Gilded Age"><span class="u-tos">Cracks in the New Gilded Age</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -582,8 +805,8 @@ finds glimmers of hope in the United States that pathways from oligarchy may be 
     <title>The Lonesome Death of Alexei Navalny</title>
     <link href="https://www.project-syndicate.org/commentary/alexei-navalny-killed-in-prison-after-yet-more-stalin-style-show-trials-by-nina-l-khrushcheva-2024-02" />
     <id>https://www.project-syndicate.org/commentary/alexei-navalny-killed-in-prison-after-yet-more-stalin-style-show-trials-by-nina-l-khrushcheva-2024-02</id>
-    <published>2024-02-17T00:00:19+00:00</published>
-    <updated>2024-02-17T00:00:19+00:00</updated>
+    <published>2024-02-17T00:00:15+00:00</published>
+    <updated>2024-02-17T00:00:15+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="alexei-navalny-killed-in-prison-after-yet-more-stalin-style-show-trials-by-nina-l-khrushcheva-2024-02">
 <a class="track-event overlay" data-entity-id="65d0acb3e647a598664507f1" data-entity-link-name="alexei-navalny-killed-in-prison-after-yet-more-stalin-style-show-trials-by-nina-l-khrushcheva-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/alexei-navalny-killed-in-prison-after-yet-more-stalin-style-show-trials-by-nina-l-khrushcheva-2024-02" data-language="english" href="/commentary/alexei-navalny-killed-in-prison-after-yet-more-stalin-style-show-trials-by-nina-l-khrushcheva-2024-02" title="The Lonesome Death of Alexei Navalny"><span class="u-tos">The Lonesome Death of Alexei Navalny</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -634,8 +857,8 @@ has no doubt that, directly or indirectly, it was the Kremlin that killed the im
     <title>America’s Steel Madness</title>
     <link href="https://www.project-syndicate.org/commentary/nippon-steel-acquisition-of-us-steel-will-boost-american-productivity-competitiveness-by-anne-o-krueger-2024-02" />
     <id>https://www.project-syndicate.org/commentary/nippon-steel-acquisition-of-us-steel-will-boost-american-productivity-competitiveness-by-anne-o-krueger-2024-02</id>
-    <published>2024-02-16T00:00:18+00:00</published>
-    <updated>2024-02-16T00:00:18+00:00</updated>
+    <published>2024-02-16T00:00:14+00:00</published>
+    <updated>2024-02-16T00:00:14+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="nippon-steel-acquisition-of-us-steel-will-boost-american-productivity-competitiveness-by-anne-o-krueger-2024-02">
 <a class="track-event overlay" data-entity-id="65cf82f3e75af99b60f7c4f9" data-entity-link-name="nippon-steel-acquisition-of-us-steel-will-boost-american-productivity-competitiveness-by-anne-o-krueger-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/nippon-steel-acquisition-of-us-steel-will-boost-american-productivity-competitiveness-by-anne-o-krueger-2024-02" data-language="english" href="/commentary/nippon-steel-acquisition-of-us-steel-will-boost-american-productivity-competitiveness-by-anne-o-krueger-2024-02" title="America’s Steel Madness"><span class="u-tos">America’s Steel Madness</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -686,8 +909,8 @@ explains why opposition to Nippon Steel's acquisition of US Steel is deeply misg
     <title>Can Marwan Barghouti Be the Palestinian Nelson Mandela?</title>
     <link href="https://www.project-syndicate.org/commentary/gaza-ceasefire-deal-release-barghouti-to-revive-two-state-solution-by-daoud-kuttab-2024-02" />
     <id>https://www.project-syndicate.org/commentary/gaza-ceasefire-deal-release-barghouti-to-revive-two-state-solution-by-daoud-kuttab-2024-02</id>
-    <published>2024-02-16T00:00:17+00:00</published>
-    <updated>2024-02-16T00:00:17+00:00</updated>
+    <published>2024-02-16T00:00:13+00:00</published>
+    <updated>2024-02-16T00:00:13+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="gaza-ceasefire-deal-release-barghouti-to-revive-two-state-solution-by-daoud-kuttab-2024-02">
 <a class="track-event overlay" data-entity-id="65cf77b5e75af99b60afa068" data-entity-link-name="gaza-ceasefire-deal-release-barghouti-to-revive-two-state-solution-by-daoud-kuttab-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/gaza-ceasefire-deal-release-barghouti-to-revive-two-state-solution-by-daoud-kuttab-2024-02" data-language="english" href="/commentary/gaza-ceasefire-deal-release-barghouti-to-revive-two-state-solution-by-daoud-kuttab-2024-02" title="Can Marwan Barghouti Be the Palestinian Nelson Mandela?"><span class="u-tos">Can Marwan Barghouti Be the Palestinian Nelson Mandela?</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -738,8 +961,8 @@ thinks the imprisoned Fatah leader could be the key to reviving the two-state so
     <title>What Corporations Need to Know About Public Health</title>
     <link href="https://www.project-syndicate.org/commentary/framework-for-understanding-health-systems-and-measuring-outcomes-should-guide-investment-by-tom-achoki-1-2024-02" />
     <id>https://www.project-syndicate.org/commentary/framework-for-understanding-health-systems-and-measuring-outcomes-should-guide-investment-by-tom-achoki-1-2024-02</id>
-    <published>2024-02-16T00:00:16+00:00</published>
-    <updated>2024-02-16T00:00:16+00:00</updated>
+    <published>2024-02-16T00:00:12+00:00</published>
+    <updated>2024-02-16T00:00:12+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="framework-for-understanding-health-systems-and-measuring-outcomes-should-guide-investment-by-tom-achoki-1-2024-02">
 <a class="track-event overlay" data-entity-id="65cf6144e75af99b603051cc" data-entity-link-name="framework-for-understanding-health-systems-and-measuring-outcomes-should-guide-investment-by-tom-achoki-1-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/framework-for-understanding-health-systems-and-measuring-outcomes-should-guide-investment-by-tom-achoki-1-2024-02" data-language="english" href="/commentary/framework-for-understanding-health-systems-and-measuring-outcomes-should-guide-investment-by-tom-achoki-1-2024-02" title="What Corporations Need to Know About Public Health"><span class="u-tos">What Corporations Need to Know About Public Health</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -790,8 +1013,8 @@ describes a framework for understanding health systems that should guide investm
     <title>What Was Capitalism?</title>
     <link href="https://www.project-syndicate.org/onpoint/capitalism-turning-feudal-or-fatuous-by-james-livingston-2024-02" />
     <id>https://www.project-syndicate.org/onpoint/capitalism-turning-feudal-or-fatuous-by-james-livingston-2024-02</id>
-    <published>2024-02-16T00:00:15+00:00</published>
-    <updated>2024-02-16T00:00:15+00:00</updated>
+    <published>2024-02-16T00:00:11+00:00</published>
+    <updated>2024-02-16T00:00:11+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default onpoint" data-url="capitalism-turning-feudal-or-fatuous-by-james-livingston-2024-02">
 <a class="track-event overlay" data-entity-id="65cf2831e75af99b6060ba5d" data-entity-link-name="capitalism-turning-feudal-or-fatuous-by-james-livingston-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/onpoint/capitalism-turning-feudal-or-fatuous-by-james-livingston-2024-02" data-language="english" href="/onpoint/capitalism-turning-feudal-or-fatuous-by-james-livingston-2024-02" title="What Was Capitalism?"><span class="u-tos">What Was Capitalism?</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -842,8 +1065,8 @@ asks whether those at the commanding heights of today's economy are steering us 
     <title>Reducing Plastic Pollution Requires Local Remedies</title>
     <link href="https://www.project-syndicate.org/commentary/ending-plastic-pollution-requires-local-action-by-mirei-endara-de-heras-2024-02" />
     <id>https://www.project-syndicate.org/commentary/ending-plastic-pollution-requires-local-action-by-mirei-endara-de-heras-2024-02</id>
-    <published>2024-02-15T00:00:14+00:00</published>
-    <updated>2024-02-15T00:00:14+00:00</updated>
+    <published>2024-02-15T00:00:10+00:00</published>
+    <updated>2024-02-15T00:00:10+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="ending-plastic-pollution-requires-local-action-by-mirei-endara-de-heras-2024-02">
 <a class="track-event overlay" data-entity-id="65ce29bb3973acb53d3b93a9" data-entity-link-name="ending-plastic-pollution-requires-local-action-by-mirei-endara-de-heras-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/ending-plastic-pollution-requires-local-action-by-mirei-endara-de-heras-2024-02" data-language="english" href="/commentary/ending-plastic-pollution-requires-local-action-by-mirei-endara-de-heras-2024-02" title="Reducing Plastic Pollution Requires Local Remedies"><span class="u-tos">Reducing Plastic Pollution Requires Local Remedies</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -892,8 +1115,8 @@ explains why on-the-ground initiatives to remove waste must complement top-down 
     <title>The Case for Regulating Generative AI Through Common Law</title>
     <link href="https://www.project-syndicate.org/commentary/european-union-ai-act-could-impede-innovation-by-s-alex-yang-and-angela-huyue-zhang-2024-02" />
     <id>https://www.project-syndicate.org/commentary/european-union-ai-act-could-impede-innovation-by-s-alex-yang-and-angela-huyue-zhang-2024-02</id>
-    <published>2024-02-15T00:00:13+00:00</published>
-    <updated>2024-02-15T00:00:13+00:00</updated>
+    <published>2024-02-15T00:00:09+00:00</published>
+    <updated>2024-02-15T00:00:09+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="european-union-ai-act-could-impede-innovation-by-s-alex-yang-and-angela-huyue-zhang-2024-02">
 <a class="track-event overlay" data-entity-id="65ce135c3973acb53debb2e5" data-entity-link-name="european-union-ai-act-could-impede-innovation-by-s-alex-yang-and-angela-huyue-zhang-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/european-union-ai-act-could-impede-innovation-by-s-alex-yang-and-angela-huyue-zhang-2024-02" data-language="english" href="/commentary/european-union-ai-act-could-impede-innovation-by-s-alex-yang-and-angela-huyue-zhang-2024-02" title="The Case for Regulating Generative AI Through Common Law"><span class="u-tos">The Case for Regulating Generative AI Through Common Law</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -946,8 +1169,8 @@ propose a regulatory framework that is both adaptable and tailored to specific c
     <title>Why Is the Maldives Spurning India?</title>
     <link href="https://www.project-syndicate.org/commentary/maldives-becoming-islamist-chinese-client-on-india-doorstep-by-shashi-tharoor-2024-02" />
     <id>https://www.project-syndicate.org/commentary/maldives-becoming-islamist-chinese-client-on-india-doorstep-by-shashi-tharoor-2024-02</id>
-    <published>2024-02-15T00:00:12+00:00</published>
-    <updated>2024-02-15T00:00:12+00:00</updated>
+    <published>2024-02-15T00:00:08+00:00</published>
+    <updated>2024-02-15T00:00:08+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="maldives-becoming-islamist-chinese-client-on-india-doorstep-by-shashi-tharoor-2024-02">
 <a class="track-event overlay" data-entity-id="65cdec6f3973acb53d6c1567" data-entity-link-name="maldives-becoming-islamist-chinese-client-on-india-doorstep-by-shashi-tharoor-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/maldives-becoming-islamist-chinese-client-on-india-doorstep-by-shashi-tharoor-2024-02" data-language="english" href="/commentary/maldives-becoming-islamist-chinese-client-on-india-doorstep-by-shashi-tharoor-2024-02" title="Why Is the Maldives Spurning India?"><span class="u-tos">Why Is the Maldives Spurning India?</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -998,8 +1221,8 @@ worries that the island nation is becoming a Chinese client and nurturing Islami
     <title>Pakistan’s Middle-Class Rage Against Military Rule</title>
     <link href="https://www.project-syndicate.org/commentary/middle-class-voters-deal-historic-defeat-to-pakistani-military-regime-by-adeel-malik-2024-02" />
     <id>https://www.project-syndicate.org/commentary/middle-class-voters-deal-historic-defeat-to-pakistani-military-regime-by-adeel-malik-2024-02</id>
-    <published>2024-02-14T00:00:11+00:00</published>
-    <updated>2024-02-14T00:00:11+00:00</updated>
+    <published>2024-02-14T00:00:07+00:00</published>
+    <updated>2024-02-14T00:00:07+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="middle-class-voters-deal-historic-defeat-to-pakistani-military-regime-by-adeel-malik-2024-02">
 <a class="track-event overlay" data-entity-id="65cce35b635b2468c5f7ec71" data-entity-link-name="middle-class-voters-deal-historic-defeat-to-pakistani-military-regime-by-adeel-malik-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/middle-class-voters-deal-historic-defeat-to-pakistani-military-regime-by-adeel-malik-2024-02" data-language="english" href="/commentary/middle-class-voters-deal-historic-defeat-to-pakistani-military-regime-by-adeel-malik-2024-02" title="Pakistan’s Middle-Class Rage Against Military Rule"><span class="u-tos">Pakistan’s Middle-Class Rage Against Military Rule</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -1050,8 +1273,8 @@ explains how economic dissatisfaction fueled the electoral backlash against the 
     <title>Why Is China Stalling Out?</title>
     <link href="https://www.project-syndicate.org/commentary/china-private-sector-losing-confidence-unemployment-high-investment-waning-by-catherine-tai-and-renee-luo-2024-02" />
     <id>https://www.project-syndicate.org/commentary/china-private-sector-losing-confidence-unemployment-high-investment-waning-by-catherine-tai-and-renee-luo-2024-02</id>
-    <published>2024-02-14T00:00:10+00:00</published>
-    <updated>2024-02-14T00:00:10+00:00</updated>
+    <published>2024-02-14T00:00:06+00:00</published>
+    <updated>2024-02-14T00:00:06+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="china-private-sector-losing-confidence-unemployment-high-investment-waning-by-catherine-tai-and-renee-luo-2024-02">
 <a class="track-event overlay" data-entity-id="65ccd6e7635b2468c5bc58f7" data-entity-link-name="china-private-sector-losing-confidence-unemployment-high-investment-waning-by-catherine-tai-and-renee-luo-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/china-private-sector-losing-confidence-unemployment-high-investment-waning-by-catherine-tai-and-renee-luo-2024-02" data-language="english" href="/commentary/china-private-sector-losing-confidence-unemployment-high-investment-waning-by-catherine-tai-and-renee-luo-2024-02" title="Why Is China Stalling Out?"><span class="u-tos">Why Is China Stalling Out?</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -1104,8 +1327,8 @@ attribute the country’s mounting economic and financial problems to a loss of 
     <title>The Middle Truth in the Inflation Muddle</title>
     <link href="https://www.project-syndicate.org/commentary/why-fed-critics-are-wrong-about-monetary-policy-role-by-barry-eichengreen-2024-02" />
     <id>https://www.project-syndicate.org/commentary/why-fed-critics-are-wrong-about-monetary-policy-role-by-barry-eichengreen-2024-02</id>
-    <published>2024-02-14T00:00:09+00:00</published>
-    <updated>2024-02-14T00:00:09+00:00</updated>
+    <published>2024-02-14T00:00:05+00:00</published>
+    <updated>2024-02-14T00:00:05+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="why-fed-critics-are-wrong-about-monetary-policy-role-by-barry-eichengreen-2024-02">
 <a class="track-event overlay" data-entity-id="65cca959635b2468c5153d63" data-entity-link-name="why-fed-critics-are-wrong-about-monetary-policy-role-by-barry-eichengreen-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/why-fed-critics-are-wrong-about-monetary-policy-role-by-barry-eichengreen-2024-02" data-language="english" href="/commentary/why-fed-critics-are-wrong-about-monetary-policy-role-by-barry-eichengreen-2024-02" title="The Middle Truth in the Inflation Muddle"><span class="u-tos">The Middle Truth in the Inflation Muddle</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -1156,8 +1379,8 @@ explains why the Federal Reserve's critics are wrong about monetary policy's rol
     <title>Western Technology Firms Must Stop Supplying Russia’s War Machine</title>
     <link href="https://www.project-syndicate.org/commentary/russia-sanctions-evasion-holding-tech-companies-accountable-by-anastassia-fedyk-et-al-2024-02" />
     <id>https://www.project-syndicate.org/commentary/russia-sanctions-evasion-holding-tech-companies-accountable-by-anastassia-fedyk-et-al-2024-02</id>
-    <published>2024-02-14T00:00:08+00:00</published>
-    <updated>2024-02-14T00:00:08+00:00</updated>
+    <published>2024-02-14T00:00:04+00:00</published>
+    <updated>2024-02-14T00:00:04+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="russia-sanctions-evasion-holding-tech-companies-accountable-by-anastassia-fedyk-et-al-2024-02">
 <a class="track-event overlay" data-entity-id="65cca596635b2468c508a23a" data-entity-link-name="russia-sanctions-evasion-holding-tech-companies-accountable-by-anastassia-fedyk-et-al-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/russia-sanctions-evasion-holding-tech-companies-accountable-by-anastassia-fedyk-et-al-2024-02" data-language="english" href="/commentary/russia-sanctions-evasion-holding-tech-companies-accountable-by-anastassia-fedyk-et-al-2024-02" title="Western Technology Firms Must Stop Supplying Russia’s War Machine"><span class="u-tos">Western Technology Firms Must Stop Supplying Russia’s War Machine</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -1208,8 +1431,8 @@ outline several steps that governments can take to close the loopholes in the cu
     <title>The Polycrisis Industrial Complex</title>
     <link href="https://www.project-syndicate.org/commentary/war-on-drugs-terror-illegal-immigration-many-beneficiaries-by-david-keen-and-ruben-andersson-2024-02" />
     <id>https://www.project-syndicate.org/commentary/war-on-drugs-terror-illegal-immigration-many-beneficiaries-by-david-keen-and-ruben-andersson-2024-02</id>
-    <published>2024-02-14T00:00:07+00:00</published>
-    <updated>2024-02-14T00:00:07+00:00</updated>
+    <published>2024-02-14T00:00:03+00:00</published>
+    <updated>2024-02-14T00:00:03+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="war-on-drugs-terror-illegal-immigration-many-beneficiaries-by-david-keen-and-ruben-andersson-2024-02">
 <a class="track-event overlay" data-entity-id="65cb9fc48128b470d9fdb5ba" data-entity-link-name="war-on-drugs-terror-illegal-immigration-many-beneficiaries-by-david-keen-and-ruben-andersson-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/war-on-drugs-terror-illegal-immigration-many-beneficiaries-by-david-keen-and-ruben-andersson-2024-02" data-language="english" href="/commentary/war-on-drugs-terror-illegal-immigration-many-beneficiaries-by-david-keen-and-ruben-andersson-2024-02" title="The Polycrisis Industrial Complex"><span class="u-tos">The Polycrisis Industrial Complex</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -1262,8 +1485,8 @@ discern a pattern of problems being exploited for gain without ever being solved
     <title>Elon Musk and the Absolutist Revival</title>
     <link href="https://www.project-syndicate.org/commentary/elon-musk-pay-package-modern-ceo-resembles-absolute-monarch-by-katharina-pistor-2024-02" />
     <id>https://www.project-syndicate.org/commentary/elon-musk-pay-package-modern-ceo-resembles-absolute-monarch-by-katharina-pistor-2024-02</id>
-    <published>2024-02-13T00:00:06+00:00</published>
-    <updated>2024-02-13T00:00:06+00:00</updated>
+    <published>2024-02-13T00:00:02+00:00</published>
+    <updated>2024-02-13T00:00:02+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="elon-musk-pay-package-modern-ceo-resembles-absolute-monarch-by-katharina-pistor-2024-02">
 <a class="track-event overlay" data-entity-id="65cb987a8128b470d9dd04fd" data-entity-link-name="elon-musk-pay-package-modern-ceo-resembles-absolute-monarch-by-katharina-pistor-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/elon-musk-pay-package-modern-ceo-resembles-absolute-monarch-by-katharina-pistor-2024-02" data-language="english" href="/commentary/elon-musk-pay-package-modern-ceo-resembles-absolute-monarch-by-katharina-pistor-2024-02" title="Elon Musk and the Absolutist Revival"><span class="u-tos">Elon Musk and the Absolutist Revival</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -1308,214 +1531,6 @@ laments the modern cult of the CEO, which allows corporate leaders to pick and c
  | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/commentary/elon-musk-pay-package-modern-ceo-resembles-absolute-monarch-by-katharina-pistor-2024-02" target="_blank">archive.is</a></div>
     <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
 <p data-line-id="f1955f5eb5294f93a449609001f181a0"> NEW YORK – Rulers have always found it hard to accept limits on their power. When the French parliament disputed Louis XIV’s edicts in 1655, the king of France and Navarre is said to have responded: “L’état, c’est moi” (“I am the state”). The ensuing age of absolutism in France ended only with the French Revolution in 1789. </p><p data-line-id="342faf468eb34cf885aa8a2a3b00e79d"> Like Louis XIV, Elon Musk rejects legal constraints on his power. In defiance of a recent Delaware Chancery Court <a href="https://courts.delaware.gov/Opinions/Download.aspx?id=359340">ruling</a> that voided his $56 billion compensation agreement with Tesla, Musk wants to <a href="https://www.reuters.com/business/autos-transportation/tesla-take-shareholder-vote-shifting-incorporation-texas-musk-says-2024-02-01/">reincorporate the company in Texas</a>, where he is hoping to find more accommodating courts.  </p><p data-line-id="e0e957e1a15c4bcaac0446793d1ccc2f"> It is not the first time that Musk has sought to defy the Delaware court, which is the main venue for resolving most corporate law disputes in the United States (because most companies incorporate in Delaware). His hostility to the law and to binding legal agreements was on full display two years ago, when he tried to wriggle out of the deal to buy <a href="https://www.delawareonline.com/story/money/business/2022/10/04/why-elon-musk-and-twitter-dispute-is-tied-to-delaware-court/69535050007/">Twitter</a>. Under court pressure, he eventually completed the transaction.  </p>
-</div>]]></content>
-  </entry>
-  <entry>
-    <title>A Marshall Plan for Africa</title>
-    <link href="https://www.project-syndicate.org/commentary/g20-must-implement-marshall-plan-for-africa-by-colin-coleman-2024-02" />
-    <id>https://www.project-syndicate.org/commentary/g20-must-implement-marshall-plan-for-africa-by-colin-coleman-2024-02</id>
-    <published>2024-02-13T00:00:05+00:00</published>
-    <updated>2024-02-13T00:00:05+00:00</updated>
-    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="g20-must-implement-marshall-plan-for-africa-by-colin-coleman-2024-02">
-<a class="track-event overlay" data-entity-id="65cb77618128b470d94c0d99" data-entity-link-name="g20-must-implement-marshall-plan-for-africa-by-colin-coleman-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/g20-must-implement-marshall-plan-for-africa-by-colin-coleman-2024-02" data-language="english" href="/commentary/g20-must-implement-marshall-plan-for-africa-by-colin-coleman-2024-02" title="A Marshall Plan for Africa"><span class="u-tos">A Marshall Plan for Africa</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/828202dfa24acc171275e251b0e889f8.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/828202dfa24acc171275e251b0e889f8.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/828202dfa24acc171275e251b0e889f8.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/828202dfa24acc171275e251b0e889f8.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="commentary/g20-must-implement-marshall-plan-for-africa-by-colin-coleman-2024-02">A Marshall Plan for Africa</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Feb 13, 2024</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="colin-coleman" data-entity-type="member" data-event-action="click" data-href-original="columnist/colin-coleman" data-language="english" href="columnist/colin-coleman">Colin Coleman </a>
-calls on the G20 to help accelerate economic growth and promote human development on the continent.        </p>
-</header>
-</li>]]></summary>
-    <content type="html"><![CDATA[<li class="listing listing--default" data-url="g20-must-implement-marshall-plan-for-africa-by-colin-coleman-2024-02">
-<a class="track-event overlay" data-entity-id="65cb77618128b470d94c0d99" data-entity-link-name="g20-must-implement-marshall-plan-for-africa-by-colin-coleman-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/g20-must-implement-marshall-plan-for-africa-by-colin-coleman-2024-02" data-language="english" href="/commentary/g20-must-implement-marshall-plan-for-africa-by-colin-coleman-2024-02" title="A Marshall Plan for Africa"><span class="u-tos">A Marshall Plan for Africa</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/828202dfa24acc171275e251b0e889f8.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/828202dfa24acc171275e251b0e889f8.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/828202dfa24acc171275e251b0e889f8.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/828202dfa24acc171275e251b0e889f8.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="commentary/g20-must-implement-marshall-plan-for-africa-by-colin-coleman-2024-02">A Marshall Plan for Africa</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Feb 13, 2024</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="colin-coleman" data-entity-type="member" data-event-action="click" data-href-original="columnist/colin-coleman" data-language="english" href="columnist/colin-coleman">Colin Coleman </a>
-calls on the G20 to help accelerate economic growth and promote human development on the continent.        </p>
-</header>
-</li>
-<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
- | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/commentary/g20-must-implement-marshall-plan-for-africa-by-colin-coleman-2024-02" target="_blank">archive.is</a></div>
-    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
-<p data-line-id="84151f46c9e04d6c8e1287afd04a565b"> NEW YORK – Africa could be the largest source of global economic growth over the next half-century. But during the same period, the continent could also trigger the next great European war. </p><p data-line-id="0154fa9ec41341139ba68ea4da87a93e"> Goldman Sachs <a href="https://www.goldmansachs.com/intelligence/pages/the-path-to-2075-slower-global-growth-but-convergence-remains-intact.html">projects</a> that Africa’s GDP will grow from roughly $3 trillion today to $44 trillion in 2075, with its share of global GDP rising from 3% to 11%. This increase would make the continent one of the world’s main growth engines, surpassed only by India, which is predicted to add $46 trillion in GDP over the same period. To put this in perspective, between 2030 and 2075, Goldman Sachs’ model predicts that Chinese GDP will rise by $8.5 trillion less, and the United States’ GDP by $16.5 trillion less, than Africa’s. </p><p data-line-id="08d07e16bd99449b8b84608b11bba4ae"> In fact, by 2075, Nigeria is forecast to become the world’s <a href="https://punchng.com/how-nigeria-can-become-global-economic-powerhouse/#:~:text=The%20most%20intriguing%20part%20is,nature%20of%20the%20global%20economy.">fifth-largest economy</a>, with a GDP of $13 trillion, and Egypt the <a href="https://uac-org.org/en/News/details/5244/%D9%81%D9%8A-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%85%D8%B5%D8%B1-%D8%B3%D8%AA%D8%B5%D8%A8%D8%AD-%D8%B3%D8%A7%D8%A8%D8%B9-%D8%A3%D9%83%D8%A8%D8%B1-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A8%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-">seventh-largest</a>, with a GDP of more than $10 trillion. Meanwhile, Ethiopia is expected to rank 17th, while South Africa remains around 25th, with GDPs of more than $6 trillion and $3 trillion, respectively. </p>
-</div>]]></content>
-  </entry>
-  <entry>
-    <title>Europe Must Rearm Now</title>
-    <link href="https://www.project-syndicate.org/commentary/trump-nato-comments-mean-europe-must-get-serious-about-defense-by-philippe-legrain-2024-02" />
-    <id>https://www.project-syndicate.org/commentary/trump-nato-comments-mean-europe-must-get-serious-about-defense-by-philippe-legrain-2024-02</id>
-    <published>2024-02-13T00:00:04+00:00</published>
-    <updated>2024-02-13T00:00:04+00:00</updated>
-    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="trump-nato-comments-mean-europe-must-get-serious-about-defense-by-philippe-legrain-2024-02">
-<a class="track-event overlay" data-entity-id="65cb618c8128b470d9ecb500" data-entity-link-name="trump-nato-comments-mean-europe-must-get-serious-about-defense-by-philippe-legrain-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/trump-nato-comments-mean-europe-must-get-serious-about-defense-by-philippe-legrain-2024-02" data-language="english" href="/commentary/trump-nato-comments-mean-europe-must-get-serious-about-defense-by-philippe-legrain-2024-02" title="Europe Must Rearm Now"><span class="u-tos">Europe Must Rearm Now</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/b7ca6d8e647db8609d022b94e7f8977a.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/b7ca6d8e647db8609d022b94e7f8977a.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/b7ca6d8e647db8609d022b94e7f8977a.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/b7ca6d8e647db8609d022b94e7f8977a.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="commentary/trump-nato-comments-mean-europe-must-get-serious-about-defense-by-philippe-legrain-2024-02">Europe Must Rearm Now</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Feb 13, 2024</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="philippe-legrain" data-entity-type="member" data-event-action="click" data-href-original="columnist/philippe-legrain" data-language="english" href="columnist/philippe-legrain">Philippe Legrain </a>
-urges NATO's European members to act immediately on the threat that the United States could abandon them.        </p>
-</header>
-</li>]]></summary>
-    <content type="html"><![CDATA[<li class="listing listing--default" data-url="trump-nato-comments-mean-europe-must-get-serious-about-defense-by-philippe-legrain-2024-02">
-<a class="track-event overlay" data-entity-id="65cb618c8128b470d9ecb500" data-entity-link-name="trump-nato-comments-mean-europe-must-get-serious-about-defense-by-philippe-legrain-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/trump-nato-comments-mean-europe-must-get-serious-about-defense-by-philippe-legrain-2024-02" data-language="english" href="/commentary/trump-nato-comments-mean-europe-must-get-serious-about-defense-by-philippe-legrain-2024-02" title="Europe Must Rearm Now"><span class="u-tos">Europe Must Rearm Now</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/b7ca6d8e647db8609d022b94e7f8977a.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/b7ca6d8e647db8609d022b94e7f8977a.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/b7ca6d8e647db8609d022b94e7f8977a.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/b7ca6d8e647db8609d022b94e7f8977a.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="commentary/trump-nato-comments-mean-europe-must-get-serious-about-defense-by-philippe-legrain-2024-02">Europe Must Rearm Now</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Feb 13, 2024</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="philippe-legrain" data-entity-type="member" data-event-action="click" data-href-original="columnist/philippe-legrain" data-language="english" href="columnist/philippe-legrain">Philippe Legrain </a>
-urges NATO's European members to act immediately on the threat that the United States could abandon them.        </p>
-</header>
-</li>
-<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
- | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/commentary/trump-nato-comments-mean-europe-must-get-serious-about-defense-by-philippe-legrain-2024-02" target="_blank">archive.is</a></div>
-    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
-<p data-line-id="3eaabb516c4f4361a8e58bf8ba71a273"> LONDON – Donald Trump’s potential return to the White House in 2025 poses a grave threat to Europe’s security. With war in Ukraine still raging, European countries must shore up their defenses against Russian President Vladimir Putin’s revanchist aggressions before it is too late. </p><p data-line-id="e7bb4aaddec0488eb3359c61ec224f2a"> The prospect of an unrestrained and unhinged Trump acting on his threats to abandon the United States’ historic commitment to Europe’s defense is so alarming to most European leaders that they appear to be in denial. But after <a href="https://apnews.com/article/trump-new-hampshire-primary-two-candidate-race-72a59c4133879eaeec63d6ed30e91e01">decisive</a> victories in the Iowa caucuses and New Hampshire primary, Trump is now almost certain to be the Republican Party’s presidential nominee in November’s election. Given that he also leads President <a href="https://www.project-syndicate.org/columnist/joseph-biden-jr">Joe Biden</a> in <a href="https://www.nytimes.com/2023/11/05/briefing/trump-biden-poll.html">national polls</a> and in many battleground states, his return to power is a real and present danger. </p><p data-line-id="8da0991d470e4626b0272ef928ed0547"> During his first term, Trump repeatedly threatened to withdraw the US from NATO, the military alliance that ensures that the US extends its nuclear umbrella to Europe. He was talked out of it by his senior foreign-policy advisers, notably former National Security Adviser John Bolton. But Trump’s increasingly isolationist rhetoric suggests that, if elected again, he will surround himself with yes-men rather than experienced establishment figures. </p>
-</div>]]></content>
-  </entry>
-  <entry>
-    <title>Central Banks’ 2% Inflation Target Is Not the Finish Line</title>
-    <link href="https://www.project-syndicate.org/commentary/inflation-still-poses-a-threat-as-services-prices-continue-to-rise-by-daniel-gros-2024-02" />
-    <id>https://www.project-syndicate.org/commentary/inflation-still-poses-a-threat-as-services-prices-continue-to-rise-by-daniel-gros-2024-02</id>
-    <published>2024-02-13T00:00:03+00:00</published>
-    <updated>2024-02-13T00:00:03+00:00</updated>
-    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="inflation-still-poses-a-threat-as-services-prices-continue-to-rise-by-daniel-gros-2024-02">
-<a class="track-event overlay" data-entity-id="65cb4b9a8128b470d98faa94" data-entity-link-name="inflation-still-poses-a-threat-as-services-prices-continue-to-rise-by-daniel-gros-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/inflation-still-poses-a-threat-as-services-prices-continue-to-rise-by-daniel-gros-2024-02" data-language="english" href="/commentary/inflation-still-poses-a-threat-as-services-prices-continue-to-rise-by-daniel-gros-2024-02" title="Central Banks’ 2% Inflation Target Is Not the Finish Line"><span class="u-tos">Central Banks’ 2% Inflation Target Is Not the Finish Line</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/edaf21839e6e27b216ba96fcb72706cc.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/edaf21839e6e27b216ba96fcb72706cc.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/edaf21839e6e27b216ba96fcb72706cc.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/edaf21839e6e27b216ba96fcb72706cc.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="commentary/inflation-still-poses-a-threat-as-services-prices-continue-to-rise-by-daniel-gros-2024-02">Central Banks’ 2% Inflation Target Is Not the Finish Line</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Feb 13, 2024</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="daniel-gros" data-entity-type="member" data-event-action="click" data-href-original="columnist/daniel-gros" data-language="english" href="columnist/daniel-gros">Daniel Gros </a>
-argues that the goal of monetary policy should be to get workers and producers to forget about inflation.        </p>
-</header>
-</li>]]></summary>
-    <content type="html"><![CDATA[<li class="listing listing--default" data-url="inflation-still-poses-a-threat-as-services-prices-continue-to-rise-by-daniel-gros-2024-02">
-<a class="track-event overlay" data-entity-id="65cb4b9a8128b470d98faa94" data-entity-link-name="inflation-still-poses-a-threat-as-services-prices-continue-to-rise-by-daniel-gros-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/inflation-still-poses-a-threat-as-services-prices-continue-to-rise-by-daniel-gros-2024-02" data-language="english" href="/commentary/inflation-still-poses-a-threat-as-services-prices-continue-to-rise-by-daniel-gros-2024-02" title="Central Banks’ 2% Inflation Target Is Not the Finish Line"><span class="u-tos">Central Banks’ 2% Inflation Target Is Not the Finish Line</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/edaf21839e6e27b216ba96fcb72706cc.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/edaf21839e6e27b216ba96fcb72706cc.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/edaf21839e6e27b216ba96fcb72706cc.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/edaf21839e6e27b216ba96fcb72706cc.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="commentary/inflation-still-poses-a-threat-as-services-prices-continue-to-rise-by-daniel-gros-2024-02">Central Banks’ 2% Inflation Target Is Not the Finish Line</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Feb 13, 2024</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="daniel-gros" data-entity-type="member" data-event-action="click" data-href-original="columnist/daniel-gros" data-language="english" href="columnist/daniel-gros">Daniel Gros </a>
-argues that the goal of monetary policy should be to get workers and producers to forget about inflation.        </p>
-</header>
-</li>
-<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
- | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/commentary/inflation-still-poses-a-threat-as-services-prices-continue-to-rise-by-daniel-gros-2024-02" target="_blank">archive.is</a></div>
-    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
-<p data-line-id="22136c6c8e3142a7a64e598263f408b7"> BRUSSELS/MILAN – Sentiment in financial markets has undergone a sharp reversal in early 2024. After more than a year of aggressive interest-rate hikes by the US Federal Reserve and the European Central Bank, talk has turned to the question of when – not if – central banks will lower rates. After all, inflation in the United States and the eurozone has fallen almost as quickly as it rose, and is now near central banks’ <a href="https://economic-research.bnpparibas.com/html/en-US/Inflation-tracker-January-2024-Inflation-picked-euro-area-United-States-December-1/12/2024,49218">2% target</a>. </p><p data-line-id="b3db0301b84b4d95ae8c06a6454d371b"> To determine whether inflation has, in fact, been vanquished, we must first understand why it increased in the first place. The explanation might seem obvious. Everybody “knows” that inflation surged in 2022-23 due to external factors, especially supply-chain disruptions and energy-price increases caused largely by the COVID-19 pandemic and the Ukraine war. But even a cursory glance at the data reveals flaws in this explanation. </p><p data-line-id="1bf51f12f0e74e72a6fd72bbcaebc666"> The energy and supply shocks to which inflation is often attributed were short-lived. Crude-oil prices <a href="https://www.macrotrends.net/1369/crude-oil-price-history-chart">fell back</a> to pre-Ukraine war levels after just a few months, and the <a href="https://www.newyorkfed.org/research/policy/gscpi#/overview">supply shortages</a> that characterized the immediate post-pandemic era disappeared over the course of 2023. If these shocks were all that was going on, prices would have increased sharply, then quickly declined, with negative inflation rates taking hold. </p>
-</div>]]></content>
-  </entry>
-  <entry>
-    <title>If Trump Wins, So Will China</title>
-    <link href="https://www.project-syndicate.org/commentary/second-trump-term-would-cede-us-world-leadership-to-china-by-chris-patten-2024-02" />
-    <id>https://www.project-syndicate.org/commentary/second-trump-term-would-cede-us-world-leadership-to-china-by-chris-patten-2024-02</id>
-    <published>2024-02-13T00:00:02+00:00</published>
-    <updated>2024-02-13T00:00:02+00:00</updated>
-    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="second-trump-term-would-cede-us-world-leadership-to-china-by-chris-patten-2024-02">
-<a class="track-event overlay" data-entity-id="65cb379b8128b470d9463bdc" data-entity-link-name="second-trump-term-would-cede-us-world-leadership-to-china-by-chris-patten-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/second-trump-term-would-cede-us-world-leadership-to-china-by-chris-patten-2024-02" data-language="english" href="/commentary/second-trump-term-would-cede-us-world-leadership-to-china-by-chris-patten-2024-02" title="If Trump Wins, So Will China"><span class="u-tos">If Trump Wins, So Will China</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/8760202659b6ed4e27bfdc6ed88c1695.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/8760202659b6ed4e27bfdc6ed88c1695.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/8760202659b6ed4e27bfdc6ed88c1695.2-1-medium.1.jpg"/>
-<img alt="" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/8760202659b6ed4e27bfdc6ed88c1695.2-1-large.1.jpg"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="commentary/second-trump-term-would-cede-us-world-leadership-to-china-by-chris-patten-2024-02">If Trump Wins, So Will China</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Feb 13, 2024</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="chris-patten" data-entity-type="member" data-event-action="click" data-href-original="columnist/chris-patten" data-language="english" href="columnist/chris-patten">Chris Patten </a>
-urges Western countries to uphold the principles that have underpinned their success for nearly 80 years.        </p>
-</header>
-</li>]]></summary>
-    <content type="html"><![CDATA[<li class="listing listing--default" data-url="second-trump-term-would-cede-us-world-leadership-to-china-by-chris-patten-2024-02">
-<a class="track-event overlay" data-entity-id="65cb379b8128b470d9463bdc" data-entity-link-name="second-trump-term-would-cede-us-world-leadership-to-china-by-chris-patten-2024-02" data-entity-type="document" data-event-action="click" data-href-original="/commentary/second-trump-term-would-cede-us-world-leadership-to-china-by-chris-patten-2024-02" data-language="english" href="/commentary/second-trump-term-would-cede-us-world-leadership-to-china-by-chris-patten-2024-02" title="If Trump Wins, So Will China"><span class="u-tos">If Trump Wins, So Will China</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/8760202659b6ed4e27bfdc6ed88c1695.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/8760202659b6ed4e27bfdc6ed88c1695.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/8760202659b6ed4e27bfdc6ed88c1695.2-1-medium.1.jpg"/>
-<img alt="" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/8760202659b6ed4e27bfdc6ed88c1695.2-1-large.1.jpg"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="commentary/second-trump-term-would-cede-us-world-leadership-to-china-by-chris-patten-2024-02">If Trump Wins, So Will China</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Feb 13, 2024</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="chris-patten" data-entity-type="member" data-event-action="click" data-href-original="columnist/chris-patten" data-language="english" href="columnist/chris-patten">Chris Patten </a>
-urges Western countries to uphold the principles that have underpinned their success for nearly 80 years.        </p>
-</header>
-</li>
-<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
- | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/commentary/second-trump-term-would-cede-us-world-leadership-to-china-by-chris-patten-2024-02" target="_blank">archive.is</a></div>
-    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
-<p data-line-id="abcd6acfd38544379954a062487df949"> LONDON – During the darkest days of World War II, as young British pilots valiantly fought the Luftwaffe over southern England and German forces prepared to invade the British Isles, Prime Minister Winston Churchill took on the task of boosting his fellow citizens’ morale, offering them a brighter future to look forward to. </p><p data-line-id="a83e8e6b17874b3baa1469c33ae41b9b"> To this end, Churchill’s inspirational wartime speeches occasionally featured a <a href="https://www.poetryfoundation.org/poems/43959/say-not-the-struggle-nought-availeth">poem</a> he likely encountered at Harrow School in the late nineteenth century. The poem, authored by Arthur Hugh Clough, a scholar who had served as an assistant to Florence Nightingale, the founder of modern nursing, urged people to reject the notion that fighting for good was futile. It concluded with the phrase, “Westward, look, the land is bright.” </p><p data-line-id="c28061e44fa24b559dd1d2fcb35cee55"> Churchill, whose affinity for the United States was influenced by his American-born mother, confidently asserted that the US would continue to uphold liberal-democratic values in the face of the totalitarian Nazi threat. Implicit in this declaration was the <a href="https://time.com/5453734/churchills-surprising-anti-americanism-and-what-changed-his-mind/">hope</a> that, if necessary, the US would come to the aid of the United Kingdom and other Western European liberal democracies. </p>
 </div>]]></content>
   </entry>
 </feed>
