@@ -65,6 +65,181 @@ American Mosaic（美国万花筒） American Mosaic是一个radio magazine（�
 American Stories（美国故事） 这一专题材节目安排在每星期六晚上播出。这样能使听众在学习和工作之余，得以轻松一下头脑。我们可以通过这一美国文学的“窗口”，接触各种流派、各类名家的文学作品。了解美国英语的时代特色，欣赏、学习美国人民运用语方的技巧，并从那些佳作名篇中获得艺术享受。该节目对短篇故事采取一次播一篇的方式，对中、长篇小说则先进行简写加工，再分几次播出全文。在播出故事正文之前，播音员常常先介绍故事的主要情节。对需要分几次节目时间播出的中长篇，在播第二或以后各部分之前，主持人还先重述已播部分的故事梗概，以唤起听众的回忆，使故事听起来更加连贯。</description>
         <itunes:explicit>no</itunes:explicit>
           <item>
+            <title>US Sports Fans Hope AI Will Help with March Madness Brackets  (2024/3/22)</title>
+            <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202403/us-sports-fans-hope-ai-will-help-with-march-madness-brackets.mp3"/>
+            <content:encoded><![CDATA[<div class="content">
+<span class="byline">By Dan Novak</span><br/>
+<span class="datetime">21 March 2024</span><br/>
+<p>The American college basketball tournaments known as "March Madness" begin this week. College basketball, or National Collegiate Athletic Association (N.C.A.A.) basketball, is very popular in the United States. In parts of the country it is even more popular than professional basketball.</p>
+<p>And, many people like to try to guess who will win the many games played over the next few weeks of competition. Sixty-seven games will be held for both men and women.</p>
+<p>A <strong>chart </strong>that shows the <strong>sequence</strong> of games is called a bracket. Thousands of fans in the U.S. compete with each other to correctly predict the most outcomes of each game.</p><div class="contentImage"><img alt="Pittsburgh guard Ishmael Leggett, right, places a decal on the bracket after an NCAA college basketball game on March 14, 2024. (AP Photo/Susan Walsh, File)" src="https://img.51voa.cn/1/01000000-0aff-0242-79b6-08dc49ba9e8d_cx0_cy1_cw0_w268_r1.jpg"/><br/><span class="imagecaption">Pittsburgh guard Ishmael Leggett, right, places a decal on the bracket after an NCAA college basketball game on March 14, 2024. (AP Photo/Susan Walsh, File)</span></div>
+<p>Today, more people are using artificial intelligence, or AI, to help them fill their brackets. Using AI for bracketing in the tournament is not so new. Even so, the yearly bracket competitions still provide many surprises for computer science experts who have spent years creating their models using past tournament results.</p>
+<p>The researchers have found that machine learning alone cannot quite solve for the limited data and unpredictable human elements of the tournament.</p>
+<p>A normal fan may spend a few days this week deciding which team might win a few games in the tournament. But some computer experts are going after even more detailed information. They are using complex math to find the best model for predicting success in the tournament. Some are using AI to perfect their codes or decide which qualities of the team can best predict their competitive future.</p>
+<p>The chances of creating a perfect bracket are extremely low for any competitor, however <strong>advanced</strong> their tools may be. An "informed fan" making choices based on past results has a 1 in 2 billion chance at perfection, says Ezra Miller. He is a mathematics professor at Duke University.</p>
+<p>Artificial intelligence is likely very good at determining the <strong>probability</strong> that a team wins, Miller said. But even with the models, he added that the "<strong>random</strong> choice of who's going to win a game that's evenly matched" is still a random choice.</p>
+<p>For the 10th straight year, the data science community Kaggle is hosting "Machine Learning Madness." In traditional bracket competitions, people simply write each team they think will win. But "Machine Learning Madness" requires users to enter a percentage representing their level of confidence that a team will advance.</p>
+<p>Kaggle provides a large data set from past results for people to develop their <strong>algorithms</strong>. That includes information on a team's free-throw percentage, <strong>turnovers </strong>and assists. Users can then turn that information over to an algorithm to find the statistics most predictive of tournament success.</p>
+<p>"It's a fair fight. There's people who know a lot about basketball and can use what they know," said Jeff Sonas. He is a statistical chess analyst who helped found the competition. "It is also possible for someone who doesn't know a lot about basketball but is good at learning how to use data to make predictions."</p>
+<p>No method will include every element at play on the court. There is a balance between modeling and <strong>intuition</strong>, said Tim Chartier, a Davidson University bracket expert.</p>
+<p>Chartier has studied brackets since 2009. He developed a method that largely depends on team success on home court and away, performance in the second half of the season and difficulty of <strong>schedule</strong>. But he said the NCAA Tournament's historical results provide an unpredictable and small<strong> sample</strong> size. That is a difficulty for machine learning models, which use large sample sizes.</p>
+<p>Chartier's goal is never for his students to reach perfection in their brackets. His own model still cannot account for Davidson's 2008 unexpected admission into the "Elite Eight" level of the tournament.</p>
+<p>In that mystery, Chartier finds a useful reminder from March Madness: "The beauty of sports, and the beauty of life itself, is the randomness that we can't predict."</p>
+<p>I'm Dan Novak.</p>
+<p><em>Dan Novak adapted this story for VOA Learning English based on reporting by The Associated Press.</em></p>
+<p class="CxSpMiddle"><em>_______________________________________________</em></p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p class="CxSpFirst"><strong>chart </strong><em>— n. </em>information in the form of a table, diagram, etc.</p>
+<p class="CxSpMiddle"><strong>sequence </strong><em>— n. </em>the order in which things happen or should happen</p>
+<p class="CxSpMiddle"><strong>advanced </strong><em>— adj. </em>beyond the basic level</p>
+<p class="CxSpMiddle"><strong>probability </strong><em>— n. </em>the chance that something will happen</p>
+<p class="CxSpMiddle"><strong>random </strong><em>— adj. </em>chosen, done, etc., without a particular plan or pattern</p>
+<p class="CxSpMiddle"><strong>algorithm </strong><em>— n. </em>a set of steps that are followed in order to solve a mathematical problem or to complete a computer process</p>
+<p class="CxSpMiddle"><strong>turnover </strong><em>— n. </em> the amount of money that is received in sales by a store or company</p>
+<p class="CxSpMiddle"><strong>intuition </strong><em>— n. </em>a natural ability or power that makes it possible to know something without any proof or evidence</p>
+<p class="CxSpMiddle"><strong>schedule </strong><em>— n. </em> a plan of things that will be done and the times when they will be done</p>
+<p><strong>sample </strong><em>— n. </em>a group of people or things that are taken from a larger group and studied, tested, or questioned to get information</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>India’s General Election to Stretch over 44 Days  (2024/3/22)</title>
+            <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202403/india-s-general-election-to-stretch-over-44-days.mp3"/>
+            <content:encoded><![CDATA[<div class="content">
+<span class="byline">By Bryan Lynn</span><br/>
+<span class="datetime">21 March 2024</span><br/>
+<p>India will begin the world's largest general election next month.</p>
+<p>The process is expected to stretch over 44 days before results are announced on June 4. Nearly 970 million Indians – more than 10 percent of the world population – will be <strong>eligible</strong> to take part.</p>
+<p>The voting process will choose 543 lawmakers to India's lower house of Parliament. Prime Minister Narendra Modi is seeking a third term in office. He will face off against an alliance of opposition parties struggling to unseat him. Most public opinion studies predict Modi's Hindu nationalist Bharatiya Janata Party will win.</p><div class="contentImage"><img alt="Indian election officials and paramilitary soldiers with election materials walk along the river Brahmaputra to board on a country boat on the eve of the first phase of general election in Majuli, Assam, India. (AP Photo/Anupam Nath, File)" src="https://img.51voa.cn/1/01000000-0aff-0242-6aeb-08dc4921cda8_cx0_cy11_cw98_w268_r1.jpg"/><br/><span class="imagecaption">Indian election officials and paramilitary soldiers with election materials walk along the river Brahmaputra to board on a country boat on the eve of the first phase of general election in Majuli, Assam, India. (AP Photo/Anupam Nath, File)</span></div>
+<p>Here are some of the main facts to know about the election.</p>
+<p><strong>Why will the election take so long?</strong></p>
+<p>There are two main reasons the election will stretch on so long. One is that India is the world's most populous country. The other reason, experts say, is because it will be a huge <strong>logistical</strong> effort to make sure that every registered voter can take part in the process.</p>
+<p>The voting process will take place over seven parts, or stages. The country's 28 states and eight federal territories will vote at different times. Each stage will last one day, with the first held on April 19 and the last held on June 1.</p>
+<p>Voters in some states will <strong>cast</strong> their ballots over a day, while in other places it may take longer. Uttar Pradesh, the largest state with 200 million people, will vote over a period of seven days, for example.</p>
+<p>During the election, voting stations will be set up in <strong>remote</strong> places. This will include a wildlife refuge in southern Kerala state and another in a shipping container in western Gujarat state.</p>
+<p><strong>How is security a concern?</strong></p>
+<p>Experts say one main reason for the multi-stage election is to improve security.</p>
+<p>Tens of thousands of federal security forces will be deployed during the voting. The guards, including those who usually guard borders, will be sent along with state police to prevent violence and to transport electoral officials and voting machines.</p>
+<p>Deadly clashes involving supporters of competing political parties harmed past elections. But such violence has eased over the years, thanks to heavy security.</p>
+<p>The Indian government's elections chief, Rajiv Kumar, said recently, "Look at the geography of the country ... there are rivers, mountains, snow, jungles ... think of the security forces' movements. They will have to travel through the length and breadth of the country."</p>
+<p>Kumar added, "We will <strong>walk the extra mile</strong> so voters don't have to."</p>
+<p>I'm Bryan Lynn.</p>
+<p><em>The Associated Press reported on this story. Bryan Lynn adapted the report for VOA Learning English. </em></p>
+<p><strong>__________________________________________</strong></p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>eligible </strong><em>– adj. </em>able to take part in something</p>
+<p><strong>logistics </strong><em>– n. </em>the practical arrangements for something</p>
+<p><strong>remote </strong><em>– adj. </em>extremely isolated</p>
+<p><strong>walk the extra mile </strong><em>– (phr) </em>going above and beyond what is expected</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>In South America’s ‘Lithium Triangle,’ a Struggle Between Tradition, Industry  (2024/3/22)</title>
+            <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202403/in-south-america-s-lithium-triangle-a-struggle-between-tradition-industry.mp3"/>
+            <content:encoded><![CDATA[<div class="content">
+<span class="byline">By Mario Ritter, Jr</span><br/>
+<span class="datetime">21 March 2024</span><br/>
+<p>An area stretching across Argentina, Bolivia and Chile forms what is called the "Lithium Triangle." The earth there is rich in lithium, a necessary metal in creating <strong>batteries</strong> for electric cars and other products.</p>
+<p>The international effort to develop technologies that do not use oil, gas or coal requires huge amounts of lithium. But small native communities in the Lithium Triangle are worried. They fear their way of life will disappear as industry pushes for new lithium mines. The mining takes place in low, dry areas known as "salt flats."</p>
+<p><strong>Stories from Argentina</strong></p><div class="contentImage"><img alt="FILE - The town of Tusaquillas, in the northern Argentine province of Jujuy, sits near the Guayatayoc salt lagoon, background, on April 24, 2023. (AP Photo/Victor R. Caivano)" src="https://img.51voa.cn/1/01000000-0aff-0242-730e-08dc48625d71_cx0_cy7_cw0_w268_r1.jpg"/><br/><span class="imagecaption">FILE - The town of Tusaquillas, in the northern Argentine province of Jujuy, sits near the Guayatayoc salt lagoon, background, on April 24, 2023. (AP Photo/Victor R. Caivano)</span></div>
+<p>Irene Leonor Flores de Callata is 68 years old. She lives in a desert area of Argentina where she keeps llamas and sheep. The life includes searching for fresh water on a usual basis.</p>
+<p>Her town is one of 38 that surround salt flats called the Guayatoyoc Lagoon and Salinas Grandes. People in the area earn some money from vacationing visitors and salt harvesting. They are a native people known as the Kolla.</p>
+<p>Flores de Callata worries that if the mining expands in her area, there will be no water. She said: "What will we do if we don't have water? If the mines come, we'll lose our culture, we won't be left with anything."</p>
+<p><strong>Lithium's value</strong></p>
+<p>Between 2021 and 2023, the price for one ton of lithium almost tripled in the U.S., reaching $46,000. In China, a main buyer of lithium reportedly paid $76,000 for one ton of the metal last year. Some call the metal "white gold."</p>
+<p>Mining companies around the world are turning their attention to the Lithium Triangle. World leaders are also pushing for lithium production. In the United States, President Joe Biden said he aimed to have electric vehicles make up half of all sales in America by 2030. That would amount to about 8 million electric vehicles. U.S. Secretary of State Antony Blinken has said: "Argentina is <strong>poised</strong> to play a critical role in building supply <strong>chains</strong> for critical minerals that will drive the economy of the 21st century, particularly things like lithium."</p>
+<p>Although prices have recently dropped because of oversupply, experts say worldwide demand is likely to rise in the future.</p>
+<p><strong>Environmental concerns in Chile</strong></p>
+<p>Two lithium mining companies operate in Chile, which borders Argentina to the west. SQM is a Chilean business and Albermarle is an American one. Valentín Barrera, a spokesman for SQM, said lithium is an answer to the problem climate change. "We want to grow, understanding that it's needed to <strong>mitigate</strong> climate change."</p>
+<p>In Chile, SQM pumps thousands of liters of salt water out of the ground and then lets the water dry out in <strong>pools</strong>. The solids in the salty water contain lithium. The pools <strong>evaporate,</strong> leaving a solid substance that is collected and purified.</p>
+<p>Environmentalists, however, are concerned that the mining in the area will harm animals like flamingos and other life. As in Argentina, mining has brought criticism and legal cases. Local people want influence in decisions about the land.</p>
+<p>In 2016, an investigation of SQM found that the company had used more water in their mining process than the law permitted. Later, the company was ordered to pay $51 million to mitigate damage caused by six incidents, including the polluting of fresh water wells.</p>
+<p>Barrera said the court actions and criticism come from "disinformation." He blamed the state-run copper mines, which also use a lot of water.</p>
+<p>An Albermarle spokesperson said the underground salt water "is not water" because it is not drinkable.</p>
+<p>The Associated Press (AP) spoke to a number of scientists. They said it is hard to believe that industrial water use does not affect the environment. They said water pumping can pollute fresh water with salty water and dry out the surrounding area.</p>
+<p>Ingrid Garcés studies water at Chile's University of Antofagasta. She said the salt flats are important for different kinds of animal and plant life. She said the water in the salt flats is not drinkable but is connected to other water sources and is important to natives.</p>
+<p>A 2020 report from the United Nations said that mining has used up 65 percent of the water in Chile's Atacama Salt Flat causing pollution and environmental damage, causing natives to leave "ancestral settlements."</p>
+<p>In April of 2023, Chilean President Gabriel Boric announced a plan to increase government control of lithium mines. The government told the AP the plan would help control water use and spread wealth to more people. The move had the effect of pushing mining companies to invest in neighboring Argentina.</p>
+<p><strong>An opportunity and contradiction</strong></p>
+<p>Miguel Soler is secretary of mining in northern Argentina. He said, "In Argentina, (Chile's decision) is an <strong>opportunity</strong>."</p>
+<p>More than 30 companies are officially seeking permission to mine in the Guayatoyoc Lagoon and Salinas Grandes areas in Argentina. Local people are opposing the business effort.</p>
+<p>The llama herder Flores de Callata and her native Kolla people have fought against mining and brought long legal battles to halt projects in the past also.</p>
+<p>"We are guardians of the highlands," said Flores de Callata, "We defend our land..."</p>
+<p>Last summer, the local government changed laws to limit the ability of groups to protest against the expansion of mining. Alicia Chalabe, an environmental lawyer representing the communities, said the change to local law violates international law. She said there is a lot of "pressure to <strong>exploit</strong> lithium for electric vehicles." But she added, while lithium is important worldwide, "so is the resistance of these communities. They're not alone."</p>
+<p>Flores de Callata lives in the small town of Tusaquillas next to the wide salt flats where mining might take place in the future. She has a small group of farm animals and lives in a home with dried mud walls that she and her husband built. She wonders what will be left in 20 years.</p>
+<p>"If the mines come, we'll have money for a time. But then our grandchildren, our great-grandchildren—they're the ones who will suffer," she said.</p>
+<p>Generations of Ramon Torres' family herded goats near a town close to Chile's Atacama Salt Flats. But when companies started mining lithium in the early 1980s, Torres took a job as a miner and started saving money.</p>
+<p>Today, he uses his wireless phone as he sits next to his small home. He bought the house and his device with his earnings from mining.</p>
+<p>"There is development, but there's also the water issue. And they <strong>contradict</strong> each other," Torres said. "Because everyone needs money, everyone also needs the basics, like healthcare and education."</p>
+<p>I'm Mario Ritter, Jr.</p>
+<p>And I'm Caty Weaver.</p>
+<p><em>Megan Janetsky, Victor Caivano and Rodrigo Abd reported this story for the Associated Press. Mario Ritter, Jr. adapted it for VOA Learning English.</em></p>
+<p>_______________________________________________</p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>battery</strong><strong> </strong><em>–n. </em>a device that stores electricity providing direct current</p>
+<p><strong>poised</strong> <em>–adj.</em> in the right condition to do something; about to</p>
+<p><strong>mitigate </strong>–v. to limit or ease a possibly damaging situation</p>
+<p><strong>pool </strong>–n. a very small body of water</p>
+<p><strong>evaporate</strong> –v. to dry up</p>
+<p><strong>opportunity </strong>–n. a chance to do something that did not exist before</p>
+<p><strong>contradict </strong>–v. to not be in agreement with something</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>Talking about Your Dreams  (2024/3/22)</title>
+            <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202403/talking-about-your-dreams.mp3"/>
+            <content:encoded><![CDATA[<div class="content">
+<span class="byline">By Jill Robbins</span><br/>
+<span class="datetime">21 March 2024</span><br/>
+<p>In an earlier <em>Everyday Grammar</em>, we talked about "Fast Car," a song about young people who had dreams of making their lives better. Then, we asked our readers and listeners to tell us about their own dreams.</p>
+<p>In today's lesson, we will review two answers we received, both from people in their middle years of life, and we give some grammar advice.</p>
+<p><strong>Jairo's dream</strong></p><div class="contentImage"><img alt="" src="https://img.51voa.cn/1/01000000-0aff-0242-dc69-08dc48330aaa_w268_r1.png"/><br/><span class="imagecaption"></span></div>
+<p>First, we want to thank Jairo, a middle-aged man who wrote to us. He said,</p>
+<p><em>"Today everyday grammar topic is about dreams, how can I describe my dream? This is an interesting topic over all for people who already has <strong>certain</strong> age, like me; as well, the time is not longer for following an eternal dream..."</em></p>
+<p>Jairo used an interesting expression to tell us about his age. He said, "people who already has certain age." You might have heard this expression in sentences like:</p>
+<p><em>A person of a certain age needs to be concerned about retirement funds.</em></p>
+<p>Note that the verb "has" is not used, but the preposition "of" is used before "a certain age." As you can guess, this is a <strong>polite</strong> way to describe someone in their 40s, 50s, or 60s. It is often used to talk about women's age without saying how old they are. Sometimes it comes before criticism, so take care in using it.</p>
+<p><strong>Time is growing shorter</strong><strong> </strong></p>
+<p>Jairo said, "the time is not longer for following an eternal dream." We suggest using, "the time is growing shorter" or "there is little time left." Jairo could say,</p>
+<p><em>The time for me to follow my dream is growing shorter.</em></p>
+<p>Jairo continues to tell us about what is now important to meeting his life goals.</p>
+<p><em>"... for that reason I need to be focus on important things, indeed, buy a house, save money for my daughter's scholarship, save money for taking a vacations or save money to be prepare for my retirement time..."</em></p>
+<p>In this statement, Jairo uses "be" before an infinitive verb form two times: "be focus" and "be prepare." We suggest using the adjective form in both:</p>
+<p><em>I need to <u>be focused</u> on important things.</em></p>
+<p><em>I need to save money to <u>be prepared</u> for my retirement.</em></p>
+<p><strong>Kaori's dreams</strong><br/>
+Next, we review a message from Kaori, who is a middle-aged woman in Japan. She begins by saying what she dreamed as a young person, using the expression we heard in the song, "Fast Car" – "to be someone."</p>
+<p><em>"When I was young, I strongly believed I would be someone in the future. I wanted to be the first female Prime Minister in Japan or an executive of the big famous company."</em></p>
+<p>Kaori did earn a job at a company, but then marriage and children and culture forced her to quit working. She says:</p>
+<p><em>"However, I didn't become anyone...I stopped my job and gave up my carrier. Do I regret my decision and my life? No. Not at all.</em></p>
+<p>From the remaining part of Kaori's message, we find she was a success at being a mother, as her two daughters are in college. And she gained a part-time job that helped to pay their school costs when they were younger. The corrections to her message that we suggest are the spelling of "career" and how to say you have quit a job. We can say, "I stopped working," or "I quit working." But Kaori could also say, "I changed jobs," because being a homemaker and mother, although unpaid, is a full-time job. Kaori did all that while holding a part-time job.</p>
+<p>Thinking of how her dream changed over time, Kaori writes:</p>
+<p><em>My past dreams were only thinking, not real. I can say my own dreams have changed everytime. In the future, even if I become old, I hope to find new and enjoyable dreams at anytime.</em></p>
+<p>Two words in this part cause grammatical issues: "everytime" and "anytime." "Every time" should be written as two separate words, but a better way to say this would be:</p>
+<p>I can say my own dreams have changed over the years.</p>
+<p>"Anytime" is an adverb, so it should not appear after the preposition "at." Instead, Kaori could say,</p>
+<p><em>I hope to find new and enjoyable dreams anytime.</em></p>
+<p>Or she could use a different expression:<em> </em></p>
+<p><em>I hope to find new and enjoyable dreams my whole life long.</em></p>
+<p>Thank you, Kaori and Jairo, for writing to us and helping everyone to learn more about how we talk about our dreams. You both showed us that dreams can change over time as our lives become connected with those of others.</p>
+<p>And that's <em>Everyday Grammar</em>!</p>
+<p>I'm Jill Robbins.</p>
+<p><em>Jill Robbins wrote this lesson for VOA Learning English.</em></p>
+<p>______________________________________________</p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>certain </strong>– <em>adj.</em> definite or particular, but not named or specified</p>
+<p><strong>polite </strong>–adj. showing good behavior and consideration for the needs of others</p>
+<p><strong>guess</strong><strong><em> </em></strong><em>– v.</em> to think or suppose</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
             <title>US Libraries Struggle to Pay for Costly Digital Books  (2024/3/21)</title>
             <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
             <enclosure type="audio/mpeg" url="https://files.51voa.cn/202403/us-libraries-struggle-to-pay-for-costly-digital-books.mp3"/>
@@ -1722,156 +1897,6 @@ After close examination, several major news organizations withdrew the photo, sa
 <p><strong>dune </strong><em>– n. </em>a hill of sand in a desert</p>
 <p><strong>luminescence </strong><em>– n. </em>the giving out of light by a substance</p>
 <p><strong>vivid </strong><em>– adj. </em>clear or strong</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>Are Student-athletes Considered College Employees?  (2024/3/10)</title>
-            <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202403/are-student-athletes-considered-college-employees.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By Dan Friedell</span><br/>
-<span class="datetime">09 March 2024</span><br/>
-<p>The Dartmouth College men's basketball team voted to join a labor organization, called a union, this week.</p>
-<p>The move means that the student-athletes on the team could have the right to negotiate a working contract like other university employees.</p>
-<p>In an election held by the National Labor Relations Board (NLRB), the team members voted 13-2 to join Service Employees International Union Local 560. The same union also represents some workers at Dartmouth.</p><div class="contentImage"><img alt="A student walks near the Alumni Gymnasium on the campus of Dartmouth College, Tuesday, March 5, 2024, in Hanover, N.H. (AP Photo/Robert F. Bukaty)" src="https://img.51voa.cn/1/dd226cf9-e035-4344-9bf4-8bdce29beaf2_cx0_cy6_cw0_w268_r1.jpg"/><br/><span class="imagecaption">A student walks near the Alumni Gymnasium on the campus of Dartmouth College, Tuesday, March 5, 2024, in Hanover, N.H. (AP Photo/Robert F. Bukaty)</span></div>
-<p>Cade Haskins and Romeo Myrthil are Dartmouth basketball players. The student-athletes said of the vote, "... we, as students, can also be both <strong>campus</strong> workers and union members. Dartmouth seems to be stuck in the past. It's time for the age of <strong>amateurism</strong> to end."</p>
-<p>However, the school in Hanover, New Hampshire has already appealed the local NLRB decision. In a statement, Dartmouth said, "<strong>Classifying</strong> these students as employees simply because they play basketball is as <strong>unprecedented</strong> as it is inaccurate."</p>
-<p>The school also warned the students that unionizing could get the team removed from athletic competition.</p>
-<p>Both sides have until March 12 to file objections with the NLRB. The case could also end up in federal court, which would likely delay the outcome for some time.</p>
-<p>The Dartmouth vote is the latest effort by student-athletes to unionize and gain money and other rights in exchange for many hours spent practicing and playing sports.</p>
-<p>In 2015, a local NLRB blocked an attempt by students on the football team at Northwestern University in Illinois to form a union. But the decision did not directly answer the question of whether student-athletes are employees.</p>
-<p><strong>Growth of college sports</strong></p>
-<p>The history of college students playing sports for their school goes back over 100 years.</p>
-<p>The National Collegiate Athletic Association, or NCAA, is the governing body for college sports. The organization has long said that its players are "student-athletes" who go to school mainly to study.</p>
-<p>At first, students were not paid to play sports and were considered "amateurs." Gradually, student-athletes from large universities started receiving money for housing, food and <strong>tuition</strong>.</p>
-<p>In recent years, American television networks have spent more money to broadcast college sports around the country and the world. The Big Ten, an athletic organization with college teams from the New York area to Los Angeles, reached an agreement in 2022 to broadcast its football and basketball games for $7 billion.</p>
-<p>As college sports became popular, teams from large universities now regularly play in front of large crowds of up to 100,000 people. And some student-athletes have become even better known than professional athletes.</p>
-<p>In 2021, the U.S. Supreme Court ruled that the NCAA could not prevent college athletes from getting paid by outside groups in return for the use of their name or image.</p>
-<p>That opened the door for some college athletes to make lots of money. This year, one top student-athlete is Caitlin Clark, a basketball player at the University of Iowa. She set college scoring records and reportedly earns nearly $1 million a year for the use of her name and image.</p>
-<p>The Dartmouth basketball players will never be famous enough to make that kind of money. One student-athlete said what he really wants from the union push is to get access to better healthcare so he can heal his basketball injuries.</p>
-<p><strong>What about Dartmouth?</strong></p>
-<p>Tony Clark is the head of the Major League Baseball Players Association. He said the vote gives the Dartmouth basketball players "a seat at the table and powerful voice."</p>
-<p>One basketball coach whose team is very well known – Dan Hurley of the University of Connecticut – said some kind of union or players' organization is the future of college sports.</p>
-<p>"These players are putting in <strong>incredible</strong> work days, work weeks for five, six months," he said. "I think there's so much there that's going to have to be settled."</p>
-<p>A 2015 legal case suggested athletes like the basketball players can spend up to 40 hours per week involved in their sports activities, leaving little time for study or work.</p>
-<p>Haskins said he loves playing basketball. But he has had serious injuries to his ankle, hip and shoulder while playing. "It is definitely a <strong>burden</strong>," he said.</p>
-<p>Union interest among younger workers is growing, says the Economic Policy Institute. Workers under 45 joined unions at <a class="wsw__a" href="https://www.epi.org/publication/union-membership-data/" target="_blank">the highest rate in 2023</a>.</p>
-<p>Myrthil said he will talk about the union with new students who are coming next year. "We'll introduce them to the idea and what it means," he said. "And then hopefully it gets passed on."</p>
-<p>I'm Dan Friedell. And I'm Gena Bennett.</p>
-<p><em>Dan Friedell adapted this story for Learning English based on a report by the Associated Press.</em></p>
-<p>____________________________________________________</p>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p><strong>campus </strong>– <em>n</em>. the grounds or land upon which a school is built</p>
-<p><strong>amateurism </strong>– <em>adj</em>. participating in something, such as a sporting event, without being paid</p>
-<p><strong>classify </strong>– <em>v</em>. to consider something as part of a group with other similar items</p>
-<p><strong>unprecedented </strong>– <em>adj</em>. not existing or having been done before</p>
-<p><strong>tuition </strong>– <em>n</em>. the money paid to attend school</p>
-<p><strong>incredible </strong>– <em>adj</em>. hard to believe, not believable</p>
-<p><strong>burden </strong>– <em>n</em>. a heavy weight, used both literally and figuratively</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>'Dip Your Toes' or 'Take the Plunge'?  (2024/3/10)</title>
-            <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202403/dip-your-toes-or-take-the-plunge.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By Anna Matteo</span><br/>
-<span class="datetime">09 March 2024</span><br/>
-<p>And now, <em>Words and Their Stories, </em>from VOA Learning English.</p>
-<p>Today we talk about trying something new or something you are unsure about.</p>
-<p>People can react differently to these kinds of situations. Some people may want to <u>jump right in feet first</u>. They may want to <u>take the plunge! </u></p><div class="contentImage"><img alt="FILE - Triathletes dive into The Seine river with the Eiffel Tower in the background during the men's 2023 World Triathlon Olympic Games Test Event in Paris. (Photo by Bertrand GUAY / AFP)" src="https://img.51voa.cn/1/01000000-0aff-0242-116f-08dba014e0b4_cx0_cy10_cw0_w268_r1.jpg"/><br/><span class="imagecaption">FILE - Triathletes dive into The Seine river with the Eiffel Tower in the background during the men's 2023 World Triathlon Olympic Games Test Event in Paris. (Photo by Bertrand GUAY / AFP)</span></div>
-<p>And some people may want <u>to test the waters</u>. They may want to <u>dip their toes in </u>first.</p>
-<p>Which kind of person are you? Well, imagine you are standing on the edge of a lake or swimming pool. You want to get into the water, but you don't know the water's temperature.</p>
-<p>Do you jump right in? If you do, you may be more bold and adventurous.</p>
-<p>Or do you want to dip a toe into the water before you decide? If so, you may be more <strong>cautious </strong>and careful.</p>
-<p>If you dip your toes into something, you start doing it slowly and carefully. You are not sure if you will like it. You want to test the waters before beginning something, or before taking the plunge.</p>
-<p>Testing the waters means you get a feel for something before committing to it. For example, if you want to move to a new city, you probably want to test the waters first by going there for a short stay.</p>
-<p>Taking the plunge is the opposite of dipping your toes. When you take the plunge, you jump right into something. You do not wait or <strong>hesitate.</strong></p>
-<p>We use the expression <u>dip your toes in </u>for many situations. You may want to try an activity briefly to find out if you like it first. It can also mean you start something very carefully before becoming involved in something that you are not experienced at.</p>
-<p>Now, let's hear some of these expressions used in a non-water related situation.</p>
-<p><em>A: Hey, I'm going ballroom dancing this Saturday. Do you want to join me?</em></p>
-<p><em>B: Ballroom dancing? I know nothing about ballroom dancing. </em></p>
-<p><em>A: That's fine! This place I found is perfect for you. Before the dance starts, they give a free class to beginners.</em></p>
-<p><em>B: Yeah, I don't know. Maybe I'll just go and watch. You know ... dip my toes in. I like to know what I'm getting into first.</em></p>
-<p><em>A: Sure. But I promise you ... after the first 5 minutes you are going to want to jump in feet first!</em></p>
-<p>That is all the time we have for this <em>Words and Their Stories</em>.</p>
-<p>If you are new to VOA Learning English, there's no need to dip your toes in first. Just take the plunge! Visit our website to find more stories.</p>
-<p>Until next time ... I'm Anna Matteo.</p>
-<p><em>Anna Matteo wrote this lesson for VOA Learning English. </em></p>
-<p>________________________________________________</p>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p><strong>cautious </strong><em>– adj.</em><strong> </strong>careful about avoiding danger or risk</p>
-<p><strong>hesitate </strong><em>– v.</em><strong> </strong>to hold back in doubt or indecision</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>Russia, China Aim to Put a Nuclear Plant on the Moon  (2024/3/9) | 俄罗斯计划在月球建造核电站</title>
-            <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202403/russia-and-china-aim-to-put-a-nuclear-plant-on-the-moon.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<p>Russia and China are considering putting a nuclear power station on the moon in about 10 years.<br/>
-俄罗斯和中国正在考虑在大约10年后将核电站送上月球。</p>
-<p>The head of Russia's space agency Roscosmos, Yuri Borisov, made the statement recently. He added that such a project could support the building of moon settlements one day.<br/>
-俄罗斯航天局局长尤里·鲍里索夫最近发表了上述声明。他补充说，这种项目有一天可以支持月球基地的建设。</p>
-<p>Borisov said that Russia and China had been working on a moon program together. The former deputy defense minister explained that Russia was able to help with its expertise in "nuclear space energy."<br/>
-鲍里索夫说，俄罗斯和中国一直在共同致力于月球计划。这位前国防部副部长解释说，俄罗斯能够利用其在“太空核能”方面的专业知识提供帮助。</p>
-<p>"Today we are seriously considering a project - somewhere at the turn of 2033-2035 - to deliver and install a power unit on the lunar surface together with our Chinese colleagues," Borisov said.<br/>
-鲍里索夫说：“今天，我们正在认真考虑一个项目——在2033至2035年左右——与中国同行一起在月球表面交付和安装发电机组。”</p>
-<p>Solar panels would not be able to provide enough electricity to power future moon settlements, he said, while nuclear power could.<br/>
-他说，太阳能电池板无法为未来的月球基地提供足够电力，而核电可以。</p>
-<p>He said the possible plan should be done "without the presence of humans."<br/>
-他说，这项可能的计划应该在“无人在场的情况下”完成。</p>
-<p>Borisov also spoke about Russian plans to build a nuclear-powered spaceship to carry cargo. He said all the technical questions concerning the project had been solved, except for finding out how to cool the nuclear reactor.<br/>
-鲍里索夫还谈到了俄罗斯建造核动力飞船运载货物的计划。他说，除了找出如何冷却核反应堆的办法之外，有关该项目的所有技术问题都已解决。</p>
-<p>He said the ship would be a large "structure that would be able, thanks to a nuclear reactor and ... high-power turbines...to transport large cargoes from one orbit to another." He added that such a ship could collect objects for many other projects.<br/>
-他说，这艘飞船将是一个大型“结构，由于有核反应堆和大功率涡轮机，将能够将大型货物从一个轨道运输到另一个轨道。”他补充说，这艘飞船可以为许多其他项目收集物体。</p>
-<p>Russian officials have spoken before about plans to mine minerals on the moon. But the Russian space program has suffered a series of problems in recent years.<br/>
-俄罗斯官员此前曾谈到在月球上开采矿产的计划。但近年来，俄罗斯的太空计划遇到了一系列问题。</p>
-<p>Its first moon mission in 47 years failed last year after Russia's Luna-25 spacecraft lost control and crashed.<br/>
-去年，在俄罗斯的月球-25号宇宙飞船失控坠毁后，其47年来的首次月球任务失败了。</p>
-<p>Russian officials have said they will launch further lunar missions and then explore the possibility of a joint Russian-China crewed mission and even a lunar base.<br/>
-俄罗斯官员表示，他们将进一步发动月球任务，然后探索俄中联合载人任务甚至月球基地的可能性。</p>
-<p>Last month, China said it aimed to put the first Chinese astronaut on the moon before 2030.<br/>
-中国上月表示计划在2030年前将首位中国宇航员送上月球。</p>
-<p>Russian President Vladimir Putin last month said a warning by the United States that Russia planned to put nuclear weapons in space was false. Putin said the warning was part of a plan to force Russia into arms negotiations on the West's terms.<br/>
-俄罗斯总统弗拉基米尔·普京上个月表示，美国警告俄罗斯计划在太空部署核武器是虚假的。普京表示，这一警告是迫使俄罗斯按照西方条件进行武器谈判计划的一部分。</p>
-<p>I'm John Russell.<br/>
-我是约翰·拉塞尔。(51VOA.COM原创翻译，请勿转载，违者必究！)</p></div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>An Italian Shop in Rome Is Behind 17 Academy Awards  (2024/3/9)</title>
-            <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.51voa.cn/202403/an-italian-shop-in-rome-is-behind-17-academy-awards.mp3"/>
-            <content:encoded><![CDATA[<div class="content">
-<span class="byline">By Dan Novak</span><br/>
-<span class="datetime">08 March 2024</span><br/>
-<p>In many movies, the clothing the actors wear is an important part of the story. In Rome, there is a workshop that has been a big part of Italian and international film history for 60 years.</p>
-<p>Tirelli Costumes in Rome's Prati neighborhood is an <strong>atelier</strong>, a business that makes special clothing and costumes. It has earned the <strong>nickname</strong> the "Oscar tailor's shop" for its work in film costume design. An "Oscar" is another name for an award from the Academy of Motion Picture Arts and Sciences.</p>
-<p>Umberto Tirelli started the shop in November 1964. It has been behind 17 Academy Awards for best costume design. Most recently, its workers helped create the costumes for Ridley Scott's movie <em>Napoleon</em>. The film's costume designers were nominated for an Oscar that will be decided at the Academy Awards in Hollywood this weekend.</p><div class="contentImage"><img alt="The Amadeus dress by Milos Forman is displayed at the Tirelli Atelier in Rome, Tuesday, March 5, 2024. (AP Photo/Gregorio Borgia) " src="https://img.51voa.cn/1/01000000-0aff-0242-ad63-08dc3e0cba8e_cx0_cy6_cw0_w268_r1.jpg"/><br/><span class="imagecaption">The Amadeus dress by Milos Forman is displayed at the Tirelli Atelier in Rome, Tuesday, March 5, 2024. (AP Photo/Gregorio Borgia) </span></div>
-<p>"Maybe it will win! Let's add another medal to the medal collection," the shop's current head, Dino Trappetti, told <em>The Associated Press</em>. "Of course, the Oscar is not won by the tailor's shop, the Oscar is won by the costume designer. But the tailor's shop has the <strong>merit</strong> and the honor of having participated to make it win."</p>
-<p>The beginning of the atelier started with Tirelli's passion for collecting old clothes. He searched for clothing in houses of <strong>nobility</strong> and <strong>flea markets</strong> worldwide. He slowly built a collection that now has more than 15,000 real pieces of clothing that date from 1750 to 1980.</p>
-<p>At the start, the shop had "a <strong>sewing</strong> machine, two cutters and two other <strong>seamstresses</strong>," Trappetti said.</p>
-<p>Today, the headquarters of Tirelli Costumes has <strong>mannequins</strong> wearing some of the atelier's most famous creations: A pink flowered outfit that actor Tom Hulce wore as Wolfgang Amadeus Mozart in <em>Amadeus</em>, and the red outfit Michelle Pfeiffer wore in <em>The Age of Innocence</em>. The designers of each of those pieces of clothing won Oscars.</p>
-<p>After the 1984 costume design Oscar for <em>Amadeus</em>, Tirelli could have accepted many international projects "because the market was immediately interested," Trappetti said. But Tirelli, who died in 1990, was not sure.</p>
-<p>Trappetti remembered him saying: "I'm not going to America. If America wants, America will come looking for me."</p>
-<p>Over 60 years, the tailor's shop has created more than 300,000 costumes that are now stored near Rome. Costume designers come for ideas and historical information. They also come for hand-cut, hand-sewn creations by the team of Tirelli workers.</p>
-<p>"You can't make those costumes in a factory. In a factory you can make films with robots, futuristic or <strong>fantasy</strong>," Trappetti said. "But these things have to be made by hand."</p>
-<p>I'm Dan Novak.</p>
-<p><em>Dan Novak adapted this story for VOA Learning English based on reporting by The Associated Press.</em></p>
-<p class="CxSpMiddle"><em>_______________________________________</em></p>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p class="CxSpMiddle"><strong>atelier </strong><em>— n. </em>a room or space where artists work; a small shop where skilled workers make things like clothing to order</p>
-<p class="CxSpMiddle"><strong>nickname </strong><em>— n. </em>an informal name for a person or something that is short and easy to use</p>
-<p class="CxSpMiddle"><strong>nobility </strong><em>— n. </em>people who receive their position or rank from a king, queen or royal house</p>
-<p class="CxSpMiddle"><strong>flea market </strong><em>— n. </em>an informal market that contains many sellers who informally gather in a place for a day to offer household objects and homemade art for sale</p>
-<p class="CxSpMiddle"><strong>sew </strong>–v. to make clothes our of cloth with thread</p>
-<p class="CxSpMiddle"><strong>seamstress </strong><em>— n. </em>a woman who sews clothes as a job</p>
-<p class="CxSpMiddle"><strong>mannequin </strong><em>— n. </em>a form shaped like a human body that is used for making and showing clothes</p>
-<p class="CxSpMiddle"><strong>fantasy </strong>–n. a story or idea of pure imagination that is not based in reality</p>
 </div>]]></content:encoded>
             <itunes:explicit>no</itunes:explicit>
           </item>
